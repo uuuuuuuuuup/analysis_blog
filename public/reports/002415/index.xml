@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>海康威视 (002415) on 龟龟投资策略分析报告</title>
-    <link>http://localhost:1313/investment-reports-site/reports/002415/</link>
+    <link>//localhost:1313/reports/002415/</link>
     <description>Recent content in 海康威视 (002415) on 龟龟投资策略分析报告</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <atom:link href="http://localhost:1313/investment-reports-site/reports/002415/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/reports/002415/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/investment-reports-site/reports/002415/data_pack_market/</link>
+      <link>//localhost:1313/reports/002415/data_pack_market/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/investment-reports-site/reports/002415/data_pack_market/</guid>
+      <guid>//localhost:1313/reports/002415/data_pack_market/</guid>
       <description>&lt;h1 id=&#34;海康威视002415市场数据包&#34;&gt;海康威视（002415）市场数据包&lt;/h1&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -171,9 +171,9 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/investment-reports-site/reports/002415/data_pack_report/</link>
+      <link>//localhost:1313/reports/002415/data_pack_report/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/investment-reports-site/reports/002415/data_pack_report/</guid>
+      <guid>//localhost:1313/reports/002415/data_pack_report/</guid>
       <description>&lt;h1 id=&#34;海康威视002415深度财务数据采集报告&#34;&gt;海康威视（002415）深度财务数据采集报告&lt;/h1&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -435,9 +435,9 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/investment-reports-site/reports/002415/%E6%B5%B7%E5%BA%B7%E5%A8%81%E8%A7%86_%E9%BE%9F%E9%BE%9F%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</link>
+      <link>//localhost:1313/reports/002415/%E6%B5%B7%E5%BA%B7%E5%A8%81%E8%A7%86_%E9%BE%9F%E9%BE%9F%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/investment-reports-site/reports/002415/%E6%B5%B7%E5%BA%B7%E5%A8%81%E8%A7%86_%E9%BE%9F%E9%BE%9F%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</guid>
+      <guid>//localhost:1313/reports/002415/%E6%B5%B7%E5%BA%B7%E5%A8%81%E8%A7%86_%E9%BE%9F%E9%BE%9F%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</guid>
       <description>&lt;h1 id=&#34;海康威视002415sz龟龟投资策略分析报告&#34;&gt;海康威视（002415.SZ）龟龟投资策略分析报告&lt;/h1&gt;
 &lt;table&gt;
   &lt;thead&gt;

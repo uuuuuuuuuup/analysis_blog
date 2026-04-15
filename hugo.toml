@@ -1,4 +1,4 @@
-baseURL = 'https://your-username.github.io/investment-reports-site'
+baseURL = ''
 languageCode = 'zh-CN'
 title = '龟龟投资策略分析报告'
 theme = 'PaperMod'

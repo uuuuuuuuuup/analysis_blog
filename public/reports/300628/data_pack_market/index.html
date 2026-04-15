@@ -1,0 +1,2090 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head><script src="/investment-reports-site/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=investment-reports-site/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>龟龟投资策略分析报告</title>
+<meta name="keywords" content="">
+<meta name="description" content="龟龟投资策略 - 市场数据包 (Data Pack - Market)
+
+  
+      
+          元数据
+          值
+      
+  
+  
+      
+          股票代码
+          300628.SZ
+      
+      
+          公司名称
+          亿联网络（Yealink）
+      
+      
+          持股渠道
+          A股直接持有
+      
+      
+          目标年份
+          2025
+      
+      
+          数据采集时间
+          2026-04-15
+      
+      
+          金额单位
+          百万元（人民币），除非另有标注
+      
+      
+          数据来源
+          AI-Tools MCP / WebSearch / 东方财富
+      
+  
+
+
+一、基础市场数据（股价/市值/股息/回购）
+1.1 实时股价与市值
+
+  
+      
+          指标
+          值
+          数据来源
+      
+  
+  
+      
+          当前股价
+          35.29 元
+          AI-Tools MCP: QueryStockPriceInfo
+      
+      
+          涨跌幅
+          -1.94%
+          AI-Tools MCP: QueryStockPriceInfo
+      
+      
+          涨跌额
+          -0.11 元
+          AI-Tools MCP: QueryStockPriceInfo
+      
+      
+          成交量
+          7,564,246 股
+          AI-Tools MCP: QueryStockPriceInfo
+      
+      
+          成交额
+          269.44 百万元
+          AI-Tools MCP: QueryStockPriceInfo
+      
+      
+          总股本
+          约 1,263 百万股
+          WebSearch（按2024年度分红推算）
+      
+      
+          总市值
+          约 44,557 百万元
+          计算：35.29 x 1,263
+      
+      
+          市盈率TTM
+          约 16.4
+          WebSearch: 理杏仁
+      
+      
+          市净率
+          约 4.81
+          WebSearch: 理杏仁
+      
+  
+
+
+注：QueryStockPriceInfo 返回的 PE/PB/市值为 0，已通过 WebSearch 补充。">
+<meta name="author" content="投资分析报告">
+<link rel="canonical" href="http://localhost:1313/investment-reports-site/reports/300628/data_pack_market/">
+<link crossorigin="anonymous" href="/investment-reports-site/assets/css/stylesheet.47e51c7d8489b002361bac156ce9a0a8776d08c5462c2cee95801efafdd90d35.css" integrity="sha256-R&#43;UcfYSJsAI2G6wVbOmgqHdtCMVGLCzulYAe&#43;v3ZDTU=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/investment-reports-site/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/investment-reports-site/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/investment-reports-site/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/investment-reports-site/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/investment-reports-site/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/investment-reports-site/reports/300628/data_pack_market/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="http://localhost:1313/investment-reports-site/" accesskey="h" title="龟龟投资策略分析报告 (Alt + H)">龟龟投资策略分析报告</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="http://localhost:1313/investment-reports-site/" title="🏠 首页">
+                    <span>🏠 首页</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/investment-reports-site/summary/" title="📊 报告汇总">
+                    <span>📊 报告汇总</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/investment-reports-site/reports/" title="📈 个股分析">
+                    <span>📈 个股分析</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/investment-reports-site/about/" title="ℹ️ 关于">
+                    <span>ℹ️ 关于</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      
+    </h1>
+    <div class="post-meta"><span>投资分析报告</span>
+
+</div>
+  </header> 
+  <div class="post-content md-content"><h1 id="龟龟投资策略---市场数据包-data-pack---market">龟龟投资策略 - 市场数据包 (Data Pack - Market)<a hidden class="anchor" aria-hidden="true" href="#龟龟投资策略---市场数据包-data-pack---market">#</a></h1>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">元数据</th>
+          <th style="text-align: left">值</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">股票代码</td>
+          <td style="text-align: left">300628.SZ</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">公司名称</td>
+          <td style="text-align: left">亿联网络（Yealink）</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">持股渠道</td>
+          <td style="text-align: left">A股直接持有</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">目标年份</td>
+          <td style="text-align: left">2025</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">数据采集时间</td>
+          <td style="text-align: left">2026-04-15</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">金额单位</td>
+          <td style="text-align: left">百万元（人民币），除非另有标注</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">数据来源</td>
+          <td style="text-align: left">AI-Tools MCP / WebSearch / 东方财富</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h2 id="一基础市场数据股价市值股息回购">一、基础市场数据（股价/市值/股息/回购）<a hidden class="anchor" aria-hidden="true" href="#一基础市场数据股价市值股息回购">#</a></h2>
+<h3 id="11-实时股价与市值">1.1 实时股价与市值<a hidden class="anchor" aria-hidden="true" href="#11-实时股价与市值">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">指标</th>
+          <th style="text-align: right">值</th>
+          <th style="text-align: left">数据来源</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">当前股价</td>
+          <td style="text-align: right">35.29 元</td>
+          <td style="text-align: left">AI-Tools MCP: QueryStockPriceInfo</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">涨跌幅</td>
+          <td style="text-align: right">-1.94%</td>
+          <td style="text-align: left">AI-Tools MCP: QueryStockPriceInfo</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">涨跌额</td>
+          <td style="text-align: right">-0.11 元</td>
+          <td style="text-align: left">AI-Tools MCP: QueryStockPriceInfo</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">成交量</td>
+          <td style="text-align: right">7,564,246 股</td>
+          <td style="text-align: left">AI-Tools MCP: QueryStockPriceInfo</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">成交额</td>
+          <td style="text-align: right">269.44 百万元</td>
+          <td style="text-align: left">AI-Tools MCP: QueryStockPriceInfo</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">总股本</td>
+          <td style="text-align: right">约 1,263 百万股</td>
+          <td style="text-align: left">WebSearch（按2024年度分红推算）</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">总市值</td>
+          <td style="text-align: right">约 44,557 百万元</td>
+          <td style="text-align: left">计算：35.29 x 1,263</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">市盈率TTM</td>
+          <td style="text-align: right">约 16.4</td>
+          <td style="text-align: left">WebSearch: 理杏仁</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">市净率</td>
+          <td style="text-align: right">约 4.81</td>
+          <td style="text-align: left">WebSearch: 理杏仁</td>
+      </tr>
+  </tbody>
+</table>
+<blockquote>
+<p>注：QueryStockPriceInfo 返回的 PE/PB/市值为 0，已通过 WebSearch 补充。</p>
+</blockquote>
+<h3 id="12-股息率与分红历史">1.2 股息率与分红历史<a hidden class="anchor" aria-hidden="true" href="#12-股息率与分红历史">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">年度/期间</th>
+          <th style="text-align: left">分红方案</th>
+          <th style="text-align: right">每股派息(元)</th>
+          <th style="text-align: right">派现总额(百万元)</th>
+          <th style="text-align: right">股息率(%)</th>
+          <th style="text-align: left">除权除息日</th>
+          <th style="text-align: left">数据来源</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">2025中期</td>
+          <td style="text-align: left">10派5.00元(含税)</td>
+          <td style="text-align: right">0.50</td>
+          <td style="text-align: right">约632</td>
+          <td style="text-align: right">约1.42</td>
+          <td style="text-align: left">2025-09-29</td>
+          <td style="text-align: left">WebSearch: 东方财富</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2024年度</td>
+          <td style="text-align: left">10派13.00元(含税)</td>
+          <td style="text-align: right">1.30</td>
+          <td style="text-align: right">1,641</td>
+          <td style="text-align: right">3.70</td>
+          <td style="text-align: left">2025-05-30</td>
+          <td style="text-align: left">WebSearch: 东方财富/证券时报</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2024中期</td>
+          <td style="text-align: left">10派6.00元(含税)</td>
+          <td style="text-align: right">0.60</td>
+          <td style="text-align: right">757</td>
+          <td style="text-align: right">1.90</td>
+          <td style="text-align: left">2024-09</td>
+          <td style="text-align: left">WebSearch: 东方财富</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2023年度</td>
+          <td style="text-align: left">10派9.00元(含税)</td>
+          <td style="text-align: right">0.90</td>
+          <td style="text-align: right">1,136</td>
+          <td style="text-align: right">1.84</td>
+          <td style="text-align: left">2024-06-04</td>
+          <td style="text-align: left">WebSearch: 东方财富</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2023中期</td>
+          <td style="text-align: left">10派5.00元(含税)</td>
+          <td style="text-align: right">0.50</td>
+          <td style="text-align: right">约632</td>
+          <td style="text-align: right">&ndash;</td>
+          <td style="text-align: left">2023-09</td>
+          <td style="text-align: left">WebSearch: 东方财富</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2022年度</td>
+          <td style="text-align: left">10转4派13元(含税)</td>
+          <td style="text-align: right">1.30(转增前)</td>
+          <td style="text-align: right">1,172</td>
+          <td style="text-align: right">1.79</td>
+          <td style="text-align: left">2023-06</td>
+          <td style="text-align: left">WebSearch: 证券时报</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2021年度</td>
+          <td style="text-align: left">10派8元(含税)</td>
+          <td style="text-align: right">0.80</td>
+          <td style="text-align: right">&ndash;</td>
+          <td style="text-align: right">1.00</td>
+          <td style="text-align: left">2022-06</td>
+          <td style="text-align: left">WebSearch: 证券时报</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2020年度</td>
+          <td style="text-align: left">10派6.5元(含税)</td>
+          <td style="text-align: right">0.65</td>
+          <td style="text-align: right">&ndash;</td>
+          <td style="text-align: right">0.86</td>
+          <td style="text-align: left">2021-06-02</td>
+          <td style="text-align: left">WebSearch: 搜狐证券</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>滚动股息率（TTM）</strong>：按2024年度+2024中期合计每股1.90元计算，股息率 = 1.90 / 35.29 = <strong>5.38%</strong></p>
+<p><strong>静态股息率</strong>：WebSearch 理杏仁数据显示约 <strong>5.45%</strong>（静5.75%）</p>
+<h3 id="13-回购历史">1.3 回购历史<a hidden class="anchor" aria-hidden="true" href="#13-回购历史">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">时间</th>
+          <th style="text-align: left">回购内容</th>
+          <th style="text-align: left">数据来源</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">2023年1月-9月</td>
+          <td style="text-align: left">回购完成，拟回购142.86万股，使用自有资金以集中竞价方式回购，用于事业合伙人持股计划或限制性股票激励计划</td>
+          <td style="text-align: left">WebSearch: 巨潮资讯/新浪财经</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2025年</td>
+          <td style="text-align: left">合伙人持股计划完成股票购买（非传统回购）</td>
+          <td style="text-align: left">WebSearch: 巨潮资讯</td>
+      </tr>
+  </tbody>
+</table>
+<blockquote>
+<p>注：亿联网络历史上回购规模较小，主要为股权激励用途，非大规模市值管理回购。</p>
+</blockquote>
+<hr>
+<h2 id="二财务报表数据利润表资产负债现金流近5年">二、财务报表数据（利润表/资产负债/现金流，近5年）<a hidden class="anchor" aria-hidden="true" href="#二财务报表数据利润表资产负债现金流近5年">#</a></h2>
+<h3 id="21-利润表百万元">2.1 利润表（百万元）<a hidden class="anchor" aria-hidden="true" href="#21-利润表百万元">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">报告期</th>
+          <th style="text-align: right">营业总收入</th>
+          <th style="text-align: right">营业成本</th>
+          <th style="text-align: right">税金及附加</th>
+          <th style="text-align: right">销售费用</th>
+          <th style="text-align: right">管理费用</th>
+          <th style="text-align: right">财务费用</th>
+          <th style="text-align: right">研发费用</th>
+          <th style="text-align: right">营业利润</th>
+          <th style="text-align: right">净利润</th>
+          <th style="text-align: right">营收同比</th>
+          <th style="text-align: right">净利同比</th>
+          <th style="text-align: left">数据来源</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">2025Q3(1-9月)</td>
+          <td style="text-align: right">4,298.34</td>
+          <td style="text-align: right">2,251.23</td>
+          <td style="text-align: right">50.08</td>
+          <td style="text-align: right">233.17</td>
+          <td style="text-align: right">111.49</td>
+          <td style="text-align: right">-25.08</td>
+          <td style="text-align: right">331.84</td>
+          <td style="text-align: right">2,166.57</td>
+          <td style="text-align: right">1,958.12</td>
+          <td style="text-align: right">+4.59%</td>
+          <td style="text-align: right">-5.16%</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2025H1(1-6月)</td>
+          <td style="text-align: right">2,649.84</td>
+          <td style="text-align: right">1,362.10</td>
+          <td style="text-align: right">40.01</td>
+          <td style="text-align: right">147.80</td>
+          <td style="text-align: right">67.35</td>
+          <td style="text-align: right">-29.92</td>
+          <td style="text-align: right">214.23</td>
+          <td style="text-align: right">1,369.38</td>
+          <td style="text-align: right">1,240.04</td>
+          <td style="text-align: right">-0.64%</td>
+          <td style="text-align: right">-8.84%</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2025Q1(1-3月)</td>
+          <td style="text-align: right">1,205.15</td>
+          <td style="text-align: right">630.82</td>
+          <td style="text-align: right">18.66</td>
+          <td style="text-align: right">65.01</td>
+          <td style="text-align: right">34.76</td>
+          <td style="text-align: right">-19.79</td>
+          <td style="text-align: right">104.79</td>
+          <td style="text-align: right">611.54</td>
+          <td style="text-align: right">562.06</td>
+          <td style="text-align: right">+3.57%</td>
+          <td style="text-align: right">-1.15%</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>2024年度</strong></td>
+          <td style="text-align: right"><strong>5,621.34</strong></td>
+          <td style="text-align: right"><strong>2,948.88</strong></td>
+          <td style="text-align: right"><strong>66.70</strong></td>
+          <td style="text-align: right"><strong>291.40</strong></td>
+          <td style="text-align: right"><strong>156.29</strong></td>
+          <td style="text-align: right"><strong>-67.24</strong></td>
+          <td style="text-align: right"><strong>559.35</strong></td>
+          <td style="text-align: right"><strong>2,893.73</strong></td>
+          <td style="text-align: right"><strong>2,647.86</strong></td>
+          <td style="text-align: right"><strong>+29.28%</strong></td>
+          <td style="text-align: right"><strong>+31.72%</strong></td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2024Q3(1-9月)</td>
+          <td style="text-align: right">4,109.74</td>
+          <td style="text-align: right">2,008.82</td>
+          <td style="text-align: right">45.23</td>
+          <td style="text-align: right">186.68</td>
+          <td style="text-align: right">90.41</td>
+          <td style="text-align: right">-26.64</td>
+          <td style="text-align: right">308.01</td>
+          <td style="text-align: right">2,260.70</td>
+          <td style="text-align: right">2,064.63</td>
+          <td style="text-align: right">+27.49%</td>
+          <td style="text-align: right">+27.91%</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>历史年度汇总（百万元，来自WebSearch补充）：</strong></p>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">年度</th>
+          <th style="text-align: right">营业总收入</th>
+          <th style="text-align: right">净利润</th>
+          <th style="text-align: right">营收同比</th>
+          <th style="text-align: right">净利同比</th>
+          <th style="text-align: left">数据来源</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">2020</td>
+          <td style="text-align: right">2,754.29</td>
+          <td style="text-align: right">⚠️未找到：2020年度净利润精确值（估算约1,279）</td>
+          <td style="text-align: right">+10.64%</td>
+          <td style="text-align: right">&ndash;</td>
+          <td style="text-align: left">WebSearch: 新浪财经</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2021</td>
+          <td style="text-align: right">3,684.24</td>
+          <td style="text-align: right">⚠️未找到：2021年度净利润精确值（估算约1,617）</td>
+          <td style="text-align: right">+33.76%</td>
+          <td style="text-align: right">&ndash;</td>
+          <td style="text-align: left">WebSearch: 东方财富公告</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2022</td>
+          <td style="text-align: right">4,810.55</td>
+          <td style="text-align: right">2,178.00</td>
+          <td style="text-align: right">+30.57%</td>
+          <td style="text-align: right">+34.75%</td>
+          <td style="text-align: left">WebSearch: 新浪财经</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2023</td>
+          <td style="text-align: right">4,348.04</td>
+          <td style="text-align: right">2,010.00(估)</td>
+          <td style="text-align: right">-9.61%</td>
+          <td style="text-align: right">-7.69%</td>
+          <td style="text-align: left">WebSearch: 中证网</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2024</td>
+          <td style="text-align: right">5,621.34</td>
+          <td style="text-align: right">2,647.86</td>
+          <td style="text-align: right">+29.28%</td>
+          <td style="text-align: right">+31.72%</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="22-资产负债表百万元">2.2 资产负债表（百万元）<a hidden class="anchor" aria-hidden="true" href="#22-资产负债表百万元">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">报告期</th>
+          <th style="text-align: right">总资产</th>
+          <th style="text-align: right">总负债</th>
+          <th style="text-align: right">股东权益</th>
+          <th style="text-align: right">流动资产</th>
+          <th style="text-align: right">流动负债</th>
+          <th style="text-align: right">货币资金</th>
+          <th style="text-align: right">应收账款</th>
+          <th style="text-align: right">存货</th>
+          <th style="text-align: right">固定资产</th>
+          <th style="text-align: right">无形资产</th>
+          <th style="text-align: right">应付账款</th>
+          <th style="text-align: right">资本公积</th>
+          <th style="text-align: left">数据来源</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">2025Q3</td>
+          <td style="text-align: right">9,783.33</td>
+          <td style="text-align: right">1,109.10</td>
+          <td style="text-align: right">8,674.23</td>
+          <td style="text-align: right">8,067.34</td>
+          <td style="text-align: right">1,080.98</td>
+          <td style="text-align: right">842.60</td>
+          <td style="text-align: right">1,217.16</td>
+          <td style="text-align: right">1,192.05</td>
+          <td style="text-align: right">1,089.69</td>
+          <td style="text-align: right">25.41</td>
+          <td style="text-align: right">805.98</td>
+          <td style="text-align: right">980.17</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2025H1</td>
+          <td style="text-align: right">9,450.93</td>
+          <td style="text-align: right">850.50</td>
+          <td style="text-align: right">8,600.44</td>
+          <td style="text-align: right">7,734.62</td>
+          <td style="text-align: right">820.51</td>
+          <td style="text-align: right">799.55</td>
+          <td style="text-align: right">946.52</td>
+          <td style="text-align: right">1,050.08</td>
+          <td style="text-align: right">1,066.47</td>
+          <td style="text-align: right">25.49</td>
+          <td style="text-align: right">609.89</td>
+          <td style="text-align: right">973.48</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2025Q1</td>
+          <td style="text-align: right">10,168.93</td>
+          <td style="text-align: right">659.20</td>
+          <td style="text-align: right">9,509.73</td>
+          <td style="text-align: right">8,444.89</td>
+          <td style="text-align: right">630.44</td>
+          <td style="text-align: right">801.76</td>
+          <td style="text-align: right">789.87</td>
+          <td style="text-align: right">894.68</td>
+          <td style="text-align: right">1,070.97</td>
+          <td style="text-align: right">25.58</td>
+          <td style="text-align: right">469.10</td>
+          <td style="text-align: right">921.99</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>2024年度</strong></td>
+          <td style="text-align: right"><strong>9,774.51</strong></td>
+          <td style="text-align: right"><strong>826.84</strong></td>
+          <td style="text-align: right"><strong>8,947.67</strong></td>
+          <td style="text-align: right"><strong>8,036.75</strong></td>
+          <td style="text-align: right"><strong>796.37</strong></td>
+          <td style="text-align: right"><strong>500.98</strong></td>
+          <td style="text-align: right"><strong>921.66</strong></td>
+          <td style="text-align: right"><strong>813.19</strong></td>
+          <td style="text-align: right"><strong>1,076.50</strong></td>
+          <td style="text-align: right"><strong>25.83</strong></td>
+          <td style="text-align: right"><strong>469.70</strong></td>
+          <td style="text-align: right"><strong>921.99</strong></td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2024Q3</td>
+          <td style="text-align: right">9,116.51</td>
+          <td style="text-align: right">820.10</td>
+          <td style="text-align: right">8,296.41</td>
+          <td style="text-align: right">7,385.98</td>
+          <td style="text-align: right">800.85</td>
+          <td style="text-align: right">564.54</td>
+          <td style="text-align: right">783.98</td>
+          <td style="text-align: right">866.58</td>
+          <td style="text-align: right">1,082.97</td>
+          <td style="text-align: right">26.79</td>
+          <td style="text-align: right">640.24</td>
+          <td style="text-align: right">854.18</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+  </tbody>
+</table>
+<blockquote>
+<p>注：在建工程均为0；长期借款、少数股东权益均为0或极小；公司无有息负债。</p>
+</blockquote>
+<h3 id="23-现金流量表百万元">2.3 现金流量表（百万元）<a hidden class="anchor" aria-hidden="true" href="#23-现金流量表百万元">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">报告期</th>
+          <th style="text-align: right">经营活动现金流</th>
+          <th style="text-align: right">投资活动现金流</th>
+          <th style="text-align: right">筹资活动现金流</th>
+          <th style="text-align: right">净现金流</th>
+          <th style="text-align: right">自由现金流(估)</th>
+          <th style="text-align: right">期初现金</th>
+          <th style="text-align: right">期末现金</th>
+          <th style="text-align: left">数据来源</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">2025Q3</td>
+          <td style="text-align: right">1,459.68</td>
+          <td style="text-align: right">1,062.63</td>
+          <td style="text-align: right">-2,220.77</td>
+          <td style="text-align: right">328.15</td>
+          <td style="text-align: right">-2,362.78</td>
+          <td style="text-align: right">450.67</td>
+          <td style="text-align: right">778.82</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2025H1</td>
+          <td style="text-align: right">954.20</td>
+          <td style="text-align: right">906.71</td>
+          <td style="text-align: right">-1,591.13</td>
+          <td style="text-align: right">297.89</td>
+          <td style="text-align: right">-1,567.57</td>
+          <td style="text-align: right">450.67</td>
+          <td style="text-align: right">748.56</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2025Q1</td>
+          <td style="text-align: right">441.64</td>
+          <td style="text-align: right">-157.80</td>
+          <td style="text-align: right">-1.90</td>
+          <td style="text-align: right">300.43</td>
+          <td style="text-align: right">-368.70</td>
+          <td style="text-align: right">450.67</td>
+          <td style="text-align: right">751.10</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>2024年度</strong></td>
+          <td style="text-align: right"><strong>2,508.93</strong></td>
+          <td style="text-align: right"><strong>-623.51</strong></td>
+          <td style="text-align: right"><strong>-1,898.66</strong></td>
+          <td style="text-align: right"><strong>50.78</strong></td>
+          <td style="text-align: right"><strong>-4,712.82</strong></td>
+          <td style="text-align: right"><strong>399.89</strong></td>
+          <td style="text-align: right"><strong>450.67</strong></td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2024Q3</td>
+          <td style="text-align: right">1,970.69</td>
+          <td style="text-align: right">58.96</td>
+          <td style="text-align: right">-1,898.60</td>
+          <td style="text-align: right">164.65</td>
+          <td style="text-align: right">-2,715.75</td>
+          <td style="text-align: right">399.89</td>
+          <td style="text-align: right">564.54</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+  </tbody>
+</table>
+<blockquote>
+<p>注：自由现金流 = 经营现金流 - 投资支付现金，为AI-Tools MCP计算值，数值偏大可能因投资支付包含理财赎回等非资本性支出。</p>
+</blockquote>
+<h3 id="24-经营活动现金流出明细百万元">2.4 经营活动现金流出明细（百万元）<a hidden class="anchor" aria-hidden="true" href="#24-经营活动现金流出明细百万元">#</a></h3>
+<blockquote>
+<p><strong>本节为因子3分析必填项，数据来源为 WebSearch（东方财富PC_HSF10/证券之星/中财网）</strong></p>
+</blockquote>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">科目</th>
+          <th style="text-align: right">2025Q3(1-9月)</th>
+          <th style="text-align: right">2025H1(1-6月)</th>
+          <th style="text-align: right">2025Q1(1-3月)</th>
+          <th style="text-align: right">2024年度</th>
+          <th style="text-align: right">2024Q3(1-9月)</th>
+          <th style="text-align: left">数据来源</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">购买商品、接受劳务支付的现金</td>
+          <td style="text-align: right">1,882.00</td>
+          <td style="text-align: right">1,101.00</td>
+          <td style="text-align: right">543.40</td>
+          <td style="text-align: right">2,267.00</td>
+          <td style="text-align: right">1,526.00</td>
+          <td style="text-align: left">WebSearch: 东方财富PC_HSF10</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">支付给职工及为职工支付的现金</td>
+          <td style="text-align: right">554.80</td>
+          <td style="text-align: right">423.20</td>
+          <td style="text-align: right">286.70</td>
+          <td style="text-align: right">626.50</td>
+          <td style="text-align: right">481.60</td>
+          <td style="text-align: left">WebSearch: 东方财富PC_HSF10</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">支付的各项税费</td>
+          <td style="text-align: right">350.20</td>
+          <td style="text-align: right">203.20</td>
+          <td style="text-align: right">93.10</td>
+          <td style="text-align: right">287.00</td>
+          <td style="text-align: right">⚠️未找到</td>
+          <td style="text-align: left">WebSearch: 东方财富PC_HSF10/中财网</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">支付利息</td>
+          <td style="text-align: right">⚠️未找到</td>
+          <td style="text-align: right">⚠️未找到</td>
+          <td style="text-align: right">⚠️未找到</td>
+          <td style="text-align: right">⚠️未找到</td>
+          <td style="text-align: right">⚠️未找到</td>
+          <td style="text-align: left">&ndash;</td>
+      </tr>
+  </tbody>
+</table>
+<blockquote>
+<p>注：亿联网络无有息负债，利息支出极低（财务费用为负值，即利息收入），&ldquo;支付利息&quot;项目金额可忽略。年度数据中2020-2023年的经营活动现金流出明细未能通过现有工具完整获取，标注为缺失。</p>
+</blockquote>
+<p><strong>历史年度经营活动现金流出明细（部分，百万元）：</strong></p>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">科目</th>
+          <th style="text-align: right">2024年度</th>
+          <th style="text-align: right">2023年度</th>
+          <th style="text-align: right">2022年度</th>
+          <th style="text-align: right">2021年度</th>
+          <th style="text-align: right">2020年度</th>
+          <th style="text-align: left">数据来源</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">购买商品、接受劳务支付的现金</td>
+          <td style="text-align: right">2,267.00</td>
+          <td style="text-align: right">⚠️未找到</td>
+          <td style="text-align: right">⚠️未找到</td>
+          <td style="text-align: right">⚠️未找到</td>
+          <td style="text-align: right">⚠️未找到</td>
+          <td style="text-align: left">WebSearch</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">支付给职工及为职工支付的现金</td>
+          <td style="text-align: right">626.50</td>
+          <td style="text-align: right">⚠️未找到</td>
+          <td style="text-align: right">⚠️未找到</td>
+          <td style="text-align: right">⚠️未找到</td>
+          <td style="text-align: right">⚠️未找到</td>
+          <td style="text-align: left">WebSearch</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">支付的各项税费</td>
+          <td style="text-align: right">287.00</td>
+          <td style="text-align: right">⚠️未找到</td>
+          <td style="text-align: right">⚠️未找到</td>
+          <td style="text-align: right">⚠️未找到</td>
+          <td style="text-align: right">⚠️未找到</td>
+          <td style="text-align: left">WebSearch</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="25-财务比率">2.5 财务比率<a hidden class="anchor" aria-hidden="true" href="#25-财务比率">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">指标</th>
+          <th style="text-align: right">2025Q3</th>
+          <th style="text-align: right">2025H1</th>
+          <th style="text-align: right">2025Q1</th>
+          <th style="text-align: right">2024年度</th>
+          <th style="text-align: right">2024Q3</th>
+          <th style="text-align: left">数据来源</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">每股收益(元)</td>
+          <td style="text-align: right">1.549</td>
+          <td style="text-align: right">0.981</td>
+          <td style="text-align: right">0.445</td>
+          <td style="text-align: right">2.095</td>
+          <td style="text-align: right">1.634</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">每股净资产(元)</td>
+          <td style="text-align: right">6.848</td>
+          <td style="text-align: right">6.791</td>
+          <td style="text-align: right">7.525</td>
+          <td style="text-align: right">7.080</td>
+          <td style="text-align: right">6.565</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">每股经营现金流(元)</td>
+          <td style="text-align: right">1.152</td>
+          <td style="text-align: right">0.753</td>
+          <td style="text-align: right">0.350</td>
+          <td style="text-align: right">1.985</td>
+          <td style="text-align: right">1.559</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">ROE(%)</td>
+          <td style="text-align: right">21.39</td>
+          <td style="text-align: right">13.33</td>
+          <td style="text-align: right">6.09</td>
+          <td style="text-align: right">30.68</td>
+          <td style="text-align: right">24.10</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">ROA(%)</td>
+          <td style="text-align: right">20.02</td>
+          <td style="text-align: right">12.90</td>
+          <td style="text-align: right">5.64</td>
+          <td style="text-align: right">28.38</td>
+          <td style="text-align: right">22.94</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">毛利率(%)</td>
+          <td style="text-align: right">63.95</td>
+          <td style="text-align: right">65.18</td>
+          <td style="text-align: right">64.54</td>
+          <td style="text-align: right">65.45</td>
+          <td style="text-align: right">65.81</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">净利率(%)</td>
+          <td style="text-align: right">45.56</td>
+          <td style="text-align: right">46.80</td>
+          <td style="text-align: right">46.64</td>
+          <td style="text-align: right">47.10</td>
+          <td style="text-align: right">50.24</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">资产负债率(%)</td>
+          <td style="text-align: right">11.34</td>
+          <td style="text-align: right">9.00</td>
+          <td style="text-align: right">6.48</td>
+          <td style="text-align: right">8.46</td>
+          <td style="text-align: right">9.00</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">流动比率</td>
+          <td style="text-align: right">7.46</td>
+          <td style="text-align: right">9.43</td>
+          <td style="text-align: right">13.40</td>
+          <td style="text-align: right">10.09</td>
+          <td style="text-align: right">9.22</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">速动比率</td>
+          <td style="text-align: right">6.30</td>
+          <td style="text-align: right">8.09</td>
+          <td style="text-align: right">11.88</td>
+          <td style="text-align: right">8.97</td>
+          <td style="text-align: right">8.06</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">存货周转天数</td>
+          <td style="text-align: right">174.68</td>
+          <td style="text-align: right">181.76</td>
+          <td style="text-align: right">179.82</td>
+          <td style="text-align: right">142.70</td>
+          <td style="text-align: right">153.07</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">应收账款周转天数</td>
+          <td style="text-align: right">67.17</td>
+          <td style="text-align: right">63.45</td>
+          <td style="text-align: right">63.91</td>
+          <td style="text-align: right">55.91</td>
+          <td style="text-align: right">52.83</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">总资产周转率</td>
+          <td style="text-align: right">0.44</td>
+          <td style="text-align: right">0.28</td>
+          <td style="text-align: right">0.12</td>
+          <td style="text-align: right">0.60</td>
+          <td style="text-align: right">0.46</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">人力投入回报率(%)</td>
+          <td style="text-align: right">494.88</td>
+          <td style="text-align: right">451.47</td>
+          <td style="text-align: right">417.27</td>
+          <td style="text-align: right">389.98</td>
+          <td style="text-align: right">549.84</td>
+          <td style="text-align: left">AI-Tools MCP</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h2 id="三历史价格数据月线">三、历史价格数据（月线）<a hidden class="anchor" aria-hidden="true" href="#三历史价格数据月线">#</a></h2>
+<blockquote>
+<p>数据来源：AI-Tools MCP: GetMonthlyKLineData (60个月)</p>
+</blockquote>
+<h3 id="31-月线价格表2021年5月---2026年4月">3.1 月线价格表（2021年5月 - 2026年4月）<a hidden class="anchor" aria-hidden="true" href="#31-月线价格表2021年5月---2026年4月">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">月份</th>
+          <th style="text-align: right">开盘</th>
+          <th style="text-align: right">最高</th>
+          <th style="text-align: right">最低</th>
+          <th style="text-align: right">收盘</th>
+          <th style="text-align: right">成交量(手)</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">2021-05</td>
+          <td style="text-align: right">45.95</td>
+          <td style="text-align: right">53.51</td>
+          <td style="text-align: right">41.74</td>
+          <td style="text-align: right">48.96</td>
+          <td style="text-align: right">432,074</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2021-06</td>
+          <td style="text-align: right">48.17</td>
+          <td style="text-align: right">56.94</td>
+          <td style="text-align: right">46.90</td>
+          <td style="text-align: right">54.56</td>
+          <td style="text-align: right">620,139</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2021-07</td>
+          <td style="text-align: right">55.18</td>
+          <td style="text-align: right">64.50</td>
+          <td style="text-align: right">52.00</td>
+          <td style="text-align: right">60.47</td>
+          <td style="text-align: right">690,721</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2021-08</td>
+          <td style="text-align: right">60.70</td>
+          <td style="text-align: right">62.20</td>
+          <td style="text-align: right">51.20</td>
+          <td style="text-align: right">56.13</td>
+          <td style="text-align: right">606,252</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2021-09</td>
+          <td style="text-align: right">56.47</td>
+          <td style="text-align: right">59.60</td>
+          <td style="text-align: right">49.17</td>
+          <td style="text-align: right">52.74</td>
+          <td style="text-align: right">478,566</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2021-10</td>
+          <td style="text-align: right">53.03</td>
+          <td style="text-align: right">55.83</td>
+          <td style="text-align: right">46.86</td>
+          <td style="text-align: right">48.80</td>
+          <td style="text-align: right">426,338</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2021-11</td>
+          <td style="text-align: right">48.08</td>
+          <td style="text-align: right">53.93</td>
+          <td style="text-align: right">46.92</td>
+          <td style="text-align: right">50.01</td>
+          <td style="text-align: right">592,983</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2021-12</td>
+          <td style="text-align: right">49.72</td>
+          <td style="text-align: right">56.56</td>
+          <td style="text-align: right">47.24</td>
+          <td style="text-align: right">52.88</td>
+          <td style="text-align: right">778,067</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2022-01</td>
+          <td style="text-align: right">52.93</td>
+          <td style="text-align: right">57.70</td>
+          <td style="text-align: right">49.86</td>
+          <td style="text-align: right">50.63</td>
+          <td style="text-align: right">418,641</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2022-02</td>
+          <td style="text-align: right">51.42</td>
+          <td style="text-align: right">52.56</td>
+          <td style="text-align: right">46.05</td>
+          <td style="text-align: right">49.29</td>
+          <td style="text-align: right">325,998</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2022-03</td>
+          <td style="text-align: right">49.23</td>
+          <td style="text-align: right">53.28</td>
+          <td style="text-align: right">45.55</td>
+          <td style="text-align: right">50.24</td>
+          <td style="text-align: right">418,320</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2022-04</td>
+          <td style="text-align: right">50.25</td>
+          <td style="text-align: right">52.05</td>
+          <td style="text-align: right">46.51</td>
+          <td style="text-align: right">50.12</td>
+          <td style="text-align: right">408,498</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2022-05</td>
+          <td style="text-align: right">49.85</td>
+          <td style="text-align: right">51.28</td>
+          <td style="text-align: right">45.39</td>
+          <td style="text-align: right">48.09</td>
+          <td style="text-align: right">353,259</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2022-06</td>
+          <td style="text-align: right">48.18</td>
+          <td style="text-align: right">51.63</td>
+          <td style="text-align: right">45.92</td>
+          <td style="text-align: right">49.67</td>
+          <td style="text-align: right">465,651</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2022-07</td>
+          <td style="text-align: right">49.83</td>
+          <td style="text-align: right">50.99</td>
+          <td style="text-align: right">43.49</td>
+          <td style="text-align: right">49.50</td>
+          <td style="text-align: right">624,701</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2022-08</td>
+          <td style="text-align: right">49.28</td>
+          <td style="text-align: right">50.45</td>
+          <td style="text-align: right">44.64</td>
+          <td style="text-align: right">46.33</td>
+          <td style="text-align: right">415,530</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2022-09</td>
+          <td style="text-align: right">46.33</td>
+          <td style="text-align: right">47.99</td>
+          <td style="text-align: right">38.92</td>
+          <td style="text-align: right">40.28</td>
+          <td style="text-align: right">382,702</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2022-10</td>
+          <td style="text-align: right">40.28</td>
+          <td style="text-align: right">44.49</td>
+          <td style="text-align: right">38.13</td>
+          <td style="text-align: right">44.48</td>
+          <td style="text-align: right">351,167</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2022-11</td>
+          <td style="text-align: right">44.48</td>
+          <td style="text-align: right">45.62</td>
+          <td style="text-align: right">40.50</td>
+          <td style="text-align: right">40.73</td>
+          <td style="text-align: right">374,658</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2022-12</td>
+          <td style="text-align: right">40.99</td>
+          <td style="text-align: right">41.92</td>
+          <td style="text-align: right">36.70</td>
+          <td style="text-align: right">38.55</td>
+          <td style="text-align: right">402,017</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2023-01</td>
+          <td style="text-align: right">38.55</td>
+          <td style="text-align: right">40.27</td>
+          <td style="text-align: right">36.18</td>
+          <td style="text-align: right">38.98</td>
+          <td style="text-align: right">565,376</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2023-02</td>
+          <td style="text-align: right">39.05</td>
+          <td style="text-align: right">48.76</td>
+          <td style="text-align: right">38.85</td>
+          <td style="text-align: right">42.88</td>
+          <td style="text-align: right">892,776</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2023-03</td>
+          <td style="text-align: right">42.71</td>
+          <td style="text-align: right">60.14</td>
+          <td style="text-align: right">42.64</td>
+          <td style="text-align: right">49.57</td>
+          <td style="text-align: right">1,531,991</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2023-04</td>
+          <td style="text-align: right">49.53</td>
+          <td style="text-align: right">50.63</td>
+          <td style="text-align: right">37.39</td>
+          <td style="text-align: right">42.37</td>
+          <td style="text-align: right">1,284,018</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2023-05</td>
+          <td style="text-align: right">42.20</td>
+          <td style="text-align: right">42.26</td>
+          <td style="text-align: right">32.56</td>
+          <td style="text-align: right">33.13</td>
+          <td style="text-align: right">889,961</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2023-06</td>
+          <td style="text-align: right">32.95</td>
+          <td style="text-align: right">36.08</td>
+          <td style="text-align: right">29.29</td>
+          <td style="text-align: right">31.27</td>
+          <td style="text-align: right">1,721,909</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2023-07</td>
+          <td style="text-align: right">31.48</td>
+          <td style="text-align: right">38.50</td>
+          <td style="text-align: right">29.79</td>
+          <td style="text-align: right">33.83</td>
+          <td style="text-align: right">1,758,751</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2023-08</td>
+          <td style="text-align: right">33.93</td>
+          <td style="text-align: right">34.78</td>
+          <td style="text-align: right">30.62</td>
+          <td style="text-align: right">33.22</td>
+          <td style="text-align: right">921,644</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2023-09</td>
+          <td style="text-align: right">33.49</td>
+          <td style="text-align: right">34.64</td>
+          <td style="text-align: right">31.02</td>
+          <td style="text-align: right">32.34</td>
+          <td style="text-align: right">745,175</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2023-10</td>
+          <td style="text-align: right">32.34</td>
+          <td style="text-align: right">34.20</td>
+          <td style="text-align: right">27.70</td>
+          <td style="text-align: right">30.05</td>
+          <td style="text-align: right">617,055</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2023-11</td>
+          <td style="text-align: right">29.81</td>
+          <td style="text-align: right">31.63</td>
+          <td style="text-align: right">28.73</td>
+          <td style="text-align: right">28.88</td>
+          <td style="text-align: right">624,402</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2023-12</td>
+          <td style="text-align: right">28.89</td>
+          <td style="text-align: right">30.05</td>
+          <td style="text-align: right">24.90</td>
+          <td style="text-align: right">26.25</td>
+          <td style="text-align: right">800,439</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2024-01</td>
+          <td style="text-align: right">26.26</td>
+          <td style="text-align: right">26.40</td>
+          <td style="text-align: right">20.97</td>
+          <td style="text-align: right">21.07</td>
+          <td style="text-align: right">1,214,910</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2024-02</td>
+          <td style="text-align: right">21.00</td>
+          <td style="text-align: right">26.70</td>
+          <td style="text-align: right">19.15</td>
+          <td style="text-align: right">26.04</td>
+          <td style="text-align: right">1,205,397</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2024-03</td>
+          <td style="text-align: right">25.88</td>
+          <td style="text-align: right">26.80</td>
+          <td style="text-align: right">20.80</td>
+          <td style="text-align: right">22.54</td>
+          <td style="text-align: right">1,430,748</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2024-04</td>
+          <td style="text-align: right">22.58</td>
+          <td style="text-align: right">34.57</td>
+          <td style="text-align: right">22.56</td>
+          <td style="text-align: right">32.04</td>
+          <td style="text-align: right">2,587,973</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2024-05</td>
+          <td style="text-align: right">33.00</td>
+          <td style="text-align: right">37.44</td>
+          <td style="text-align: right">31.45</td>
+          <td style="text-align: right">33.79</td>
+          <td style="text-align: right">1,492,977</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2024-06</td>
+          <td style="text-align: right">33.48</td>
+          <td style="text-align: right">36.75</td>
+          <td style="text-align: right">32.78</td>
+          <td style="text-align: right">34.37</td>
+          <td style="text-align: right">967,393</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2024-07</td>
+          <td style="text-align: right">33.72</td>
+          <td style="text-align: right">37.03</td>
+          <td style="text-align: right">30.40</td>
+          <td style="text-align: right">31.27</td>
+          <td style="text-align: right">1,129,923</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2024-08</td>
+          <td style="text-align: right">31.55</td>
+          <td style="text-align: right">31.86</td>
+          <td style="text-align: right">29.20</td>
+          <td style="text-align: right">30.57</td>
+          <td style="text-align: right">901,014</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2024-09</td>
+          <td style="text-align: right">30.52</td>
+          <td style="text-align: right">40.80</td>
+          <td style="text-align: right">29.03</td>
+          <td style="text-align: right">40.48</td>
+          <td style="text-align: right">1,296,538</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2024-10</td>
+          <td style="text-align: right">48.90</td>
+          <td style="text-align: right">48.91</td>
+          <td style="text-align: right">36.23</td>
+          <td style="text-align: right">37.10</td>
+          <td style="text-align: right">2,542,791</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2024-11</td>
+          <td style="text-align: right">36.86</td>
+          <td style="text-align: right">41.11</td>
+          <td style="text-align: right">34.08</td>
+          <td style="text-align: right">36.11</td>
+          <td style="text-align: right">2,237,187</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2024-12</td>
+          <td style="text-align: right">36.25</td>
+          <td style="text-align: right">39.05</td>
+          <td style="text-align: right">35.54</td>
+          <td style="text-align: right">36.80</td>
+          <td style="text-align: right">1,860,056</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2025-01</td>
+          <td style="text-align: right">36.78</td>
+          <td style="text-align: right">40.17</td>
+          <td style="text-align: right">34.48</td>
+          <td style="text-align: right">39.29</td>
+          <td style="text-align: right">1,474,898</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2025-02</td>
+          <td style="text-align: right">39.83</td>
+          <td style="text-align: right">42.35</td>
+          <td style="text-align: right">37.40</td>
+          <td style="text-align: right">37.60</td>
+          <td style="text-align: right">1,638,312</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2025-03</td>
+          <td style="text-align: right">37.60</td>
+          <td style="text-align: right">40.70</td>
+          <td style="text-align: right">37.60</td>
+          <td style="text-align: right">39.03</td>
+          <td style="text-align: right">1,425,230</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2025-04</td>
+          <td style="text-align: right">39.29</td>
+          <td style="text-align: right">39.49</td>
+          <td style="text-align: right">30.92</td>
+          <td style="text-align: right">31.39</td>
+          <td style="text-align: right">1,903,999</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2025-05</td>
+          <td style="text-align: right">31.70</td>
+          <td style="text-align: right">34.45</td>
+          <td style="text-align: right">31.53</td>
+          <td style="text-align: right">33.24</td>
+          <td style="text-align: right">1,285,196</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2025-06</td>
+          <td style="text-align: right">33.06</td>
+          <td style="text-align: right">35.03</td>
+          <td style="text-align: right">32.70</td>
+          <td style="text-align: right">34.26</td>
+          <td style="text-align: right">1,211,055</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2025-07</td>
+          <td style="text-align: right">34.20</td>
+          <td style="text-align: right">35.19</td>
+          <td style="text-align: right">33.00</td>
+          <td style="text-align: right">33.05</td>
+          <td style="text-align: right">1,970,907</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2025-08</td>
+          <td style="text-align: right">33.03</td>
+          <td style="text-align: right">38.63</td>
+          <td style="text-align: right">32.71</td>
+          <td style="text-align: right">37.29</td>
+          <td style="text-align: right">2,181,676</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2025-09</td>
+          <td style="text-align: right">37.56</td>
+          <td style="text-align: right">40.78</td>
+          <td style="text-align: right">34.70</td>
+          <td style="text-align: right">37.00</td>
+          <td style="text-align: right">2,909,505</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2025-10</td>
+          <td style="text-align: right">37.21</td>
+          <td style="text-align: right">38.39</td>
+          <td style="text-align: right">34.26</td>
+          <td style="text-align: right">36.00</td>
+          <td style="text-align: right">1,364,513</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2025-11</td>
+          <td style="text-align: right">35.98</td>
+          <td style="text-align: right">36.54</td>
+          <td style="text-align: right">33.10</td>
+          <td style="text-align: right">33.76</td>
+          <td style="text-align: right">1,102,204</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2025-12</td>
+          <td style="text-align: right">33.77</td>
+          <td style="text-align: right">37.05</td>
+          <td style="text-align: right">33.40</td>
+          <td style="text-align: right">35.65</td>
+          <td style="text-align: right">1,655,269</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2026-01</td>
+          <td style="text-align: right">35.83</td>
+          <td style="text-align: right">39.34</td>
+          <td style="text-align: right">35.45</td>
+          <td style="text-align: right">38.37</td>
+          <td style="text-align: right">2,371,747</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2026-02</td>
+          <td style="text-align: right">38.45</td>
+          <td style="text-align: right">39.46</td>
+          <td style="text-align: right">36.10</td>
+          <td style="text-align: right">37.58</td>
+          <td style="text-align: right">1,481,748</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2026-03</td>
+          <td style="text-align: right">36.98</td>
+          <td style="text-align: right">37.20</td>
+          <td style="text-align: right">31.41</td>
+          <td style="text-align: right">32.74</td>
+          <td style="text-align: right">1,938,565</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2026-04(至今)</td>
+          <td style="text-align: right">33.15</td>
+          <td style="text-align: right">36.64</td>
+          <td style="text-align: right">32.54</td>
+          <td style="text-align: right">35.29</td>
+          <td style="text-align: right">687,394</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="32-关键价格统计">3.2 关键价格统计<a hidden class="anchor" aria-hidden="true" href="#32-关键价格统计">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">统计项</th>
+          <th style="text-align: left">值</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">5年最高价</td>
+          <td style="text-align: left">64.50 (2021年7月)</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">5年最低价</td>
+          <td style="text-align: left">19.15 (2024年2月)</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">当前价格</td>
+          <td style="text-align: left">35.29</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">距5年高点跌幅</td>
+          <td style="text-align: left">-45.28%</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">距5年低点涨幅</td>
+          <td style="text-align: left">+84.23%</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h2 id="四无风险利率">四、无风险利率<a hidden class="anchor" aria-hidden="true" href="#四无风险利率">#</a></h2>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">指标</th>
+          <th style="text-align: right">值</th>
+          <th style="text-align: left">日期</th>
+          <th style="text-align: left">数据来源</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">中国十年期国债收益率</td>
+          <td style="text-align: right">1.78%</td>
+          <td style="text-align: left">2026-04-14</td>
+          <td style="text-align: left">WebSearch: 中债网</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">中国十年期国债收益率</td>
+          <td style="text-align: right">1.81%</td>
+          <td style="text-align: left">2026-04-13</td>
+          <td style="text-align: left">WebSearch: MacroMicro财经M平方</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">中国十年期国债收益率</td>
+          <td style="text-align: right">1.79%</td>
+          <td style="text-align: left">近期低点</td>
+          <td style="text-align: left">WebSearch: 证券之星</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>采用值：1.78%</strong>（2026-04-14中债估值数据，为最新可获取值）</p>
+<hr>
+<h2 id="五上市结构与税务">五、上市结构与税务<a hidden class="anchor" aria-hidden="true" href="#五上市结构与税务">#</a></h2>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">项目</th>
+          <th style="text-align: left">内容</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">上市交易所</td>
+          <td style="text-align: left">深圳证券交易所创业板</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">上市日期</td>
+          <td style="text-align: left">2017年3月17日</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">证券代码</td>
+          <td style="text-align: left">300628.SZ</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">证券简称</td>
+          <td style="text-align: left">亿联网络</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">股份性质</td>
+          <td style="text-align: left">A股流通股</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">持股渠道</td>
+          <td style="text-align: left">A股直接持有</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">股息税率</td>
+          <td style="text-align: left">10%（持股&gt;1年免税；持股1个月-1年10%；持股&lt;1个月20%）</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">代扣代缴</td>
+          <td style="text-align: left">是（中国A股统一由中国结算代扣代缴）</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">资本利得税</td>
+          <td style="text-align: left">暂免征收（A股个人投资者）</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">交易印花税</td>
+          <td style="text-align: left">0.05%（卖出时单边征收）</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h2 id="六管理层与治理信息">六、管理层与治理信息<a hidden class="anchor" aria-hidden="true" href="#六管理层与治理信息">#</a></h2>
+<h3 id="61-核心管理层">6.1 核心管理层<a hidden class="anchor" aria-hidden="true" href="#61-核心管理层">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">职务</th>
+          <th style="text-align: left">姓名</th>
+          <th style="text-align: left">任职时间</th>
+          <th style="text-align: left">年龄</th>
+          <th style="text-align: left">数据来源</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">董事长</td>
+          <td style="text-align: left">陈智松</td>
+          <td style="text-align: left">2019年8月至今（2015-06-24起任董事）</td>
+          <td style="text-align: left">60</td>
+          <td style="text-align: left">WebSearch: 东方财富/企查查</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">总经理</td>
+          <td style="text-align: left">2025年8月变更（第五届董事会）</td>
+          <td style="text-align: left">2025-08至今</td>
+          <td style="text-align: left">&ndash;</td>
+          <td style="text-align: left">WebSearch: 巨潮资讯公告</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">法定代表人</td>
+          <td style="text-align: left">陈智松</td>
+          <td style="text-align: left">&ndash;</td>
+          <td style="text-align: left">&ndash;</td>
+          <td style="text-align: left">WebSearch: 企查查</td>
+      </tr>
+  </tbody>
+</table>
+<blockquote>
+<p>注：陈智松2001年至2012年5月任公司执行董事、总经理；2012年6月至2019年8月任董事长、总经理；2019年8月至今任董事长。2025年8月总经理发生变更。</p>
+</blockquote>
+<h3 id="62-控股股东与实际控制人">6.2 控股股东与实际控制人<a hidden class="anchor" aria-hidden="true" href="#62-控股股东与实际控制人">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">股东</th>
+          <th style="text-align: right">直接持股比例</th>
+          <th style="text-align: right">最终受益股份</th>
+          <th style="text-align: left">角色</th>
+          <th style="text-align: left">数据来源</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">陈智松</td>
+          <td style="text-align: right">17.37%</td>
+          <td style="text-align: right">19.56%</td>
+          <td style="text-align: left">大股东/实际控制人/董事长</td>
+          <td style="text-align: left">WebSearch: 企查查/同花顺</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">吴仲毅</td>
+          <td style="text-align: right">16.62%</td>
+          <td style="text-align: right">16.61%</td>
+          <td style="text-align: left">实际控制人</td>
+          <td style="text-align: left">WebSearch: 同花顺</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">卢荣富</td>
+          <td style="text-align: right">10.45%</td>
+          <td style="text-align: right">12.04%</td>
+          <td style="text-align: left">实际控制人/大股东</td>
+          <td style="text-align: left">WebSearch: 同花顺/企查查</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">周继伟</td>
+          <td style="text-align: right">7.85%</td>
+          <td style="text-align: right">7.85%</td>
+          <td style="text-align: left">实际控制人</td>
+          <td style="text-align: left">WebSearch: 同花顺</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>实际控制人</strong>：陈智松、吴仲毅、卢荣富、周继伟（四人合计直接持股约52.29%）</p>
+<blockquote>
+<p>注：四位实际控制人为公司创始团队，股权结构稳定，无单一绝对控股股东，属一致行动人关系。</p>
+</blockquote>
+<h3 id="63-股权结构特点">6.3 股权结构特点<a hidden class="anchor" aria-hidden="true" href="#63-股权结构特点">#</a></h3>
+<ul>
+<li>公司为创始人团队控制的典型民营企业，股权集中度高</li>
+<li>前四大股东合计持股超50%，控制权稳固</li>
+<li>无国有股东，无外资控股</li>
+<li>深股通标的，外资可通过港股通持有</li>
+</ul>
+<hr>
+<h2 id="七行业与竞争格局">七、行业与竞争格局<a hidden class="anchor" aria-hidden="true" href="#七行业与竞争格局">#</a></h2>
+<h3 id="71-行业概况">7.1 行业概况<a hidden class="anchor" aria-hidden="true" href="#71-行业概况">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">项目</th>
+          <th style="text-align: left">内容</th>
+          <th style="text-align: left">数据来源</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">所属行业</td>
+          <td style="text-align: left">统一通信与协作（UC&amp;C）</td>
+          <td style="text-align: left">WebSearch: 东方财富</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">细分领域</td>
+          <td style="text-align: left">桌面通信终端(SIP/IP话机)、视频会议系统、云办公终端</td>
+          <td style="text-align: left">WebSearch: 亿联官网</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">行业规模</td>
+          <td style="text-align: left">全球UC&amp;C市场规模数百亿美元级</td>
+          <td style="text-align: left">WebSearch</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">行业增速</td>
+          <td style="text-align: left">中高速增长（受AI赋能及混合办公驱动）</td>
+          <td style="text-align: left">WebSearch</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="72-公司行业地位">7.2 公司行业地位<a hidden class="anchor" aria-hidden="true" href="#72-公司行业地位">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">产品线</th>
+          <th style="text-align: left">市场地位</th>
+          <th style="text-align: left">市场份额</th>
+          <th style="text-align: left">数据来源</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">SIP话机</td>
+          <td style="text-align: left">连续8年全球第一</td>
+          <td style="text-align: left">超过30%</td>
+          <td style="text-align: left">WebSearch: 亿联官网/雪球</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">视频会议系统</td>
+          <td style="text-align: left">全球领先</td>
+          <td style="text-align: left">约36%</td>
+          <td style="text-align: left">WebSearch: 雪球</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="73-主要竞争对手">7.3 主要竞争对手<a hidden class="anchor" aria-hidden="true" href="#73-主要竞争对手">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">竞争对手</th>
+          <th style="text-align: left">领域</th>
+          <th style="text-align: left">竞争态势</th>
+          <th style="text-align: left">数据来源</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">Poly（原Polycom/Plantronics）</td>
+          <td style="text-align: left">SIP话机/视频会议</td>
+          <td style="text-align: left">国际传统巨头，已被收购整合</td>
+          <td style="text-align: left">WebSearch: 东方财富</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">思科(Cisco)</td>
+          <td style="text-align: left">统一通信全栈</td>
+          <td style="text-align: left">全球UC龙头，产品线最全</td>
+          <td style="text-align: left">WebSearch: 东方财富</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">华为</td>
+          <td style="text-align: left">企业智慧屏/视频会议</td>
+          <td style="text-align: left">中国市场份额35.3%，价格低15-20%</td>
+          <td style="text-align: left">WebSearch: 东方财富</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">罗技(Logitech)</td>
+          <td style="text-align: left">视频会议外设/耳麦</td>
+          <td style="text-align: left">高端品牌溢价，占高端市场12%份额</td>
+          <td style="text-align: left">WebSearch: 东方财富</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="74-公司核心竞争壁垒">7.4 公司核心竞争壁垒<a hidden class="anchor" aria-hidden="true" href="#74-公司核心竞争壁垒">#</a></h3>
+<ol>
+<li><strong>细分赛道垄断</strong>：SIP话机全球市占率超30%，连续8年第一，细分领域无对手能撼动</li>
+<li><strong>高盈利+轻资产</strong>：净利率47%、负债率仅8-11%，无有息负债，远优于国际巨头</li>
+<li><strong>全球化渠道</strong>：自主品牌Yealink畅销140多个国家和地区</li>
+<li><strong>用户满意度</strong>：VoIP Phones用户满意度全球第一（Eastern Management Group数据）</li>
+<li><strong>AI赋能</strong>：积极布局AI通信产品，提升产品附加值</li>
+</ol>
+<hr>
+<h2 id="八子公司数据控股公司适用">八、子公司数据（控股公司适用）<a hidden class="anchor" aria-hidden="true" href="#八子公司数据控股公司适用">#</a></h2>
+<p><strong>不适用</strong> &ndash; 亿联网络非控股公司型结构，为直接运营实体，主要子公司为全资或控股的功能性子公司（研发、销售），不适用控股公司折价分析。</p>
+<hr>
+<h2 id="九mda-摘要">九、MD&amp;A 摘要<a hidden class="anchor" aria-hidden="true" href="#九mda-摘要">#</a></h2>
+<blockquote>
+<p>数据来源：AI-Tools MCP: GetFinancialReport + WebSearch</p>
+</blockquote>
+<h3 id="91-经营回顾2024年度">9.1 经营回顾（2024年度）<a hidden class="anchor" aria-hidden="true" href="#91-经营回顾2024年度">#</a></h3>
+<ul>
+<li>2024年公司实现营业收入56.21亿元，同比增长29.28%；归母净利润26.48亿元，同比增长31.72%</li>
+<li>经营活动现金流净额25.09亿元，同比增长39.24%</li>
+<li>各产品线市场拓展顺利，桌面通信终端、会议产品、云办公终端均实现增长</li>
+<li>毛利率65.45%，净利率47.10%，盈利能力行业领先</li>
+<li>研发费用5.59亿元，持续加大研发投入</li>
+</ul>
+<h3 id="92-2025年前三季度经营情况">9.2 2025年前三季度经营情况<a hidden class="anchor" aria-hidden="true" href="#92-2025年前三季度经营情况">#</a></h3>
+<ul>
+<li>2025年前三季度营收42.98亿元，同比增长4.59%</li>
+<li>归母净利润19.58亿元，同比下降5.16%</li>
+<li>扣非净利润18.43亿元，同比下降3.86%</li>
+<li>增速放缓，净利润出现下滑，主要受行业需求波动及竞争加剧影响</li>
+</ul>
+<h3 id="93-前瞻指引与风险因素">9.3 前瞻指引与风险因素<a hidden class="anchor" aria-hidden="true" href="#93-前瞻指引与风险因素">#</a></h3>
+<p><strong>机遇：</strong></p>
+<ul>
+<li>AI赋能通信产品，带来产品升级换代需求</li>
+<li>混合办公模式持续推广，UC&amp;C需求长期增长</li>
+<li>公司在SIP话机领域龙头地位稳固，现金流稳定</li>
+</ul>
+<p><strong>风险：</strong></p>
+<ul>
+<li>行业需求波动，2025年增速明显放缓</li>
+<li>华为等国内竞争对手价格竞争加剧</li>
+<li>全球宏观经济不确定性影响企业IT支出</li>
+<li>汇率波动风险（海外收入占比高）</li>
+<li>视频会议领域竞争激烈，市场份额面临挑战</li>
+</ul>
+<hr>
+<h2 id="十数据完整性检查">十、数据完整性检查<a hidden class="anchor" aria-hidden="true" href="#十数据完整性检查">#</a></h2>
+<h3 id="101-缺失项列表">10.1 缺失项列表<a hidden class="anchor" aria-hidden="true" href="#101-缺失项列表">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">序号</th>
+          <th style="text-align: left">缺失项目</th>
+          <th style="text-align: left">影响程度</th>
+          <th style="text-align: left">说明</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">2020-2023年度利润表完整数据</td>
+          <td style="text-align: left">中</td>
+          <td style="text-align: left">仅有营收和净利润概数，缺少营业成本、费用等明细</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2</td>
+          <td style="text-align: left">2020-2023年度资产负债表数据</td>
+          <td style="text-align: left">中</td>
+          <td style="text-align: left">AI-Tools MCP仅返回最近5期季报数据</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">3</td>
+          <td style="text-align: left">2020-2023年度现金流量表数据</td>
+          <td style="text-align: left">中</td>
+          <td style="text-align: left">AI-Tools MCP仅返回最近5期季报数据</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">4</td>
+          <td style="text-align: left">2020-2023年度经营活动现金流出明细</td>
+          <td style="text-align: left">高</td>
+          <td style="text-align: left">因子3分析关键输入，仅获取2024年度和2025年季度数据</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">5</td>
+          <td style="text-align: left">&ldquo;支付利息&quot;明细</td>
+          <td style="text-align: left">低</td>
+          <td style="text-align: left">公司无有息负债，该项目金额可忽略</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">6</td>
+          <td style="text-align: left">CFO姓名</td>
+          <td style="text-align: left">低</td>
+          <td style="text-align: left">WebSearch未返回CFO具体信息</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">7</td>
+          <td style="text-align: left">QueryStockPriceInfo的PE/PB/市值</td>
+          <td style="text-align: left">低</td>
+          <td style="text-align: left">已通过WebSearch补充</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="102-完整度评估">10.2 完整度评估<a hidden class="anchor" aria-hidden="true" href="#102-完整度评估">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">数据类别</th>
+          <th style="text-align: left">完整度</th>
+          <th style="text-align: left">评价</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">基础市场数据</td>
+          <td style="text-align: left">90%</td>
+          <td style="text-align: left">股价/市值/股息率/分红历史基本完整</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">利润表</td>
+          <td style="text-align: left">70%</td>
+          <td style="text-align: left">2024年度及2025年季度数据完整，2020-2023年度缺少明细</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">资产负债表</td>
+          <td style="text-align: left">70%</td>
+          <td style="text-align: left">2024年度及2025年季度数据完整，2020-2023年度缺失</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">现金流量表</td>
+          <td style="text-align: left">65%</td>
+          <td style="text-align: left">近5期季报汇总数据完整，经营活动流出明细仅部分获取</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">历史价格数据</td>
+          <td style="text-align: left">100%</td>
+          <td style="text-align: left">60个月线数据完整</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">无风险利率</td>
+          <td style="text-align: left">100%</td>
+          <td style="text-align: left">最新数据已获取</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">上市结构与税务</td>
+          <td style="text-align: left">100%</td>
+          <td style="text-align: left">A股标准结构，信息完整</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">管理层与治理</td>
+          <td style="text-align: left">85%</td>
+          <td style="text-align: left">核心信息完整，CFO信息缺失</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">行业与竞争格局</td>
+          <td style="text-align: left">85%</td>
+          <td style="text-align: left">主要信息完整，行业规模精确数据缺失</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">MD&amp;A摘要</td>
+          <td style="text-align: left">80%</td>
+          <td style="text-align: left">主要经营回顾和风险因素已覆盖</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>总体完整度：约 80%</strong></p>
+<blockquote>
+<p>主要缺口在于2020-2023年度的完整财务报表数据及经营活动现金流出明细。建议后续通过东方财富妙想API（mx_finance_data）或巨潮资讯网年报PDF补充历史年度数据。</p>
+</blockquote>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/investment-reports-site/">龟龟投资策略分析报告</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>同仁堂 (600085) on 龟龟投资策略分析报告</title>
+    <link>http://localhost:1313/investment-reports-site/reports/600085/</link>
+    <description>Recent content in 同仁堂 (600085) on 龟龟投资策略分析报告</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <atom:link href="http://localhost:1313/investment-reports-site/reports/600085/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/investment-reports-site/reports/600085/data_pack_market/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/investment-reports-site/reports/600085/data_pack_market/</guid>
+      <description>&lt;h1 id=&#34;同仁堂-600085-市场数据包&#34;&gt;同仁堂 (600085) 市场数据包&lt;/h1&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;元数据&lt;/th&gt;
+          &lt;th&gt;值&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;数据采集时间&lt;/td&gt;
+          &lt;td&gt;2026-04-15 12:00 CST&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;股票代码&lt;/td&gt;
+          &lt;td&gt;600085.SH&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;公司名称&lt;/td&gt;
+          &lt;td&gt;北京同仁堂股份有限公司&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;持股渠道&lt;/td&gt;
+          &lt;td&gt;A股直接持有&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;目标年份&lt;/td&gt;
+          &lt;td&gt;2025&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;金额单位&lt;/td&gt;
+          &lt;td&gt;报表币种百万元（除非另有标注）&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;一基础市场数据股价市值股息回购&#34;&gt;一、基础市场数据（股价/市值/股息/回购）&lt;/h2&gt;
+&lt;h3 id=&#34;11-实时股价与市值&#34;&gt;1.1 实时股价与市值&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;指标&lt;/th&gt;
+          &lt;th&gt;值&lt;/th&gt;
+          &lt;th&gt;数据来源&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;当前股价&lt;/td&gt;
+          &lt;td&gt;28.05 元&lt;/td&gt;
+          &lt;td&gt;AI-Tools QueryStockPriceInfo&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;涨跌幅&lt;/td&gt;
+          &lt;td&gt;+3.57%&lt;/td&gt;
+          &lt;td&gt;AI-Tools QueryStockPriceInfo&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;成交量&lt;/td&gt;
+          &lt;td&gt;529.70万股&lt;/td&gt;
+          &lt;td&gt;AI-Tools QueryStockPriceInfo&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;成交额&lt;/td&gt;
+          &lt;td&gt;1.49亿元&lt;/td&gt;
+          &lt;td&gt;AI-Tools QueryStockPriceInfo&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;总股本&lt;/td&gt;
+          &lt;td&gt;13.71亿股&lt;/td&gt;
+          &lt;td&gt;WebSearch（证券之星/中财网）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;流通股本&lt;/td&gt;
+          &lt;td&gt;13.71亿股&lt;/td&gt;
+          &lt;td&gt;WebSearch（证券之星/中财网）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;总市值&lt;/td&gt;
+          &lt;td&gt;约385亿元&lt;/td&gt;
+          &lt;td&gt;WebSearch（证券之星/中财网）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;流通市值&lt;/td&gt;
+          &lt;td&gt;约385亿元&lt;/td&gt;
+          &lt;td&gt;WebSearch（证券之星/中财网）&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;12-股息历史&#34;&gt;1.2 股息历史&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;报告期&lt;/th&gt;
+          &lt;th&gt;分红方案（每10股派息）&lt;/th&gt;
+          &lt;th&gt;每股派息（元）&lt;/th&gt;
+          &lt;th&gt;除权除息日&lt;/th&gt;
+          &lt;th&gt;数据来源&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2018年报&lt;/td&gt;
+          &lt;td&gt;10派2.5元&lt;/td&gt;
+          &lt;td&gt;0.25&lt;/td&gt;
+          &lt;td&gt;2019-07-30&lt;/td&gt;
+          &lt;td&gt;WebSearch&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2019中报&lt;/td&gt;
+          &lt;td&gt;10派5.0元&lt;/td&gt;
+          &lt;td&gt;0.50&lt;/td&gt;
+          &lt;td&gt;2019-10-10&lt;/td&gt;
+          &lt;td&gt;WebSearch&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2019年报&lt;/td&gt;
+          &lt;td&gt;10派2.6元&lt;/td&gt;
+          &lt;td&gt;0.26&lt;/td&gt;
+          &lt;td&gt;2020-07-20&lt;/td&gt;
+          &lt;td&gt;WebSearch&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2020年报&lt;/td&gt;
+          &lt;td&gt;10派2.6元&lt;/td&gt;
+          &lt;td&gt;0.26&lt;/td&gt;
+          &lt;td&gt;2021-07-xx&lt;/td&gt;
+          &lt;td&gt;WebSearch&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2021年报&lt;/td&gt;
+          &lt;td&gt;10派2.7元&lt;/td&gt;
+          &lt;td&gt;0.27&lt;/td&gt;
+          &lt;td&gt;2021-08-12&lt;/td&gt;
+          &lt;td&gt;WebSearch&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2022年报&lt;/td&gt;
+          &lt;td&gt;10派2.9元&lt;/td&gt;
+          &lt;td&gt;0.29&lt;/td&gt;
+          &lt;td&gt;2022-08-18&lt;/td&gt;
+          &lt;td&gt;WebSearch&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2023年报&lt;/td&gt;
+          &lt;td&gt;10派3.2元&lt;/td&gt;
+          &lt;td&gt;0.32&lt;/td&gt;
+          &lt;td&gt;2023-07-21&lt;/td&gt;
+          &lt;td&gt;WebSearch&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2024中报&lt;/td&gt;
+          &lt;td&gt;10派5.0元&lt;/td&gt;
+          &lt;td&gt;0.50&lt;/td&gt;
+          &lt;td&gt;2024-10-10&lt;/td&gt;
+          &lt;td&gt;WebSearch&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2024年报&lt;/td&gt;
+          &lt;td&gt;10派5.0元&lt;/td&gt;
+          &lt;td&gt;0.50&lt;/td&gt;
+          &lt;td&gt;2025-06-30&lt;/td&gt;
+          &lt;td&gt;WebSearch&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2025年报&lt;/td&gt;
+          &lt;td&gt;10派5.0元&lt;/td&gt;
+          &lt;td&gt;0.50&lt;/td&gt;
+          &lt;td&gt;待实施&lt;/td&gt;
+          &lt;td&gt;WebSearch&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;股息率估算&lt;/strong&gt;（基于当前股价28.05元）：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/investment-reports-site/reports/600085/data_pack_report/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/investment-reports-site/reports/600085/data_pack_report/</guid>
+      <description>&lt;h1 id=&#34;同仁堂600085-深度财务数据采集报告&#34;&gt;同仁堂(600085) 深度财务数据采集报告&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;数据采集时间&lt;/strong&gt;：2026-04-15
+&lt;strong&gt;金额单位&lt;/strong&gt;：报表币种百万元（除特别标注外）
+&lt;strong&gt;数据来源&lt;/strong&gt;：AI-Tools MCP（GetBalanceSheet / GetCashFlowStatement / GetFinancialIndicators / GetIncomeStatement / GetFinancialReport）、WebSearch（审计报告/研报/公告摘要）、东方财富公开数据
+&lt;strong&gt;目标年份&lt;/strong&gt;：2025
+&lt;strong&gt;公司全称&lt;/strong&gt;：北京同仁堂股份有限公司&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;一母公司单体资产负债表数据&#34;&gt;一、母公司单体资产负债表数据&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;数据来源：AI-Tools MCP GetBalanceSheet（count=5）
+注：以下为合并报表口径数据，母公司单体数据在附注中另行标注&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;11-资产端核心科目百万元&#34;&gt;1.1 资产端核心科目（百万元）&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;科目&lt;/th&gt;
+          &lt;th&gt;2025-12-31&lt;/th&gt;
+          &lt;th&gt;2025-09-30&lt;/th&gt;
+          &lt;th&gt;2025-06-30&lt;/th&gt;
+          &lt;th&gt;2025-03-31&lt;/th&gt;
+          &lt;th&gt;2024-12-31&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;总资产&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;3,119.75*&lt;/td&gt;
+          &lt;td&gt;3,181.90&lt;/td&gt;
+          &lt;td&gt;3,194.67&lt;/td&gt;
+          &lt;td&gt;3,231.17&lt;/td&gt;
+          &lt;td&gt;3,119.75&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;流动资产&lt;/td&gt;
+          &lt;td&gt;2,369.57*&lt;/td&gt;
+          &lt;td&gt;2,451.40&lt;/td&gt;
+          &lt;td&gt;2,451.61&lt;/td&gt;
+          &lt;td&gt;2,487.80&lt;/td&gt;
+          &lt;td&gt;2,369.57&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;货币资金&lt;/td&gt;
+          &lt;td&gt;1,075.62*&lt;/td&gt;
+          &lt;td&gt;1,091.00&lt;/td&gt;
+          &lt;td&gt;1,125.27&lt;/td&gt;
+          &lt;td&gt;1,137.75&lt;/td&gt;
+          &lt;td&gt;1,075.62&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;交易性金融资产&lt;/td&gt;
+          &lt;td&gt;12.04*&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;0.04&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;应收账款&lt;/td&gt;
+          &lt;td&gt;100.07*&lt;/td&gt;
+          &lt;td&gt;158.35&lt;/td&gt;
+          &lt;td&gt;146.80&lt;/td&gt;
+          &lt;td&gt;177.22&lt;/td&gt;
+          &lt;td&gt;132.15&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;存货&lt;/td&gt;
+          &lt;td&gt;1,061.70*&lt;/td&gt;
+          &lt;td&gt;1,112.49&lt;/td&gt;
+          &lt;td&gt;1,089.17&lt;/td&gt;
+          &lt;td&gt;1,086.56&lt;/td&gt;
+          &lt;td&gt;1,072.99&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;固定资产&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;370.25&lt;/td&gt;
+          &lt;td&gt;373.97&lt;/td&gt;
+          &lt;td&gt;378.44&lt;/td&gt;
+          &lt;td&gt;383.45&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;在建工程&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;35.99&lt;/td&gt;
+          &lt;td&gt;33.95&lt;/td&gt;
+          &lt;td&gt;32.81&lt;/td&gt;
+          &lt;td&gt;30.55&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;无形资产&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;76.84&lt;/td&gt;
+          &lt;td&gt;77.14&lt;/td&gt;
+          &lt;td&gt;77.78&lt;/td&gt;
+          &lt;td&gt;78.26&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;注：2025-12-31年报数据来自WebSearch补充（新浪财经资产负债表页面），部分科目为合并口径。AI-Tools MCP最新季度数据截至2025Q3。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/investment-reports-site/reports/600085/%E5%90%8C%E4%BB%81%E5%A0%82_%E9%BE%9F%E9%BE%9F%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/investment-reports-site/reports/600085/%E5%90%8C%E4%BB%81%E5%A0%82_%E9%BE%9F%E9%BE%9F%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</guid>
+      <description>&lt;p&gt;═══════════════════════════════════════════════════════════════
+龟龟投资策略分析结论 — 同仁堂（600085.SH）
+═══════════════════════════════════════════════════════════════&lt;/p&gt;
+&lt;p&gt;【股票基本信息】
+公司名称：北京同仁堂股份有限公司
+股票代码：600085.SH
+上市地点：上海证券交易所（A股）
+持股渠道：A股直接持有
+分析日期：2026-04-15
+数据截止：2025年12月31日（2025年报）
+当前股价：28.05 元
+总股本：13.71 亿股
+当前市值：约 385 亿元&lt;/p&gt;
+&lt;p&gt;═══════════════════════════════════════════════════════════════
+因子 1A：五分钟快筛（一票否决）
+═══════════════════════════════════════════════════════════════&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;序号&lt;/th&gt;
+          &lt;th&gt;检查项&lt;/th&gt;
+          &lt;th&gt;结果&lt;/th&gt;
+          &lt;th&gt;说明&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;审计意见异常&lt;/td&gt;
+          &lt;td&gt;✅ 否&lt;/td&gt;
+          &lt;td&gt;中审众环出具标准无保留意见&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td&gt;频繁更换审计师&lt;/td&gt;
+          &lt;td&gt;✅ 否&lt;/td&gt;
+          &lt;td&gt;近年均由中审众环审计，未发现更换&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3&lt;/td&gt;
+          &lt;td&gt;财务造假/重大违规前科&lt;/td&gt;
+          &lt;td&gt;✅ 否&lt;/td&gt;
+          &lt;td&gt;未发现财务造假或重大违规记录&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;4&lt;/td&gt;
+          &lt;td&gt;看不懂（商业模式）&lt;/td&gt;
+          &lt;td&gt;✅ 否&lt;/td&gt;
+          &lt;td&gt;中成药制造与销售，商业模式清晰易懂&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5&lt;/td&gt;
+          &lt;td&gt;商业模式未被验证&lt;/td&gt;
+          &lt;td&gt;✅ 否&lt;/td&gt;
+          &lt;td&gt;1669年创立，上市近30年，已充分验证&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;6&lt;/td&gt;
+          &lt;td&gt;控股股东重大负面信号&lt;/td&gt;
+          &lt;td&gt;✅ 否&lt;/td&gt;
+          &lt;td&gt;控股股东为北京市国资委（52.45%），无重大负面&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;快筛结论：✅ 通过&lt;/strong&gt; — 六项检查均为&amp;quot;否&amp;quot;，无一票否决项，继续深度分析。&lt;/p&gt;
+&lt;p&gt;═══════════════════════════════════════════════════════════════
+因子 1B：深度定性分析
+═══════════════════════════════════════════════════════════════&lt;/p&gt;
+&lt;p&gt;━━━ 模块〇：三大报表基础数据与关键指标 ━━━&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;利润表核心数据（年度，亿元）&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;项目&lt;/th&gt;
+          &lt;th&gt;2021&lt;/th&gt;
+          &lt;th&gt;2022&lt;/th&gt;
+          &lt;th&gt;2023&lt;/th&gt;
+          &lt;th&gt;2024&lt;/th&gt;
+          &lt;th&gt;2025&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;营业收入&lt;/td&gt;
+          &lt;td&gt;~146&lt;/td&gt;
+          &lt;td&gt;~175&lt;/td&gt;
+          &lt;td&gt;~178.6&lt;/td&gt;
+          &lt;td&gt;185.97&lt;/td&gt;
+          &lt;td&gt;172.56&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;营业成本&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;~104.0&lt;/td&gt;
+          &lt;td&gt;~97.1&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;毛利润&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;~82.0&lt;/td&gt;
+          &lt;td&gt;~75.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;研发费用&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;2.69&lt;/td&gt;
+          &lt;td&gt;~2.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;销售费用&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;35.95&lt;/td&gt;
+          &lt;td&gt;~33.0&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;管理费用&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;14.77&lt;/td&gt;
+          &lt;td&gt;~13.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;归母净利润&lt;/td&gt;
+          &lt;td&gt;12.34&lt;/td&gt;
+          &lt;td&gt;14.28&lt;/td&gt;
+          &lt;td&gt;16.62&lt;/td&gt;
+          &lt;td&gt;15.26&lt;/td&gt;
+          &lt;td&gt;11.89&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;扣非净利润&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;—&lt;/td&gt;
+          &lt;td&gt;14.82&lt;/td&gt;
+          &lt;td&gt;11.47&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;关键盈利能力指标（2025年）&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

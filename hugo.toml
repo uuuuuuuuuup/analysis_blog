@@ -1,29 +1,19 @@
 baseURL = ''
 languageCode = 'zh-CN'
-title = '稳健投资策略分析报告'
+title = '稳健策略研究'
 theme = 'PaperMod'
 
 [params]
-  description = '基于稳健投资策略的A股深度分析报告'
+  description = '基于稳健策略的A股独立研究'
   author = '投资分析报告'
 
   # PaperMod 主题设置
   [params.profileMode]
     enabled = true
-    title = "稳健投资策略分析报告"
-    subtitle = "基于稳健投资策略 v2.0 的A股深度分析 | 40只优质股票全面评估"
+    title = "稳健策略研究"
+    subtitle = "基于稳健策略的A股独立研究"
     imageUrl = ""
     imageTitle = ""
-
-    [[params.profileMode.buttons]]
-      name = "📊 报告汇总"
-      url = "summary/"
-    [[params.profileMode.buttons]]
-      name = "📈 个股分析"
-      url = "reports/"
-    [[params.profileMode.buttons]]
-      name = "ℹ️ 关于策略"
-      url = "about/"
 
   # 搜索设置
   [params.fuseOpts]
@@ -55,22 +45,22 @@ theme = 'PaperMod'
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "🏠 首页"
+    name = "首页"
     url = ""
     weight = 10
   [[menu.main]]
     identifier = "summary"
-    name = "📊 报告汇总"
+    name = "报告汇总"
     url = "summary/"
     weight = 20
   [[menu.main]]
     identifier = "reports"
-    name = "📈 个股分析"
+    name = "个股分析"
     url = "reports/"
     weight = 30
   [[menu.main]]
     identifier = "about"
-    name = "ℹ️ 关于"
+    name = "关于"
     url = "about/"
     weight = 40
 

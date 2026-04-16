@@ -343,4 +343,4 @@
 
 > **报告生成时间**：2026-04-15  
 > **数据采集工具**：AI-Tools MCP（GetBalanceSheet / GetIncomeStatement / GetCashFlowStatement / GetFinancialIndicators / GetFinancialReport / GetFinancialIndicatorsJson）、WebSearch  
-> **备注**：本报告为龟龟投资策略 Phase 2 深度财务数据采集输出，标记⚠️的项目需在后续分析中通过查阅年报原文补充。
+> **备注**：本报告为稳健投资策略 Phase 2 深度财务数据采集输出，标记⚠️的项目需在后续分析中通过查阅年报原文补充。

@@ -1,29 +1,29 @@
 baseURL = ''
 languageCode = 'zh-CN'
-title = '龟龟投资策略分析报告'
+title = '稳健投资策略分析报告'
 theme = 'PaperMod'
 
 [params]
-  description = '基于龟龟投资策略的A股深度分析报告'
+  description = '基于稳健投资策略的A股深度分析报告'
   author = '投资分析报告'
 
   # PaperMod 主题设置
   [params.profileMode]
     enabled = true
-    title = "龟龟投资策略分析报告"
-    subtitle = "基于龟龟投资策略 v2.0 的A股深度分析 | 40只优质股票全面评估"
+    title = "稳健投资策略分析报告"
+    subtitle = "基于稳健投资策略 v2.0 的A股深度分析 | 40只优质股票全面评估"
     imageUrl = ""
     imageTitle = ""
 
     [[params.profileMode.buttons]]
       name = "📊 报告汇总"
-      url = "/summary/"
+      url = "summary/"
     [[params.profileMode.buttons]]
       name = "📈 个股分析"
-      url = "/reports/"
+      url = "reports/"
     [[params.profileMode.buttons]]
       name = "ℹ️ 关于策略"
-      url = "/about/"
+      url = "about/"
 
   # 搜索设置
   [params.fuseOpts]
@@ -56,22 +56,22 @@ theme = 'PaperMod'
   [[menu.main]]
     identifier = "home"
     name = "🏠 首页"
-    url = "/"
+    url = ""
     weight = 10
   [[menu.main]]
     identifier = "summary"
     name = "📊 报告汇总"
-    url = "/summary/"
+    url = "summary/"
     weight = 20
   [[menu.main]]
     identifier = "reports"
     name = "📈 个股分析"
-    url = "/reports/"
+    url = "reports/"
     weight = 30
   [[menu.main]]
     identifier = "about"
     name = "ℹ️ 关于"
-    url = "/about/"
+    url = "about/"
     weight = 40
 
 [markup]

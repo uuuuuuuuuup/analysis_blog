@@ -9,12 +9,2079 @@
     <lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>丽珠集团（000513）稳健投资策略分析报告</title>
+      <link>//localhost:1313/reports/000513/%E4%B8%BD%E7%8F%A0%E9%9B%86%E5%9B%A2_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/reports/000513/%E4%B8%BD%E7%8F%A0%E9%9B%86%E5%9B%A2_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</guid>
+      <description>&lt;div class=&#34;report-header&#34;&gt;
+  &lt;div class=&#34;report-meta&#34;&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📅 分析日期：2026-04-15&lt;/span&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📊 数据截止：2025年度&lt;/span&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📋 分析框架：稳健投资策略 v2.0&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;投资结论&#34;&gt;投资结论&lt;/h2&gt;
+&lt;div class=&#34;decision-card-v2 decision-buy&#34;&gt;
+  &lt;div class=&#34;decision-v2-header&#34;&gt;
+    &lt;div class=&#34;decision-v2-icon&#34;&gt;📈&lt;/div&gt;
+    &lt;div class=&#34;decision-v2-title&#34;&gt;
+      &lt;span class=&#34;decision-v2-label&#34;&gt;投资建议&lt;/span&gt;
+      &lt;span class=&#34;decision-v2-action&#34;&gt;建议买入&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;div class=&#34;decision-v2-metrics&#34;&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;建议仓位&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value primary&#34;&gt;50%仓位&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;目标买入价&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;37.13 元&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;当前股价&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;34.46 元&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;优先级&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;中优先级&lt;/span&gt;
+    &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;decision-v2-body&#34;&gt;
+    &lt;div class=&#34;stock-info-card&#34;&gt;
+&lt;div class=&#34;stock-info-header&#34;&gt;
+&lt;span class=&#34;stock-info-name&#34;&gt;丽珠医药集团股份有限公司&lt;/span&gt;
+&lt;span class=&#34;stock-info-code&#34;&gt;000513（A股）/ 01513（港股）&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;stock-info-body&#34;&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;持股渠道&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;A股直接持有&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;分析日期&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;2026-04-15&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;数据截止&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;2025年度&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-grid&#34;&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 1A 快筛&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    审计意见：标准无保留 | 无财务造假记录 | 商业模式清晰 | 控股股东信号正面
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-warning&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 1B 定性分析&lt;/span&gt;&lt;span class=&#34;factor-summary-badge warning&#34;&gt;⚠ 注意&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    资本消耗：中低 | 收款模式：应收为主 | 护城河：窄 | 周期性：弱 | 管理层：良好
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 2 粗算回报率&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    归母净利润：20.23亿 | Owner Earnings：22.43亿 | &lt;strong&gt;穿透回报率 R：4.95%&lt;/strong&gt; &amp;gt; 门槛 3.78%
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 3 精算回报率&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    可支配结余：22.70亿 | &lt;strong&gt;穿透回报率 GG：5.43%&lt;/strong&gt; | 外推可信度：中
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-warning&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 4 估值安全边际&lt;/span&gt;&lt;span class=&#34;factor-summary-badge warning&#34;&gt;⚠ 注意&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    安全边际：1.65 pct | 价值陷阱风险：中 | 现金保护：轻度保护（净现金/市值=23.73%）
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;risk-list&#34;&gt;
+  &lt;div class=&#34;risk-list-title&#34;&gt;⚠️ 风险提示&lt;/div&gt;
+  &lt;ul class=&#34;risk-items&#34;&gt;
+    &lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;集采冲击风险&lt;/strong&gt;：艾普拉唑片剂首仿已出（石药集团），若纳入集采将严重冲击价格体系；注射剂虽专利保护至2035年，但医保控费压力持续&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;研发资本化率异常上升&lt;/strong&gt;：2025年研发资本化率从3.51%飙升至13.67%，可能存在利润调节嫌疑，若未来费用化将直接冲击利润&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;应收账款质量恶化&lt;/strong&gt;：应收增速(16.16%)远超营收增速(1.76%)，应收/利润比达111.13%，坏账计提仅2.35%偏保守&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;竞争加剧&lt;/strong&gt;：恒瑞医药已提交亮丙瑞林微球临床申请，核心品种面临长期竞争压力&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;短期债务集中&lt;/strong&gt;：短期债务占总债务80.43%，若融资环境收紧可能面临流动性压力&lt;/li&gt;
+&lt;/ol&gt;
+
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;follow-up-list&#34;&gt;
+  &lt;div class=&#34;follow-up-title&#34;&gt;📋 后续跟踪事项&lt;/div&gt;
+  &lt;ul class=&#34;follow-up-items&#34;&gt;
+    &lt;ol&gt;
+&lt;li&gt;关注2026年管线兑现：亮丙瑞林3M剂型和促卵泡激素预充笔获批进展&lt;/li&gt;
+&lt;li&gt;跟踪艾普拉唑片剂集采动态及降价幅度&lt;/li&gt;
+&lt;li&gt;监控应收账款增速是否回归与营收同步&lt;/li&gt;
+&lt;li&gt;关注2026年研发资本化率是否回落至正常水平（&amp;lt;5%）&lt;/li&gt;
+&lt;li&gt;跟踪越南IMP海外收购整合进展&lt;/li&gt;
+&lt;li&gt;关注2026年分红方案是否维持高支付率（&amp;gt;60%）&lt;/li&gt;
+&lt;/ol&gt;
+
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;详细分析&#34;&gt;详细分析&lt;/h2&gt;
+&lt;div class=&#34;section-divider&#34;id=&#34;factor-1a&#34;&gt;
+  &lt;div class=&#34;section-icon&#34;&gt;🔍&lt;/div&gt;
+  &lt;h2 class=&#34;section-title&#34;&gt;因子 1A：五分钟快筛（一票否决）&lt;/h2&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-checklist&#34;&gt;
+  &lt;div class=&#34;screening-checklist-header&#34;&gt;
+    &lt;span class=&#34;screening-checklist-icon&#34;&gt;🔍&lt;/span&gt;
+    &lt;span class=&#34;screening-checklist-title&#34;&gt;快筛检查表&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-checklist-grid&#34;&gt;
+    
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;1&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;审计意见异常&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;标准无保留意见，致同会计师事务所&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;2&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;频繁更换审计师&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;近年均由致同审计，未发现更换记录&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;3&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;财务造假或重大违规前科&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;未发现财务造假或重大违规记录&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;4&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;看不懂（无法理解商业模式）&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;医药制造企业，业务模式清晰：化学制剂+中药+原料药+生物制品&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;5&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;商业模式未被验证&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;上市超30年，盈利模式成熟稳定&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;6&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;控股股东重大负面信号&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;健康元持股45.23%，实控人朱保国稳定掌舵超20年&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-success&#34;&gt;&lt;div class=&#34;conclusion-title&#34;&gt;快筛结论&lt;/div&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;strong&gt;✅ 通过&lt;/strong&gt; — 无一票否决项触发，继续后续分析
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;section-divider&#34;id=&#34;factor-1b&#34;&gt;
+  &lt;div class=&#34;section-icon&#34;&gt;📊&lt;/div&gt;
+  &lt;h2 class=&#34;section-title&#34;&gt;因子 1B：深度定性分析&lt;/h2&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;模块三大报表基础数据与关键指标&#34;&gt;模块〇：三大报表基础数据与关键指标&lt;/h3&gt;
+&lt;h4 id=&#34;1-利润表核心数据&#34;&gt;1. 利润表核心数据&lt;/h4&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;利润表核心数据&lt;/span&gt;&lt;span class=&#34;data-section-unit&#34;&gt;单位：百万元&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;年份&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;营业收入&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;营业成本&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;毛利润&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;研发费用&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;销售费用&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;管理费用&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;归母净利润&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2021&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;12,064&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;4,160&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;7,904&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;900&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3,000&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;550&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1,770&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2022&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;12,630&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;4,350&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;8,280&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;950&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3,100&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;580&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1,910&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2023&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;12,430&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;4,295&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;8,135&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1,000&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3,200&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;600&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1,954&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2024&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;11,812&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;4,082&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;7,730&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1,033&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3,255&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;613&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2,061&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2025&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;12,020&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;4,027&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;7,993&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;938&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3,100&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;600&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2,023&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;📌 注：营业成本根据毛利率推算（2025年毛利率66.39%，2024年65.45%）；2021-2023年数据为估算值&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>古井贡酒（000596）稳健投资策略分析报告</title>
+      <link>//localhost:1313/reports/000596/%E5%8F%A4%E4%BA%95%E8%B4%A1%E9%85%92_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/reports/000596/%E5%8F%A4%E4%BA%95%E8%B4%A1%E9%85%92_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</guid>
+      <description>&lt;div class=&#34;report-header&#34;&gt;
+  &lt;div class=&#34;report-meta&#34;&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📅 分析日期：2026-04-15&lt;/span&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📊 数据截止：&lt;/span&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📋 分析框架：稳健投资策略 v2.0&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;投资结论&#34;&gt;投资结论&lt;/h2&gt;
+&lt;div class=&#34;decision-card-v2 decision-observe&#34;&gt;
+  &lt;div class=&#34;decision-v2-header&#34;&gt;
+    &lt;div class=&#34;decision-v2-icon&#34;&gt;👀&lt;/div&gt;
+    &lt;div class=&#34;decision-v2-title&#34;&gt;
+      &lt;span class=&#34;decision-v2-label&#34;&gt;投资建议&lt;/span&gt;
+      &lt;span class=&#34;decision-v2-action&#34;&gt;观察等待&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;div class=&#34;decision-v2-metrics&#34;&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;建议仓位&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value primary&#34;&gt;高优先级观察&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;目标买入价&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;100.61 元&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;当前股价&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;106.12 元&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;优先级&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;高&lt;/span&gt;
+    &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;decision-v2-body&#34;&gt;
+    &lt;div class=&#34;stock-info-card&#34;&gt;
+&lt;div class=&#34;stock-info-header&#34;&gt;
+&lt;span class=&#34;stock-info-name&#34;&gt;古井贡酒&lt;/span&gt;
+&lt;span class=&#34;stock-info-code&#34;&gt;000596.SZ&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;stock-info-body&#34;&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;公司名称&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;安徽古井贡酒股份有限公司&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;持股渠道&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;A股直接持有&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;所属行业&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;白酒（次高端价格带）&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;控股股东&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;安徽古井集团（51.34%）&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;实际控制人&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;亳州市国资委&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-grid&#34;&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 1A 快筛&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    审计意见：标准无保留 | 无财务造假记录 | 商业模式清晰 | 国企控股
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-warning&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 1B 定性分析&lt;/span&gt;&lt;span class=&#34;factor-summary-badge warning&#34;&gt;⚠ 注意&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    护城河：窄到中 | 收款模式：预收为主 | 品牌价值同比下滑19.7%
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 2 粗算回报率&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    R = 5.78% | II = 3.78% | 粗算显著达标
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-warning&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 3 精算回报率&lt;/span&gt;&lt;span class=&#34;factor-summary-badge warning&#34;&gt;⚠ 注意&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    GG = 3.43%（市值口径）| GG_EV = 5.33%（EV口径）| 边际不达标
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-warning&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 4 估值安全边际&lt;/span&gt;&lt;span class=&#34;factor-summary-badge warning&#34;&gt;⚠ 注意&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    安全边际：-0.35 pct | 价值陷阱风险：中 | 现金保护：轻度
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;p&gt;&lt;strong&gt;核心判断&lt;/strong&gt;：市值口径边际不达标（GG=3.43% &amp;lt; II=3.78%），但EV口径显著达标（GG_EV=5.33%）。公司为典型净现金公司（广义净现金/市值=35.5%），当前处于行业调整期底部，股价距5年低点仅+4.2%。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>格力电器（000651）稳健投资策略分析报告</title>
+      <link>//localhost:1313/reports/000651/%E6%A0%BC%E5%8A%9B%E7%94%B5%E5%99%A8_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/reports/000651/%E6%A0%BC%E5%8A%9B%E7%94%B5%E5%99%A8_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</guid>
+      <description>&lt;div class=&#34;report-header&#34;&gt;
+  &lt;div class=&#34;report-meta&#34;&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📅 分析日期：2026-04-15&lt;/span&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📊 数据截止：&lt;/span&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📋 分析框架：稳健投资策略 v2.0&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;投资结论&#34;&gt;投资结论&lt;/h2&gt;
+&lt;div class=&#34;decision-card-v2 decision-buy&#34;&gt;
+  &lt;div class=&#34;decision-v2-header&#34;&gt;
+    &lt;div class=&#34;decision-v2-icon&#34;&gt;📈&lt;/div&gt;
+    &lt;div class=&#34;decision-v2-title&#34;&gt;
+      &lt;span class=&#34;decision-v2-label&#34;&gt;投资建议&lt;/span&gt;
+      &lt;span class=&#34;decision-v2-action&#34;&gt;建议买入&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;div class=&#34;decision-v2-metrics&#34;&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;建议仓位&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value primary&#34;&gt;70%仓位&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;目标买入价&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;42.89 元&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;当前股价&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;37.39 元&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;优先级&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;高优先级&lt;/span&gt;
+    &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;decision-v2-body&#34;&gt;
+    &lt;div class=&#34;stock-info-card&#34;&gt;
+&lt;div class=&#34;stock-info-header&#34;&gt;
+&lt;span class=&#34;stock-info-name&#34;&gt;格力电器&lt;/span&gt;
+&lt;span class=&#34;stock-info-code&#34;&gt;000651.SZ&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;stock-info-body&#34;&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;持股渠道&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;A股直接持有&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;分析日期&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;2026-04-15&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;数据截止&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;2025年报&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-grid&#34;&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 1A 快筛&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    审计意见：标准无保留 | 无财务造假记录 | 商业模式清晰 | 已验证近30年
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 1B 定性分析&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    资本消耗：低 | 收款模式：预收/现结 | 护城河：宽 | 周期性：弱周期
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 2 粗算回报率&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    粗算穿透回报率：8.26% | 门槛：3.78% | 超额：+4.48 pct
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 3 精算回报率&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    精算穿透回报率：5.42% | 外推可信度：中 | 临界收入倍数：0.80×
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 4 估值安全边际&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    安全边际：1.64 pct | 价值陷阱风险：低 | 现金保护：强（54.8%）
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;risk-list&#34;&gt;
+  &lt;div class=&#34;risk-list-title&#34;&gt;⚠️ 风险提示&lt;/div&gt;
+  &lt;ul class=&#34;risk-items&#34;&gt;
+    &lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;行业价格战风险&lt;/strong&gt;：2025Q4价格战对利润率侵蚀明显，若持续则归母净利润可能进一步承压&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;海外布局滞后&lt;/strong&gt;：海外营收占比仅18.18%，远低于美的42.93%和海尔51.53%，全球化竞争力不足&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;新业务亏损&lt;/strong&gt;：格力钛（储能）持续亏损，短期拖累利润；新兴业务营收占比不足10%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;渠道改革阵痛&lt;/strong&gt;：传统经销商体系改革可能带来短期费用增加和渠道摩擦&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据完整性风险&lt;/strong&gt;：本次分析数据完整度约70%，部分附注级别明细缺失，可能影响精算精度&lt;/li&gt;
+&lt;/ol&gt;
+
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;follow-up-list&#34;&gt;
+  &lt;div class=&#34;follow-up-title&#34;&gt;📋 后续跟踪事项&lt;/div&gt;
+  &lt;ul class=&#34;follow-up-items&#34;&gt;
+    &lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;关注2025年报完整披露&lt;/strong&gt;：补充母公司单体报表、非经常性损益明细、或有负债等关键数据&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;跟踪行业价格战演进&lt;/strong&gt;：若价格战缓和，利润率有望修复；若持续，需重新评估AA基准值&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;监控格力钛亏损收窄进度&lt;/strong&gt;：新能源业务若实现盈亏平衡，将释放额外利润&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关注渠道改革成效&lt;/strong&gt;：观察库存周转、回款速度等指标是否改善&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;定期复核安全边际&lt;/strong&gt;：若股价上涨至42.89元以上，需重新评估买入条件&lt;/li&gt;
+&lt;/ol&gt;
+
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;详细分析&#34;&gt;详细分析&lt;/h2&gt;
+&lt;div class=&#34;section-divider&#34;&gt;
+  &lt;div class=&#34;section-icon&#34;&gt;🔍&lt;/div&gt;
+  &lt;h2 class=&#34;section-title&#34;&gt;因子 1A：五分钟快筛&lt;/h2&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-checklist&#34;&gt;
+  &lt;div class=&#34;screening-checklist-header&#34;&gt;
+    &lt;span class=&#34;screening-checklist-icon&#34;&gt;🔍&lt;/span&gt;
+    &lt;span class=&#34;screening-checklist-title&#34;&gt;快筛检查表&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-checklist-grid&#34;&gt;
+    
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;1&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;审计意见异常&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;中审众环出具标准无保留意见（众环审字(2025)0500119号）&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;2&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;频繁更换审计师&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;中审众环持续担任，近年来未更换；2024年度评估履职合格&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;3&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;财务造假或重大违规前科&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;无公开记录&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;4&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;看不懂（无法理解商业模式）&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;空调制造+销售，商业模式清晰，1996年上市以来已验证近30年&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;5&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;商业模式未被验证&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;空调行业龙头，线下份额第一，中央空调连续14年市占率第一&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;6&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;控股股东重大负面信号&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;高瓴资本（珠海明骏）为第一大股东，持股16.02%，无重大负面&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;strong&gt;快筛结论：✅ 通过（无否决项）&lt;/strong&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;div class=&#34;section-divider&#34;&gt;
+  &lt;div class=&#34;section-icon&#34;&gt;📊&lt;/div&gt;
+  &lt;h2 class=&#34;section-title&#34;&gt;因子 1B：深度定性分析&lt;/h2&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;模块三大报表基础数据与关键指标&#34;&gt;模块〇：三大报表基础数据与关键指标&lt;/h3&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;利润表核心数据（亿元）&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;项目&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;2025FY&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;2024FY&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;2025H1&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;2025Q3&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;数据来源&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;营业收入&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1,912.36&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1,900.38&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;976.19&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1,376.54&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools/WebSearch&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;营业成本&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;—&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1,548.68&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;815.36&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1,138.24&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;毛利润&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;—&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;351.70&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;160.83&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;238.30&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;推算&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;研发费用&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;—&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;69.04&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;39.18&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;56.22&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;销售费用&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;—&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;97.53&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;62.02&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;75.89&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;管理费用&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;—&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;60.58&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;31.45&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;43.04&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;财务费用&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;—&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;-33.00&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;-23.00&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;-32.97&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools（净收入）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;归母净利润&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;286.72&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;321.85&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;145.13&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;215.77&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools/WebSearch&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;少数股东损益&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;—&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;~1.86&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;—&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;—&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;推算&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;关键盈利能力指标&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;指标&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;2024FY&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;2025Q3&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;数据来源&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;毛利率&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;29.43%&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;28.44%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;经营利润率&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;~19.5%&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;~18.2%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;推算&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;净利率&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;17.11%&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;15.73%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;销售费用率&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;5.13%&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;5.51%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;推算&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;研发费用率&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3.63%&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;4.09%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;推算&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;有效税率&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;~15%&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;~12-13%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;WebSearch&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;资产负债表核心数据（亿元）&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;项目&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;2024FY&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;2025Q3&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;数据来源&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;货币资金&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1,139.00&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1,162.35&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;现金及等价物&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;211.41&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;285.99&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;应收账款&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;168.32&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;150.20&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;存货&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;279.11&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;253.42&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;流动资产&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2,248.03&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2,599.18&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;固定资产&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;369.96&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;348.95&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;总资产&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3,680.32&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3,992.22&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;短期借款&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;~500&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;~572&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;WebSearch&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;长期借款&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;182.30&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;29.57&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;有息负债合计&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;~600&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;~490&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;WebSearch/推算&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;股东权益&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1,415.14&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1,485.12&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;归母股东权益&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1,374.17&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1,444.24&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;现金流量表核心数据（亿元）&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;项目&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;2024FY&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;2025Q3(1-9月)&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;数据来源&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;OCF（经营现金流）&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;293.69&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;457.28&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;投资现金流&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;-155.58&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;-426.08&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;筹资现金流&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;-237.03&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;41.64&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;期末现金及等价物&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;211.41&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;285.99&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;details class=&#34;code-collapse&#34;&gt;
+  &lt;summary class=&#34;code-collapse-summary&#34;&gt;📊 展开因子 2/3/4 计算参数预提取&lt;/summary&gt;
+  &lt;div class=&#34;code-collapse-content&#34;&gt;
+    &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;25
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;26
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;27
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;28
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;29
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;30
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;31
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;32
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;33
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;34
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;35
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;36
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;37
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;38
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;39
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;40
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;41
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;42
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;═════ 市值与股价参数 ════
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;当前股价 = 37.39 元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;总股本（稀释后）= 56.01 亿股
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;当前市值 = 2,094 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;汇率 = 不适用（人民币计价）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;═════ 盈利参数 ════
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;集团净利润 A = 323.71 亿元（2024FY）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;少数股东损益 B = ~1.86 亿元（2024FY推算）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GAAP 归母净利润 C = A − B = 321.85 亿元（2024FY）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;2025FY 归母净利润 C&amp;#39; = 286.72 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;主营经营利润（锚定口径）= ~350 亿元（2024FY）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;折旧摊销 D = ~35 亿元（估算，基于固定资产规模及行业惯例）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;资本开支 E = ~80 亿元（估算纯Capex，不含理财投资）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SBC = 不适用（A股无股权激励费用披露）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;═════ 现金与负债参数 ════
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;现金及等价物 = 211.41 亿元（2024FY）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;受限现金 CC ≈ 111 亿元（质押借款对应保证金，2025H1口径）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;短期投资（交易性金融资产）≈ 420 亿元（2025Q3口径）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;持有至到期定期存款/理财 ≈ 927.59 亿元（货币资金-现金等价物推算）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;狭义现金合计 BB_narrow = 211.41 + 420 = 631.41 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;广义现金合计 BB = 1,139.00 + 420 + 59 + 129 ≈ 1,747 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  注：含货币资金+交易性金融资产+其他债权投资+其他非流动金融资产
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;超广义现金 BB_super ≈ 1,747 亿元（含合同负债后无变化）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;有息负债合计 ≈ 600 亿元（2024FY估算）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;狭义净现金 = 631.41 - 600 = 31.41 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;广义净现金 = 1,747 - 600 = 1,147 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;═════ 分配参数 ════
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;最新年报股息总额 = 167.95 亿元（2024FY含中期分红）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;最新年报归母净利润 = 321.85 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;最新年报支付率 = 52.2%
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;过去3年支付率序列 = [45.29%, 45.7%, 52.2%]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;支付率均值 M_hist = 47.7%
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;最新派息信号 = DPS已提升（2024年含中期分红，总支付率上升）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;年均回购金额 O = 20 亿元（三期回购120亿/6年，保守取值）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;支付率锚定值 M = 50%
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;═════ 估值基准参数 ════
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Rf（十年期国债）= 1.78%
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;门槛 II = max(3.5%, 1.78% + 2%) = 3.78%（A股门槛）
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h3 id=&#34;模块一资本消耗强度&#34;&gt;模块一：资本消耗强度&lt;/h3&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;资本消耗强度评估&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;指标&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;值&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;评价&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Capex/营收（2024FY估算）&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;~4.2%（纯Capex 80亿/1900亿）&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;低&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;固定资产/总资产&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;10.1%（369.96/3,680.32）&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;低&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;在建工程/总资产&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;0.8%（30.76/3,680.32）&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;低&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;资本消耗强度判定&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;—&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;低&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    格力属于轻资本消耗型制造企业。固定资产占比仅10%，纯Capex占营收约4%，远低于重资产行业。大量投资现金流用于理财产品而非实体资本开支。
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;模块二收款模式&#34;&gt;模块二：收款模式&lt;/h3&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;收款模式评估&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;指标&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;值&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;评价&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;应收账款周转天数&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;31.34天（2024FY）&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;极快&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;应收账款/营收&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;8.9%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;低&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;现金循环周期&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;-6.08天（2024FY）&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;负值，强势&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;应付账款周转天数&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;118.98天&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;对上游强势&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;收款模式判定&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;—&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;预收/现结为主&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    格力现金循环周期为负值，意味着公司占用上下游资金运营，无需自有资金垫付。这是渠道强势地位的体现。
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;模块三竞争格局与护城河&#34;&gt;模块三：竞争格局与护城河&lt;/h3&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;第一层：非技术性护城河&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;护城河维度&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;评级&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;说明&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;品牌溢价&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;强&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;家用空调线下份额29.42%第一，中央空调连续14年第一&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;渠道网络&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;中强&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;深耕线下经销商体系，但渠道改革仍在深化&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;规模效应&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;强&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;年产能超6000万台，成本控制行业领先&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;转换成本&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;中&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;消费者品牌认知度高，但非不可替代&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;第二层：技术性护城河&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;护城河维度&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;评级&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;说明&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;核心技术自研&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;强&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;累计50项&amp;quot;国际领先&amp;quot;技术，压缩机等核心部件自研&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;研发投入&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;中&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;研发费用率3.6-4.1%，行业中等偏上&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;专利壁垒&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;中强&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;大量核心专利，但空调技术迭代相对缓慢&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;p&gt;&lt;strong&gt;护城河评级：宽（Wide）&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>泸州老窖（000568）稳健投资策略分析报告</title>
+      <link>//localhost:1313/reports/000568/analysis_report/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/reports/000568/analysis_report/</guid>
+      <description>&lt;div class=&#34;report-header&#34;&gt;
+  &lt;div class=&#34;report-meta&#34;&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📅 分析日期：2026-04-15&lt;/span&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📊 数据截止：&lt;/span&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📋 分析框架：稳健投资策略 v2.0&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;投资结论&#34;&gt;投资结论&lt;/h2&gt;
+&lt;div class=&#34;decision-card-v2 decision-buy&#34;&gt;
+  &lt;div class=&#34;decision-v2-header&#34;&gt;
+    &lt;div class=&#34;decision-v2-icon&#34;&gt;📈&lt;/div&gt;
+    &lt;div class=&#34;decision-v2-title&#34;&gt;
+      &lt;span class=&#34;decision-v2-label&#34;&gt;投资建议&lt;/span&gt;
+      &lt;span class=&#34;decision-v2-action&#34;&gt;建议买入&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;div class=&#34;decision-v2-metrics&#34;&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;建议仓位&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value primary&#34;&gt;70%仓位&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;目标买入价&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;130.6-157.0 元&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;当前股价&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;103.09 元&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;优先级&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;高优先级&lt;/span&gt;
+    &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;decision-v2-body&#34;&gt;
+    &lt;div class=&#34;stock-info-card&#34;&gt;
+&lt;div class=&#34;stock-info-header&#34;&gt;
+&lt;span class=&#34;stock-info-name&#34;&gt;泸州老窖&lt;/span&gt;
+&lt;span class=&#34;stock-info-code&#34;&gt;000568.SZ&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;stock-info-body&#34;&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;持股渠道&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;A股直接持有&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;分析日期&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;2026-04-15&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;数据截止&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;2024FY / 2025Q3&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-grid&#34;&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 1A 快筛&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    审计意见：标准无保留 | 无财务造假记录 | 商业模式清晰 | 控股股东增持
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 1B 定性分析&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    资本消耗：低 | 收款模式：预收（先款后货）| 护城河：宽 | 管理层：良好
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 2 粗算回报率&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    Owner Earnings：138.63亿元 | 支付率：70% | 粗算回报率：6.40%
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 3 精算回报率&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    2024FY口径：8.21% | 2年平均口径：6.83% | 外推可信度：中
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 4 估值安全边际&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    安全边际：3.05-4.43 pct | 价值陷阱风险：低 | 目标买入价：130.6-157.0元
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;risk-list&#34;&gt;
+  &lt;div class=&#34;risk-list-title&#34;&gt;⚠️ 风险提示&lt;/div&gt;
+  &lt;ul class=&#34;risk-items&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;白酒行业深度调整期持续，营收净利短期承压（2025Q1-Q3双降）&lt;/li&gt;
+&lt;li&gt;存货高企（133.93亿元），存货周转天数约1,158天，若需求复苏不及预期可能加剧渠道压力&lt;/li&gt;
+&lt;li&gt;前五大经销商营收占比67.54%，客户集中度风险较高&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;存借双高&amp;quot;现象（货币资金335.78亿 vs 有息负债95.47亿），需关注资金使用效率&lt;/li&gt;
+&lt;li&gt;非经营性资金占用（子公司其他应收款~142亿元），需关注资金安全性&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;follow-up-list&#34;&gt;
+  &lt;div class=&#34;follow-up-title&#34;&gt;📋 后续跟踪事项&lt;/div&gt;
+  &lt;ul class=&#34;follow-up-items&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;跟踪2025年年报数据，验证营收是否企稳回升及OCF趋势&lt;/li&gt;
+&lt;li&gt;关注存货去化进度及渠道库存健康度&lt;/li&gt;
+&lt;li&gt;跟踪2025年分红方案执行情况（支付率≥70%，金额≥85亿元）&lt;/li&gt;
+&lt;li&gt;监控控股股东增减持动向&lt;/li&gt;
+&lt;li&gt;关注消费税改革政策进展&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;详细分析&#34;&gt;详细分析&lt;/h2&gt;
+&lt;div class=&#34;section-divider&#34;&gt;
+  &lt;div class=&#34;section-icon&#34;&gt;🔍&lt;/div&gt;
+  &lt;h2 class=&#34;section-title&#34;&gt;因子 1A：五分钟快筛&lt;/h2&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-checklist&#34;&gt;
+  &lt;div class=&#34;screening-checklist-header&#34;&gt;
+    &lt;span class=&#34;screening-checklist-icon&#34;&gt;🔍&lt;/span&gt;
+    &lt;span class=&#34;screening-checklist-title&#34;&gt;快筛检查表&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-checklist-grid&#34;&gt;
+    
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;1&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;审计意见异常&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;2024年度审计意见为**标准无保留意见**，审计机构为信永中和会计师事务所&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;2&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;频繁更换审计师&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;信永中和近年来持续担任公司审计机构，未发现更换记录&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;3&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;财务造假或重大违规前科&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;无财务造假记录；历史存款纠纷（5亿元）已收回3.76亿元，属历史遗留问题&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;4&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;看不懂（无法理解商业模式）&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;高端白酒生产销售，商业模式清晰：酿造→品牌溢价→经销商预付款→销售&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;5&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;商业模式未被验证&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;国窖1573品牌已验证超20年，浓香型白酒非遗酿造技艺传承数百年&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;6&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;控股股东重大负面信号&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;泸州市国资委控股，2025年老窖集团增持234.53万股，彰显信心&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;strong&gt;快筛结论：✅ 全部通过，继续后续分析&lt;/strong&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;div class=&#34;section-divider&#34;&gt;
+  &lt;div class=&#34;section-icon&#34;&gt;📊&lt;/div&gt;
+  &lt;h2 class=&#34;section-title&#34;&gt;因子 1B：深度定性分析&lt;/h2&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;模块三大报表基础数据与关键指标&#34;&gt;模块〇：三大报表基础数据与关键指标&lt;/h3&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;利润表核心数据（2024FY，单位：亿元）&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;项目&lt;/th&gt;
+          &lt;th&gt;2024FY&lt;/th&gt;
+          &lt;th&gt;数据来源&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;营业收入&lt;/td&gt;
+          &lt;td&gt;311.96&lt;/td&gt;
+          &lt;td&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;营业成本&lt;/td&gt;
+          &lt;td&gt;130.53&lt;/td&gt;
+          &lt;td&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;毛利润&lt;/td&gt;
+          &lt;td&gt;181.43&lt;/td&gt;
+          &lt;td&gt;计算值&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;税金及附加&lt;/td&gt;
+          &lt;td&gt;47.54&lt;/td&gt;
+          &lt;td&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;销售费用&lt;/td&gt;
+          &lt;td&gt;35.38&lt;/td&gt;
+          &lt;td&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;管理费用&lt;/td&gt;
+          &lt;td&gt;11.01&lt;/td&gt;
+          &lt;td&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;财务费用&lt;/td&gt;
+          &lt;td&gt;-4.89&lt;/td&gt;
+          &lt;td&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;经营利润&lt;/td&gt;
+          &lt;td&gt;182.07&lt;/td&gt;
+          &lt;td&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;归母净利润&lt;/td&gt;
+          &lt;td&gt;134.73&lt;/td&gt;
+          &lt;td&gt;AI-Tools GetFinancialReport&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;少数股东损益&lt;/td&gt;
+          &lt;td&gt;0.25&lt;/td&gt;
+          &lt;td&gt;计算值&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;D&amp;amp;A（折旧摊销）&lt;/td&gt;
+          &lt;td&gt;~6.5&lt;/td&gt;
+          &lt;td&gt;估算（固定资产91.32×6%+无形资产34.18×3%）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;SBC（股权激励）&lt;/td&gt;
+          &lt;td&gt;~0.2&lt;/td&gt;
+          &lt;td&gt;估算（回购金额极小）&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;关键盈利能力指标（2024FY）&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;指标&lt;/th&gt;
+          &lt;th&gt;数值&lt;/th&gt;
+          &lt;th&gt;行业对比&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;毛利率&lt;/td&gt;
+          &lt;td&gt;87.54%&lt;/td&gt;
+          &lt;td&gt;高端白酒第一梯队&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;经营利润率&lt;/td&gt;
+          &lt;td&gt;58.36%&lt;/td&gt;
+          &lt;td&gt;极优&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;净利率&lt;/td&gt;
+          &lt;td&gt;43.27%&lt;/td&gt;
+          &lt;td&gt;极优&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;销售费用率&lt;/td&gt;
+          &lt;td&gt;11.34%&lt;/td&gt;
+          &lt;td&gt;合理&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;管理费用率&lt;/td&gt;
+          &lt;td&gt;3.53%&lt;/td&gt;
+          &lt;td&gt;优秀&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;有效税率&lt;/td&gt;
+          &lt;td&gt;~25.8%&lt;/td&gt;
+          &lt;td&gt;正常&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ROE&lt;/td&gt;
+          &lt;td&gt;30.44%&lt;/td&gt;
+          &lt;td&gt;极优&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;资产负债表核心数据（2024FY，单位：亿元）&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;项目&lt;/th&gt;
+          &lt;th&gt;金额&lt;/th&gt;
+          &lt;th&gt;说明&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;货币资金&lt;/td&gt;
+          &lt;td&gt;335.78&lt;/td&gt;
+          &lt;td&gt;占总资产49.14%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;应收账款&lt;/td&gt;
+          &lt;td&gt;1.10&lt;/td&gt;
+          &lt;td&gt;极小，预收模式&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;存货&lt;/td&gt;
+          &lt;td&gt;133.93&lt;/td&gt;
+          &lt;td&gt;占总资产19.60%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;流动资产&lt;/td&gt;
+          &lt;td&gt;508.56&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;固定资产&lt;/td&gt;
+          &lt;td&gt;91.32&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;无形资产&lt;/td&gt;
+          &lt;td&gt;34.18&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;总资产&lt;/td&gt;
+          &lt;td&gt;683.35&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;有息负债合计&lt;/td&gt;
+          &lt;td&gt;95.47&lt;/td&gt;
+          &lt;td&gt;长期借款62.80+短期32.67&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;合同负债/预收款&lt;/td&gt;
+          &lt;td&gt;⚠️未获取&lt;/td&gt;
+          &lt;td&gt;需查阅年报附注&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;股东权益&lt;/td&gt;
+          &lt;td&gt;475.08&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;现金流量表核心数据（2024FY，单位：亿元）&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;项目&lt;/th&gt;
+          &lt;th&gt;金额&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;OCF（经营活动现金流）&lt;/td&gt;
+          &lt;td&gt;191.82&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Capex（资本开支）&lt;/td&gt;
+          &lt;td&gt;13.83&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;FCF = OCF - Capex&lt;/td&gt;
+          &lt;td&gt;177.99&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;股息支付&lt;/td&gt;
+          &lt;td&gt;87.59&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;回购金额&lt;/td&gt;
+          &lt;td&gt;~0（仅股权激励回购，可忽略）&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;details class=&#34;code-collapse&#34;&gt;
+  &lt;summary class=&#34;code-collapse-summary&#34;&gt;📊 展开计算参数预提取&lt;/summary&gt;
+  &lt;div class=&#34;code-collapse-content&#34;&gt;
+    &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;25
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;26
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;27
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;28
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;29
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;30
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;31
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;32
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;33
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;34
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;35
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;36
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;37
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;38
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;39
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;40
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;41
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;════ 市值与股价参数 ════
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;当前股价 = 103.09 元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;总股本（稀释后）= 14.69 亿股
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;当前市值 = 1,517 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;汇率 = 不适用（人民币标的）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;════ 盈利参数 ════
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;集团净利润 [A] = 134.98 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;少数股东损益 [B] = 0.25 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GAAP 归母净利润 [C] = A − B = 134.73 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;主营经营利润（锚定口径）= 182.07 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;折旧摊销 [D] = 6.5 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;资本开支 [E] = 13.83 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SBC = 0.2 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;════ 现金与负债参数 ════
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;现金及等价物 = 335.78 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;受限现金 [CC] ≈ 0 亿元（公司声明基本无受限现金）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;短期投资 = 0 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;持有至到期定期存款/理财 = ⚠️未获取
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;狭义现金合计 [BB_narrow] = 335.78 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;广义现金合计 [BB] = 335.78 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;合同负债/预收款 [BB_contract] = ⚠️未获取
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;超广义现金 [BB_super] = ⚠️未获取（缺合同负债数据）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;有息负债合计 = 95.47 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;狭义净现金 = 335.78 − 95.47 = 240.31 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;广义净现金 = 335.78 − 95.47 = 240.31 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;════ 分配参数 ════
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;最新年报股息总额 = 87.59 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;最新年报归母净利润 = 134.73 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;最新年报支付率 = 65.0%
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;过去 3 年支付率序列 = [59.8%, 64.4%, 65.0%]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;支付率均值 [M_hist] = 63.1%
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;最新派息信号 = DPS 已提升（2024-2026分红规划逐年提升至75%）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;年均回购金额 [O] ≈ 0 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;支付率锚定值 [M] = 70%（采用2025年目标支付率）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;════ 估值基准参数 ════
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Rf（十年期国债）= 1.78%
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;门槛 [II] = max(3.5%, 1.78%+2%) = max(3.5%, 3.78%) = 3.78%
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;hr&gt;
+&lt;h3 id=&#34;模块一资本消耗强度&#34;&gt;模块一：资本消耗强度&lt;/h3&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;资本消耗强度指标&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;指标&lt;/th&gt;
+          &lt;th&gt;数值&lt;/th&gt;
+          &lt;th&gt;评价&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Capex/营业收入&lt;/td&gt;
+          &lt;td&gt;4.43%&lt;/td&gt;
+          &lt;td&gt;极低&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;FCF/OCF&lt;/td&gt;
+          &lt;td&gt;87.1%&lt;/td&gt;
+          &lt;td&gt;极高&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;维持性资本开支系数 G&lt;/td&gt;
+          &lt;td&gt;0.4&lt;/td&gt;
+          &lt;td&gt;低（白酒行业扩产为主，维持性开支少）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;资本消耗趋势&lt;/td&gt;
+          &lt;td&gt;在建工程增长（8.07→13.53亿元）&lt;/td&gt;
+          &lt;td&gt;扩产周期，非维持性&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;strong&gt;资本消耗强度评级：低&lt;/strong&gt; ✅&lt;br&gt;
+白酒行业天然低资本消耗，公司当前资本开支主要用于技改扩产，维持性开支占比低。
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h3 id=&#34;模块二收款模式&#34;&gt;模块二：收款模式&lt;/h3&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;收款模式指标&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;指标&lt;/th&gt;
+          &lt;th&gt;数值&lt;/th&gt;
+          &lt;th&gt;评价&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;应收账款/营业收入&lt;/td&gt;
+          &lt;td&gt;0.04%&lt;/td&gt;
+          &lt;td&gt;极低&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;应收账款周转天数&lt;/td&gt;
+          &lt;td&gt;0.16天&lt;/td&gt;
+          &lt;td&gt;极快&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;预收/合同负债模式&lt;/td&gt;
+          &lt;td&gt;先款后货&lt;/td&gt;
+          &lt;td&gt;极强议价能力&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;前五大经销商营收占比&lt;/td&gt;
+          &lt;td&gt;67.54%&lt;/td&gt;
+          &lt;td&gt;集中度高&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;strong&gt;收款模式评级：预收模式（最优）&lt;/strong&gt; ✅&lt;br&gt;
+公司对下游经销商拥有极强议价能力，基本采用先款后货模式，应收账款可忽略不计。
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h3 id=&#34;模块三竞争格局与护城河&#34;&gt;模块三：竞争格局与护城河&lt;/h3&gt;
+&lt;h4 id=&#34;非技术性护城河&#34;&gt;非技术性护城河&lt;/h4&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;非技术性护城河评估&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;护城河来源&lt;/th&gt;
+          &lt;th&gt;强度&lt;/th&gt;
+          &lt;th&gt;说明&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;品牌力&lt;/td&gt;
+          &lt;td&gt;极强&lt;/td&gt;
+          &lt;td&gt;国窖1573稳居200亿阵营，&amp;ldquo;浓香国酒&amp;quot;定位&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;转换成本&lt;/td&gt;
+          &lt;td&gt;中等&lt;/td&gt;
+          &lt;td&gt;消费者品牌偏好存在惯性&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;网络效应&lt;/td&gt;
+          &lt;td&gt;弱&lt;/td&gt;
+          &lt;td&gt;不适用&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;规模经济&lt;/td&gt;
+          &lt;td&gt;强&lt;/td&gt;
+          &lt;td&gt;高端白酒产量稀缺性+品牌溢价&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&#34;技术性护城河&#34;&gt;技术性护城河&lt;/h4&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;技术性护城河评估&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;护城河来源&lt;/th&gt;
+          &lt;th&gt;强度&lt;/th&gt;
+          &lt;th&gt;说明&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;百年老窖池群&lt;/td&gt;
+          &lt;td&gt;极强&lt;/td&gt;
+          &lt;td&gt;国宝级窖池不可复制，微生物生态系统独特&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;非遗酿造技艺&lt;/td&gt;
+          &lt;td&gt;强&lt;/td&gt;
+          &lt;td&gt;浓香型白酒国家非遗，传承数百年&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;基酒储备&lt;/td&gt;
+          &lt;td&gt;强&lt;/td&gt;
+          &lt;td&gt;国窖1573基酒储备1.25万吨&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;strong&gt;护城河评级：宽护城河&lt;/strong&gt; ✅&lt;br&gt;
+百年老窖池群是核心不可复制资产，品牌力+稀缺资源构成双重壁垒。但需关注山西汾酒营收反超带来的竞争压力。
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h3 id=&#34;模块四周期性&#34;&gt;模块四：周期性&lt;/h3&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;周期性分析&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;指标&lt;/th&gt;
+          &lt;th&gt;分析&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;行业周期位置&lt;/td&gt;
+          &lt;td&gt;白酒行业深度调整期（2024年起）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;公司营收增速&lt;/td&gt;
+          &lt;td&gt;2024FY +3.19%（近十年新低），2025Q1-Q3 -4.84%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;高端白酒需求&lt;/td&gt;
+          &lt;td&gt;结构性升级持续，但短期承压&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;终端需求可逆性&lt;/td&gt;
+          &lt;td&gt;可逆（消费升级长期趋势不变）&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;strong&gt;周期性评级：弱周期&lt;/strong&gt; ✅&lt;br&gt;
+高端白酒具有弱周期特征，当前处于行业调整中段，终端需求为周期性波动而非结构性衰退。
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h3 id=&#34;模块五人力资本依赖&#34;&gt;模块五：人力资本依赖&lt;/h3&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;人力资本依赖分析&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;指标&lt;/th&gt;
+          &lt;th&gt;分析&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;核心人物依赖&lt;/td&gt;
+          &lt;td&gt;中等（传统酿造技艺依赖经验丰富的酿酒师）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;可替代性&lt;/td&gt;
+          &lt;td&gt;品牌和窖池资产大于个人，管理层更替风险可控&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;股权激励&lt;/td&gt;
+          &lt;td&gt;有限（少量股权激励回购）&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;strong&gt;人力资本依赖评级：中&lt;/strong&gt; ⚠️&lt;br&gt;
+酿造技艺依赖人才，但品牌和窖池资产构成更核心的竞争壁垒，个人依赖度中等。
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h3 id=&#34;模块六管理层与治理结构&#34;&gt;模块六：管理层与治理结构&lt;/h3&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;管理层与治理结构评估&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;指标&lt;/th&gt;
+          &lt;th&gt;分析&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;董事长&lt;/td&gt;
+          &lt;td&gt;刘淼，2015年任职，长期稳定&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;实际控制人&lt;/td&gt;
+          &lt;td&gt;泸州市国资委（老窖集团+兴泸集团合计持股50.91%）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;控股股东行为&lt;/td&gt;
+          &lt;td&gt;2025年增持234.53万股，正面信号&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;分红政策&lt;/td&gt;
+          &lt;td&gt;2024-2026年分红规划：65%→70%→75%，且均不低于85亿元&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;关联方交易&lt;/td&gt;
+          &lt;td&gt;存在关联方存款（泸州银行&lt;del&gt;25亿、泸州农商行&lt;/del&gt;6亿），利率合理&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;非经营性资金占用&lt;/td&gt;
+          &lt;td&gt;子公司其他应收款~142亿元，需关注资金使用效率&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;strong&gt;管理层评分：良好&lt;/strong&gt; ✅&lt;br&gt;
+国资控股稳定，分红政策持续改善，控股股东增持彰显信心。但需关注非经营性资金占用问题。
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h3 id=&#34;模块七监管与政策风险&#34;&gt;模块七：监管与政策风险&lt;/h3&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;监管与政策风险评估&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;风险类型&lt;/th&gt;
+          &lt;th&gt;程度&lt;/th&gt;
+          &lt;th&gt;说明&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;消费税改革&lt;/td&gt;
+          &lt;td&gt;中&lt;/td&gt;
+          &lt;td&gt;白酒消费税可能调整，但高端白酒转嫁能力强&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;反腐政策&lt;/td&gt;
+          &lt;td&gt;低-中&lt;/td&gt;
+          &lt;td&gt;历史影响已消化，高端白酒消费结构已转型&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;行业监管&lt;/td&gt;
+          &lt;td&gt;低&lt;/td&gt;
+          &lt;td&gt;白酒行业监管相对成熟稳定&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;strong&gt;监管风险评级：中&lt;/strong&gt; ⚠️&lt;br&gt;
+消费税改革是主要政策风险，但高端白酒品牌具备较强的税负转嫁能力。
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h3 id=&#34;模块八mda-解读&#34;&gt;模块八：MD&amp;amp;A 解读&lt;/h3&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;MD&amp;amp;A 解读&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;维度&lt;/th&gt;
+          &lt;th&gt;评价&lt;/th&gt;
+          &lt;th&gt;关键信息&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;经营回顾&lt;/td&gt;
+          &lt;td&gt;偏负面&lt;/td&gt;
+          &lt;td&gt;营收净利增速创近十年新低，2025Q1-Q3双降&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;前瞻指引&lt;/td&gt;
+          &lt;td&gt;中性&lt;/td&gt;
+          &lt;td&gt;2025年营收预计318-325亿元（+2%-4%），控货去库存&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;资本配置&lt;/td&gt;
+          &lt;td&gt;正面&lt;/td&gt;
+          &lt;td&gt;高比例分红+技改扩产，资本配置合理&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;风险因素&lt;/td&gt;
+          &lt;td&gt;偏负面&lt;/td&gt;
+          &lt;td&gt;存货高企、经销商集中度高、行业竞争加剧&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;strong&gt;MD&amp;amp;A 前瞻评级：中性偏负面&lt;/strong&gt; ⚠️&lt;br&gt;
+短期业绩承压，但公司主动控货去库存、推进渠道数字化，长期战略方向正确。
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h3 id=&#34;模块九控股折价分析&#34;&gt;模块九：控股折价分析&lt;/h3&gt;
+&lt;p&gt;不适用（非控股公司结构）&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>美的集团（000333）稳健投资策略分析报告</title>
       <link>//localhost:1313/reports/000333/%E7%BE%8E%E7%9A%84%E9%9B%86%E5%9B%A2_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</link>
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/reports/000333/%E7%BE%8E%E7%9A%84%E9%9B%86%E5%9B%A2_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</guid>
       <description>&lt;div class=&#34;report-header&#34;&gt;
-  &lt;h1 class=&#34;report-title&#34;&gt;美的集团（000333）稳健投资策略分析报告&lt;/h1&gt;
   &lt;div class=&#34;report-meta&#34;&gt;
     &lt;span class=&#34;meta-item&#34;&gt;📅 分析日期：2026-04-15&lt;/span&gt;
     &lt;span class=&#34;meta-item&#34;&gt;📊 数据截止：2025年度（年报于2026年3月31日披露）&lt;/span&gt;
@@ -22,7 +2089,108 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;h2 id=&#34;投资结论&#34;&gt;投资结论&lt;/h2&gt;
+&lt;div class=&#34;decision-card-v2 decision-observe&#34;&gt;
+  &lt;div class=&#34;decision-v2-header&#34;&gt;
+    &lt;div class=&#34;decision-v2-icon&#34;&gt;👀&lt;/div&gt;
+    &lt;div class=&#34;decision-v2-title&#34;&gt;
+      &lt;span class=&#34;decision-v2-label&#34;&gt;投资建议&lt;/span&gt;
+      &lt;span class=&#34;decision-v2-action&#34;&gt;观察等待&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;div class=&#34;decision-v2-metrics&#34;&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;建议仓位&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value primary&#34;&gt;观察仓位（30%）&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;目标买入价&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;69.76 元&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;当前股价&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;77.49 元&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;优先级&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;中优先级&lt;/span&gt;
+    &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;decision-v2-body&#34;&gt;
+    &lt;div class=&#34;stock-info-card&#34;&gt;
+&lt;div class=&#34;stock-info-header&#34;&gt;
+&lt;span class=&#34;stock-info-name&#34;&gt;美的集团股份有限公司&lt;/span&gt;
+&lt;span class=&#34;stock-info-code&#34;&gt;000333（A股）/ 0300（H股）&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;stock-info-body&#34;&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;持股渠道&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;A股直接持有&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;分析日期&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;2026-04-15&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;数据截止&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;2025年度（年报披露日2026-03-31）&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-grid&#34;&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 1A 快筛&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    审计意见：标准无保留 | 审计师：普华永道连续11年 | 无财务造假/违规记录 | 商业模式清晰且已验证 | 控股股东信号正面
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 1B 定性分析&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    资本消耗：低-中 | 收款模式：现结为主 | 护城河：宽 | 周期性：弱 | 管理层：良好
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 2 粗算回报率&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    归母净利润：439.45亿 | Owner Earnings：459.45亿 | &lt;strong&gt;穿透回报率 R：6.53%&lt;/strong&gt; &amp;gt; 门槛 3.81%
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 3 精算回报率&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    可支配结余：327.81亿 | &lt;strong&gt;穿透回报率 GG：4.90%&lt;/strong&gt; | 外推可信度：中
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-warning&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 4 估值安全边际&lt;/span&gt;&lt;span class=&#34;factor-summary-badge warning&#34;&gt;⚠ 注意&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    安全边际：1.09 pct | 价值陷阱风险：低 | 现金保护：无（净现金/市值=3.3%）
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;risk-list&#34;&gt;
+  &lt;div class=&#34;risk-list-title&#34;&gt;⚠️ 风险提示&lt;/div&gt;
+  &lt;ul class=&#34;risk-items&#34;&gt;
+    &lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;海外经营风险&lt;/strong&gt;：海外营收占比42.9%，北美关税政策不确定性高，地缘政治风险上升&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;收入敏感性&lt;/strong&gt;：临界收入倍数0.89×，安全边际对收入波动敏感，若收入下降11%回报率将降至门槛&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CAPEX上升趋势&lt;/strong&gt;：资本开支从160亿升至200亿，若持续攀升将压缩自由现金流&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Q4业绩承压&lt;/strong&gt;：2025Q4归母净利润同比-11.3%，需关注是否为趋势性下滑&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;现金流下降&lt;/strong&gt;：2025FY OCF同比-11.8%，需跟踪是否持续&lt;/li&gt;
+&lt;/ol&gt;
+
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;follow-up-list&#34;&gt;
+  &lt;div class=&#34;follow-up-title&#34;&gt;📋 后续跟踪事项&lt;/div&gt;
+  &lt;ul class=&#34;follow-up-items&#34;&gt;
+    &lt;ol&gt;
+&lt;li&gt;关注2026Q1财报，验证Q4利润下滑是否为暂时性因素&lt;/li&gt;
+&lt;li&gt;跟踪北美关税政策变化对海外业务的影响&lt;/li&gt;
+&lt;li&gt;监控CAPEX趋势，确认是否影响自由现金流可持续性&lt;/li&gt;
+&lt;li&gt;关注股价回调至70元以下时的建仓机会&lt;/li&gt;
+&lt;li&gt;跟踪2026年回购计划执行进度（65-130亿元）&lt;/li&gt;
+&lt;/ol&gt;
+
+  &lt;/ul&gt;
+&lt;/div&gt;
+
 &lt;hr&gt;
+&lt;h2 id=&#34;详细分析&#34;&gt;详细分析&lt;/h2&gt;
 &lt;div class=&#34;section-divider&#34;id=&#34;factor-1a&#34;&gt;
   &lt;div class=&#34;section-icon&#34;&gt;🔍&lt;/div&gt;
   &lt;h2 class=&#34;section-title&#34;&gt;因子 1A：五分钟快筛（一票否决）&lt;/h2&gt;
@@ -116,7 +2284,6 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;hr&gt;
 &lt;div class=&#34;section-divider&#34;id=&#34;factor-1b&#34;&gt;
   &lt;div class=&#34;section-icon&#34;&gt;📊&lt;/div&gt;
   &lt;h2 class=&#34;section-title&#34;&gt;因子 1B：深度定性分析&lt;/h2&gt;
@@ -1061,602 +3228,6 @@
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/reports/000513/%E4%B8%BD%E7%8F%A0%E9%9B%86%E5%9B%A2_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/reports/000513/%E4%B8%BD%E7%8F%A0%E9%9B%86%E5%9B%A2_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</guid>
-      <description>&lt;h1 id=&#34;稳健投资策略分析报告丽珠集团000513&#34;&gt;稳健投资策略分析报告：丽珠集团（000513）&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;分析日期&lt;/strong&gt;：2026-04-15&lt;br&gt;
-&lt;strong&gt;数据截止&lt;/strong&gt;：2025年报&lt;br&gt;
-&lt;strong&gt;分析框架&lt;/strong&gt;：稳健投资策略 v2.0&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;输入参数&#34;&gt;输入参数&lt;/h2&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;参数&lt;/th&gt;
-          &lt;th&gt;值&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;股票代码&lt;/td&gt;
-          &lt;td&gt;000513.SZ / 01513.HK&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;公司名称&lt;/td&gt;
-          &lt;td&gt;丽珠医药集团股份有限公司&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;持股渠道&lt;/td&gt;
-          &lt;td&gt;直接持有（A股）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;目标年份&lt;/td&gt;
-          &lt;td&gt;2025&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;当前股价&lt;/td&gt;
-          &lt;td&gt;34.46 元&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;总股本&lt;/td&gt;
-          &lt;td&gt;8.88 亿股&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;当前市值&lt;/td&gt;
-          &lt;td&gt;306 亿元&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;无风险利率（Rf）&lt;/td&gt;
-          &lt;td&gt;1.78%（中国十年期国债）&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;因子-1a五分钟快筛一票否决&#34;&gt;因子 1A：五分钟快筛（一票否决）&lt;/h2&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;序号&lt;/th&gt;
-          &lt;th&gt;检查项&lt;/th&gt;
-          &lt;th&gt;结果&lt;/th&gt;
-          &lt;th&gt;说明&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;1&lt;/td&gt;
-          &lt;td&gt;审计意见异常&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;标准无保留意见，致同会计师事务所&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;2&lt;/td&gt;
-          &lt;td&gt;频繁更换审计师&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;近年均由致同审计，未发现更换记录&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;3&lt;/td&gt;
-          &lt;td&gt;财务造假或重大违规前科&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;未发现财务造假或重大违规记录&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;4&lt;/td&gt;
-          &lt;td&gt;看不懂（无法理解商业模式）&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;医药制造企业，业务模式清晰：化学制剂+中药+原料药+生物制品&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;5&lt;/td&gt;
-          &lt;td&gt;商业模式未被验证&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;上市超30年，盈利模式成熟稳定&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;6&lt;/td&gt;
-          &lt;td&gt;控股股东重大负面信号&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;健康元持股45.23%，实控人朱保国稳定掌舵超20年&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;因子 1A 结论：✅ 通过，无否决项，继续后续分析&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;因子-1b深度定性分析&#34;&gt;因子 1B：深度定性分析&lt;/h2&gt;
-&lt;h3 id=&#34;模块三大报表基础数据与关键指标&#34;&gt;模块〇：三大报表基础数据与关键指标&lt;/h3&gt;
-&lt;h4 id=&#34;利润表核心数据百万元&#34;&gt;利润表核心数据（百万元）&lt;/h4&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;年份&lt;/th&gt;
-          &lt;th&gt;营业收入&lt;/th&gt;
-          &lt;th&gt;营业成本(估)&lt;/th&gt;
-          &lt;th&gt;毛利润&lt;/th&gt;
-          &lt;th&gt;研发费用&lt;/th&gt;
-          &lt;th&gt;销售费用&lt;/th&gt;
-          &lt;th&gt;管理费用&lt;/th&gt;
-          &lt;th&gt;经营利润(估)&lt;/th&gt;
-          &lt;th&gt;归母净利润&lt;/th&gt;
-          &lt;th&gt;少数股东损益&lt;/th&gt;
-          &lt;th&gt;数据来源&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;2025&lt;/td&gt;
-          &lt;td&gt;12,020&lt;/td&gt;
-          &lt;td&gt;4,027&lt;/td&gt;
-          &lt;td&gt;7,993&lt;/td&gt;
-          &lt;td&gt;938&lt;/td&gt;
-          &lt;td&gt;~3,100&lt;/td&gt;
-          &lt;td&gt;~600&lt;/td&gt;
-          &lt;td&gt;~2,800&lt;/td&gt;
-          &lt;td&gt;2,023&lt;/td&gt;
-          &lt;td&gt;~200&lt;/td&gt;
-          &lt;td&gt;AI-Tools+WebSearch&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;2024&lt;/td&gt;
-          &lt;td&gt;11,812&lt;/td&gt;
-          &lt;td&gt;4,082&lt;/td&gt;
-          &lt;td&gt;7,730&lt;/td&gt;
-          &lt;td&gt;1,033&lt;/td&gt;
-          &lt;td&gt;3,255&lt;/td&gt;
-          &lt;td&gt;613&lt;/td&gt;
-          &lt;td&gt;2,844&lt;/td&gt;
-          &lt;td&gt;2,061&lt;/td&gt;
-          &lt;td&gt;~243&lt;/td&gt;
-          &lt;td&gt;AI-Tools+WebSearch&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;2023&lt;/td&gt;
-          &lt;td&gt;12,430&lt;/td&gt;
-          &lt;td&gt;~4,295&lt;/td&gt;
-          &lt;td&gt;~8,135&lt;/td&gt;
-          &lt;td&gt;~1,000&lt;/td&gt;
-          &lt;td&gt;~3,200&lt;/td&gt;
-          &lt;td&gt;~600&lt;/td&gt;
-          &lt;td&gt;~2,500&lt;/td&gt;
-          &lt;td&gt;1,954&lt;/td&gt;
-          &lt;td&gt;~180&lt;/td&gt;
-          &lt;td&gt;WebSearch&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;2022&lt;/td&gt;
-          &lt;td&gt;~12,630&lt;/td&gt;
-          &lt;td&gt;~4,350&lt;/td&gt;
-          &lt;td&gt;~8,280&lt;/td&gt;
-          &lt;td&gt;~950&lt;/td&gt;
-          &lt;td&gt;~3,100&lt;/td&gt;
-          &lt;td&gt;~580&lt;/td&gt;
-          &lt;td&gt;~2,400&lt;/td&gt;
-          &lt;td&gt;~1,910&lt;/td&gt;
-          &lt;td&gt;~170&lt;/td&gt;
-          &lt;td&gt;WebSearch(估)&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;2021&lt;/td&gt;
-          &lt;td&gt;~12,064&lt;/td&gt;
-          &lt;td&gt;~4,160&lt;/td&gt;
-          &lt;td&gt;~7,904&lt;/td&gt;
-          &lt;td&gt;~900&lt;/td&gt;
-          &lt;td&gt;~3,000&lt;/td&gt;
-          &lt;td&gt;~550&lt;/td&gt;
-          &lt;td&gt;~2,200&lt;/td&gt;
-          &lt;td&gt;~1,770&lt;/td&gt;
-          &lt;td&gt;~160&lt;/td&gt;
-          &lt;td&gt;WebSearch(估)&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;blockquote&gt;
-&lt;p&gt;注：营业成本根据毛利率推算（2025年毛利率66.39%，2024年65.45%）；2020-2023年数据精度有限。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/reports/000568/analysis_report/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/reports/000568/analysis_report/</guid>
-      <description>&lt;h1 id=&#34;泸州老窖000568稳健投资策略分析报告&#34;&gt;泸州老窖（000568）稳健投资策略分析报告&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;分析日期&lt;/strong&gt;：2026-04-15&lt;br&gt;
-&lt;strong&gt;数据截止&lt;/strong&gt;：2025Q3（最新可用财报数据）&lt;br&gt;
-&lt;strong&gt;分析框架&lt;/strong&gt;：稳健投资策略 v2.0&lt;br&gt;
-&lt;strong&gt;持股渠道&lt;/strong&gt;：A股直接持有&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;因子-1a五分钟快筛一票否决&#34;&gt;因子 1A：五分钟快筛（一票否决）&lt;/h2&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;序号&lt;/th&gt;
-          &lt;th&gt;检查项&lt;/th&gt;
-          &lt;th&gt;结果&lt;/th&gt;
-          &lt;th&gt;说明&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;1&lt;/td&gt;
-          &lt;td&gt;审计意见异常&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;2024年度审计意见为&lt;strong&gt;标准无保留意见&lt;/strong&gt;，审计机构为信永中和会计师事务所&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;2&lt;/td&gt;
-          &lt;td&gt;频繁更换审计师&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;信永中和近年来持续担任公司审计机构，未发现更换记录&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;3&lt;/td&gt;
-          &lt;td&gt;财务造假或重大违规前科&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;无财务造假记录；历史存款纠纷（5亿元）已收回3.76亿元，属历史遗留问题&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;4&lt;/td&gt;
-          &lt;td&gt;看不懂（无法理解商业模式）&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;高端白酒生产销售，商业模式清晰：酿造→品牌溢价→经销商预付款→销售&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;5&lt;/td&gt;
-          &lt;td&gt;商业模式未被验证&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;国窖1573品牌已验证超20年，浓香型白酒非遗酿造技艺传承数百年&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;6&lt;/td&gt;
-          &lt;td&gt;控股股东重大负面信号&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;泸州市国资委控股，2025年老窖集团增持234.53万股，彰显信心&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;快筛结论：✅ 全部通过，继续后续分析&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;因子-1b深度定性分析&#34;&gt;因子 1B：深度定性分析&lt;/h2&gt;
-&lt;h3 id=&#34;模块三大报表基础数据与关键指标&#34;&gt;模块〇：三大报表基础数据与关键指标&lt;/h3&gt;
-&lt;h4 id=&#34;利润表核心数据2024fy单位亿元&#34;&gt;利润表核心数据（2024FY，单位：亿元）&lt;/h4&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;项目&lt;/th&gt;
-          &lt;th&gt;2024FY&lt;/th&gt;
-          &lt;th&gt;数据来源&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;营业收入&lt;/td&gt;
-          &lt;td&gt;311.96&lt;/td&gt;
-          &lt;td&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;营业成本&lt;/td&gt;
-          &lt;td&gt;130.53&lt;/td&gt;
-          &lt;td&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;毛利润&lt;/td&gt;
-          &lt;td&gt;181.43&lt;/td&gt;
-          &lt;td&gt;计算值&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;税金及附加&lt;/td&gt;
-          &lt;td&gt;47.54&lt;/td&gt;
-          &lt;td&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;销售费用&lt;/td&gt;
-          &lt;td&gt;35.38&lt;/td&gt;
-          &lt;td&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;管理费用&lt;/td&gt;
-          &lt;td&gt;11.01&lt;/td&gt;
-          &lt;td&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;财务费用&lt;/td&gt;
-          &lt;td&gt;-4.89&lt;/td&gt;
-          &lt;td&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;经营利润&lt;/td&gt;
-          &lt;td&gt;182.07&lt;/td&gt;
-          &lt;td&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;归母净利润&lt;/td&gt;
-          &lt;td&gt;134.73&lt;/td&gt;
-          &lt;td&gt;AI-Tools GetFinancialReport&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;少数股东损益&lt;/td&gt;
-          &lt;td&gt;0.25&lt;/td&gt;
-          &lt;td&gt;计算值&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;D&amp;amp;A（折旧摊销）&lt;/td&gt;
-          &lt;td&gt;~6.5&lt;/td&gt;
-          &lt;td&gt;估算（固定资产91.32×6%+无形资产34.18×3%）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;SBC（股权激励）&lt;/td&gt;
-          &lt;td&gt;~0.2&lt;/td&gt;
-          &lt;td&gt;估算（回购金额极小）&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 id=&#34;关键盈利能力指标2024fy&#34;&gt;关键盈利能力指标（2024FY）&lt;/h4&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;指标&lt;/th&gt;
-          &lt;th&gt;数值&lt;/th&gt;
-          &lt;th&gt;行业对比&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;毛利率&lt;/td&gt;
-          &lt;td&gt;87.54%&lt;/td&gt;
-          &lt;td&gt;高端白酒第一梯队&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;经营利润率&lt;/td&gt;
-          &lt;td&gt;58.36%&lt;/td&gt;
-          &lt;td&gt;极优&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;净利率&lt;/td&gt;
-          &lt;td&gt;43.27%&lt;/td&gt;
-          &lt;td&gt;极优&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;销售费用率&lt;/td&gt;
-          &lt;td&gt;11.34%&lt;/td&gt;
-          &lt;td&gt;合理&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;管理费用率&lt;/td&gt;
-          &lt;td&gt;3.53%&lt;/td&gt;
-          &lt;td&gt;优秀&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;有效税率&lt;/td&gt;
-          &lt;td&gt;~25.8%&lt;/td&gt;
-          &lt;td&gt;正常&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;ROE&lt;/td&gt;
-          &lt;td&gt;30.44%&lt;/td&gt;
-          &lt;td&gt;极优&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 id=&#34;资产负债表核心数据2024fy单位亿元&#34;&gt;资产负债表核心数据（2024FY，单位：亿元）&lt;/h4&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;项目&lt;/th&gt;
-          &lt;th&gt;金额&lt;/th&gt;
-          &lt;th&gt;说明&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;货币资金&lt;/td&gt;
-          &lt;td&gt;335.78&lt;/td&gt;
-          &lt;td&gt;占总资产49.14%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;应收账款&lt;/td&gt;
-          &lt;td&gt;1.10&lt;/td&gt;
-          &lt;td&gt;极小，预收模式&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;存货&lt;/td&gt;
-          &lt;td&gt;133.93&lt;/td&gt;
-          &lt;td&gt;占总资产19.60%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;流动资产&lt;/td&gt;
-          &lt;td&gt;508.56&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;固定资产&lt;/td&gt;
-          &lt;td&gt;91.32&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;无形资产&lt;/td&gt;
-          &lt;td&gt;34.18&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;总资产&lt;/td&gt;
-          &lt;td&gt;683.35&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;有息负债合计&lt;/td&gt;
-          &lt;td&gt;95.47&lt;/td&gt;
-          &lt;td&gt;长期借款62.80+短期32.67&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;合同负债/预收款&lt;/td&gt;
-          &lt;td&gt;⚠️未获取&lt;/td&gt;
-          &lt;td&gt;需查阅年报附注&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;股东权益&lt;/td&gt;
-          &lt;td&gt;475.08&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 id=&#34;现金流量表核心数据2024fy单位亿元&#34;&gt;现金流量表核心数据（2024FY，单位：亿元）&lt;/h4&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;项目&lt;/th&gt;
-          &lt;th&gt;金额&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;OCF（经营活动现金流）&lt;/td&gt;
-          &lt;td&gt;191.82&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Capex（资本开支）&lt;/td&gt;
-          &lt;td&gt;13.83&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;FCF = OCF - Capex&lt;/td&gt;
-          &lt;td&gt;177.99&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;股息支付&lt;/td&gt;
-          &lt;td&gt;87.59&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;回购金额&lt;/td&gt;
-          &lt;td&gt;~0（仅股权激励回购，可忽略）&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 id=&#34;因子-234-计算参数预提取&#34;&gt;因子 2/3/4 计算参数预提取&lt;/h4&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;25
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;26
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;27
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;28
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;29
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;30
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;31
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;32
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;33
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;34
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;35
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;36
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;37
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;38
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;39
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;40
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;41
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;════ 市值与股价参数 ════
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;当前股价 = 103.09 元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;总股本（稀释后）= 14.69 亿股
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;当前市值 = 1,517 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;汇率 = 不适用（人民币标的）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;════ 盈利参数 ════
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;集团净利润 [A] = 134.98 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;少数股东损益 [B] = 0.25 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GAAP 归母净利润 [C] = A − B = 134.73 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;主营经营利润（锚定口径）= 182.07 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;折旧摊销 [D] = 6.5 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;资本开支 [E] = 13.83 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SBC = 0.2 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;════ 现金与负债参数 ════
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;现金及等价物 = 335.78 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;受限现金 [CC] ≈ 0 亿元（公司声明基本无受限现金）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;短期投资 = 0 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;持有至到期定期存款/理财 = ⚠️未获取
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;狭义现金合计 [BB_narrow] = 335.78 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;广义现金合计 [BB] = 335.78 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;合同负债/预收款 [BB_contract] = ⚠️未获取
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;超广义现金 [BB_super] = ⚠️未获取（缺合同负债数据）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;有息负债合计 = 95.47 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;狭义净现金 = 335.78 − 95.47 = 240.31 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;广义净现金 = 335.78 − 95.47 = 240.31 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;════ 分配参数 ════
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;最新年报股息总额 = 87.59 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;最新年报归母净利润 = 134.73 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;最新年报支付率 = 65.0%
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;过去 3 年支付率序列 = [59.8%, 64.4%, 65.0%]
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;支付率均值 [M_hist] = 63.1%
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;最新派息信号 = DPS 已提升（2024-2026分红规划逐年提升至75%）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;年均回购金额 [O] ≈ 0 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;支付率锚定值 [M] = 70%（采用2025年目标支付率）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;════ 估值基准参数 ════
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Rf（十年期国债）= 1.78%
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;门槛 [II] = max(3.5%, 1.78%+2%) = max(3.5%, 3.78%) = 3.78%
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;hr&gt;
-&lt;h3 id=&#34;模块一资本消耗强度&#34;&gt;模块一：资本消耗强度&lt;/h3&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;指标&lt;/th&gt;
-          &lt;th&gt;数值&lt;/th&gt;
-          &lt;th&gt;评价&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Capex/营业收入&lt;/td&gt;
-          &lt;td&gt;4.43%&lt;/td&gt;
-          &lt;td&gt;极低&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;FCF/OCF&lt;/td&gt;
-          &lt;td&gt;87.1%&lt;/td&gt;
-          &lt;td&gt;极高&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;维持性资本开支系数 G&lt;/td&gt;
-          &lt;td&gt;0.4&lt;/td&gt;
-          &lt;td&gt;低（白酒行业扩产为主，维持性开支少）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;资本消耗趋势&lt;/td&gt;
-          &lt;td&gt;在建工程增长（8.07→13.53亿元）&lt;/td&gt;
-          &lt;td&gt;扩产周期，非维持性&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;资本消耗强度评级：低&lt;/strong&gt; ✅&lt;br&gt;
-白酒行业天然低资本消耗，公司当前资本开支主要用于技改扩产，维持性开支占比低。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
       <link>//localhost:1313/reports/000568/data_pack_market/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/reports/000568/data_pack_market/</guid>
@@ -2573,215 +4144,6 @@
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/reports/000596/%E5%8F%A4%E4%BA%95%E8%B4%A1%E9%85%92_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/reports/000596/%E5%8F%A4%E4%BA%95%E8%B4%A1%E9%85%92_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</guid>
-      <description>&lt;h1 id=&#34;稳健投资策略分析结论--古井贡酒000596&#34;&gt;稳健投资策略分析结论 — 古井贡酒（000596）&lt;/h1&gt;
-&lt;p&gt;═══════════════════════════════════════
-稳健投资策略分析结论
-═══════════════════════════════════════&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;分析日期&lt;/strong&gt;：2026-04-15
-&lt;strong&gt;数据截止&lt;/strong&gt;：2024FY（最新完整财年）+ 2025Q3（最新报告期）
-&lt;strong&gt;策略版本&lt;/strong&gt;：稳健投资策略 v2.0&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;股票基本信息&#34;&gt;【股票基本信息】&lt;/h2&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;项目&lt;/th&gt;
-          &lt;th&gt;内容&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;公司名称&lt;/td&gt;
-          &lt;td&gt;安徽古井贡酒股份有限公司&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;股票代码&lt;/td&gt;
-          &lt;td&gt;000596.SZ&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;持股渠道&lt;/td&gt;
-          &lt;td&gt;A股直接持有&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;当前股价&lt;/td&gt;
-          &lt;td&gt;106.12 元（2026-04-15收盘）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;总股本&lt;/td&gt;
-          &lt;td&gt;5.286 亿股&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;总市值&lt;/td&gt;
-          &lt;td&gt;560.85 亿元&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;所属行业&lt;/td&gt;
-          &lt;td&gt;白酒（次高端价格带）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;控股股东&lt;/td&gt;
-          &lt;td&gt;安徽古井集团（51.34%）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;实际控制人&lt;/td&gt;
-          &lt;td&gt;亳州市国资委&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;因子-1a五分钟快筛一票否决&#34;&gt;【因子 1A：五分钟快筛（一票否决）】&lt;/h2&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;序号&lt;/th&gt;
-          &lt;th&gt;检查项&lt;/th&gt;
-          &lt;th&gt;结果&lt;/th&gt;
-          &lt;th&gt;说明&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;1&lt;/td&gt;
-          &lt;td&gt;审计意见异常&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;否&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;2024年度标准无保留意见，容诚所连续7年审计&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;2&lt;/td&gt;
-          &lt;td&gt;频繁更换审计师&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;否&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;自2019年起持续聘任容诚会计师事务所，未发生更换&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;3&lt;/td&gt;
-          &lt;td&gt;财务造假/重大违规前科&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;否&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;未发现财务造假或重大违规记录&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;4&lt;/td&gt;
-          &lt;td&gt;看不懂（商业模式）&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;否&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;白酒行业商业模式清晰：生产→经销→终端消费&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;5&lt;/td&gt;
-          &lt;td&gt;商业模式未被验证&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;否&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;白酒行业已验证数百年，公司上市近30年&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;6&lt;/td&gt;
-          &lt;td&gt;控股股东重大负面信号&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;否&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;亳州市国资委控股，无负面信号&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;快筛结论：✅ 通过&lt;/strong&gt; — 六项检查均为&amp;quot;否&amp;quot;，无一票否决项，继续后续分析。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;因子-1b深度定性分析&#34;&gt;【因子 1B：深度定性分析】&lt;/h2&gt;
-&lt;h3 id=&#34;模块三大报表基础数据与关键指标&#34;&gt;模块〇：三大报表基础数据与关键指标&lt;/h3&gt;
-&lt;h4 id=&#34;利润表核心数据亿元&#34;&gt;利润表核心数据（亿元）&lt;/h4&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;年度&lt;/th&gt;
-          &lt;th&gt;营业收入&lt;/th&gt;
-          &lt;th&gt;营业成本&lt;/th&gt;
-          &lt;th&gt;毛利润&lt;/th&gt;
-          &lt;th&gt;税金及附加&lt;/th&gt;
-          &lt;th&gt;销售费用&lt;/th&gt;
-          &lt;th&gt;管理费用&lt;/th&gt;
-          &lt;th&gt;财务费用&lt;/th&gt;
-          &lt;th&gt;研发费用&lt;/th&gt;
-          &lt;th&gt;营业利润&lt;/th&gt;
-          &lt;th&gt;归母净利润&lt;/th&gt;
-          &lt;th&gt;少数股东损益&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;2024&lt;/td&gt;
-          &lt;td&gt;235.78&lt;/td&gt;
-          &lt;td&gt;47.39&lt;/td&gt;
-          &lt;td&gt;188.39&lt;/td&gt;
-          &lt;td&gt;37.40&lt;/td&gt;
-          &lt;td&gt;61.82&lt;/td&gt;
-          &lt;td&gt;14.42&lt;/td&gt;
-          &lt;td&gt;-3.49&lt;/td&gt;
-          &lt;td&gt;0.78&lt;/td&gt;
-          &lt;td&gt;77.50&lt;/td&gt;
-          &lt;td&gt;55.17&lt;/td&gt;
-          &lt;td&gt;1.89&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;2023&lt;/td&gt;
-          &lt;td&gt;202.54&lt;/td&gt;
-          &lt;td&gt;40.69&lt;/td&gt;
-          &lt;td&gt;161.85&lt;/td&gt;
-          &lt;td&gt;30.50&lt;/td&gt;
-          &lt;td&gt;54.37&lt;/td&gt;
-          &lt;td&gt;13.67&lt;/td&gt;
-          &lt;td&gt;-1.62&lt;/td&gt;
-          &lt;td&gt;0.71&lt;/td&gt;
-          &lt;td&gt;62.83&lt;/td&gt;
-          &lt;td&gt;47.26&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;2022&lt;/td&gt;
-          &lt;td&gt;~167.13&lt;/td&gt;
-          &lt;td&gt;~33.59&lt;/td&gt;
-          &lt;td&gt;~133.54&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;~31.43&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;2021&lt;/td&gt;
-          &lt;td&gt;~132.28&lt;/td&gt;
-          &lt;td&gt;~26.56&lt;/td&gt;
-          &lt;td&gt;~105.72&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;~24.48&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;2020&lt;/td&gt;
-          &lt;td&gt;~102.93&lt;/td&gt;
-          &lt;td&gt;~20.59&lt;/td&gt;
-          &lt;td&gt;~82.34&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;~11.60&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;blockquote&gt;
-&lt;p&gt;注：2020-2022年为WebSearch估算数据，精确度较低；营业成本按毛利率反推（2024: 79.90%, 2023: ~79.87%）
-来源：mcp_AI_Tools_GetIncomeStatement + WebSearch&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
       <link>//localhost:1313/reports/000651/data_pack_market/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/reports/000651/data_pack_market/</guid>
@@ -3339,463 +4701,6 @@
 &lt;/table&gt;
 &lt;blockquote&gt;
 &lt;p&gt;⚠️未找到：母公司单体口径报表（以上均为合并口径）&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/reports/000651/%E6%A0%BC%E5%8A%9B%E7%94%B5%E5%99%A8_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/reports/000651/%E6%A0%BC%E5%8A%9B%E7%94%B5%E5%99%A8_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</guid>
-      <description>&lt;h1 id=&#34;稳健投资策略分析报告格力电器000651sz&#34;&gt;稳健投资策略分析报告：格力电器（000651.SZ）&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;分析日期&lt;/strong&gt;：2026-04-15&lt;br&gt;
-&lt;strong&gt;数据截止&lt;/strong&gt;：2025年报（部分数据截止2025Q3）&lt;br&gt;
-&lt;strong&gt;持股渠道&lt;/strong&gt;：A股直接持有&lt;br&gt;
-&lt;strong&gt;目标年份&lt;/strong&gt;：2025&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;因子-1a五分钟快筛一票否决&#34;&gt;因子 1A：五分钟快筛（一票否决）&lt;/h2&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;序号&lt;/th&gt;
-          &lt;th&gt;检查项&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;结果&lt;/th&gt;
-          &lt;th&gt;说明&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
-          &lt;td&gt;审计意见异常&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;否&lt;/td&gt;
-          &lt;td&gt;中审众环出具&lt;strong&gt;标准无保留意见&lt;/strong&gt;（众环审字(2025)0500119号）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
-          &lt;td&gt;频繁更换审计师&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;否&lt;/td&gt;
-          &lt;td&gt;中审众环持续担任，近年来未更换；2024年度评估履职合格&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
-          &lt;td&gt;财务造假或重大违规前科&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;否&lt;/td&gt;
-          &lt;td&gt;无公开记录&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
-          &lt;td&gt;看不懂（无法理解商业模式）&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;否&lt;/td&gt;
-          &lt;td&gt;空调制造+销售，商业模式清晰，1996年上市以来已验证近30年&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
-          &lt;td&gt;商业模式未被验证&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;否&lt;/td&gt;
-          &lt;td&gt;空调行业龙头，线下份额第一，中央空调连续14年市占率第一&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
-          &lt;td&gt;控股股东重大负面信号&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;否&lt;/td&gt;
-          &lt;td&gt;高瓴资本（珠海明骏）为第一大股东，持股16.02%，无重大负面&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id=&#34;快筛结论-通过无否决项&#34;&gt;快筛结论：✅ 通过（无否决项）&lt;/h3&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;因子-1b深度定性分析&#34;&gt;因子 1B：深度定性分析&lt;/h2&gt;
-&lt;h3 id=&#34;模块三大报表基础数据与关键指标&#34;&gt;模块〇：三大报表基础数据与关键指标&lt;/h3&gt;
-&lt;h4 id=&#34;利润表核心数据亿元&#34;&gt;利润表核心数据（亿元）&lt;/h4&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;项目&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2025FY&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2024FY&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2025H1&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2025Q3&lt;/th&gt;
-          &lt;th&gt;数据来源&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;营业收入&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,912.36&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,900.38&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;976.19&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,376.54&lt;/td&gt;
-          &lt;td&gt;AI-Tools/WebSearch&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;营业成本&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;—&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,548.68&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;815.36&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,138.24&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;毛利润&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;—&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;351.70&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;160.83&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;238.30&lt;/td&gt;
-          &lt;td&gt;推算&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;研发费用&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;—&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;69.04&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;39.18&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;56.22&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;销售费用&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;—&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;97.53&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;62.02&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;75.89&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;管理费用&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;—&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;60.58&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;31.45&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;43.04&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;财务费用&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;—&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;-33.00&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;-23.00&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;-32.97&lt;/td&gt;
-          &lt;td&gt;AI-Tools（净收入）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;归母净利润&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;286.72&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;321.85&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;145.13&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;215.77&lt;/td&gt;
-          &lt;td&gt;AI-Tools/WebSearch&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;少数股东损益&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;—&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;~1.86&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;—&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;—&lt;/td&gt;
-          &lt;td&gt;推算&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 id=&#34;关键盈利能力指标&#34;&gt;关键盈利能力指标&lt;/h4&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;指标&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2024FY&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2025Q3&lt;/th&gt;
-          &lt;th&gt;数据来源&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;毛利率&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;29.43%&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;28.44%&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;经营利润率&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;~19.5%&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;~18.2%&lt;/td&gt;
-          &lt;td&gt;推算&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;净利率&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;17.11%&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;15.73%&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;销售费用率&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;5.13%&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;5.51%&lt;/td&gt;
-          &lt;td&gt;推算&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;研发费用率&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;3.63%&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;4.09%&lt;/td&gt;
-          &lt;td&gt;推算&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;有效税率&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;~15%&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;~12-13%&lt;/td&gt;
-          &lt;td&gt;WebSearch&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 id=&#34;资产负债表核心数据亿元&#34;&gt;资产负债表核心数据（亿元）&lt;/h4&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;项目&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2024FY&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2025Q3&lt;/th&gt;
-          &lt;th&gt;数据来源&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;货币资金&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,139.00&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,162.35&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;现金及等价物&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;211.41&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;285.99&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;应收账款&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;168.32&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;150.20&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;存货&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;279.11&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;253.42&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;流动资产&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;2,248.03&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;2,599.18&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;固定资产&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;369.96&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;348.95&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;总资产&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;3,680.32&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;3,992.22&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;短期借款&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;~500&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;~572&lt;/td&gt;
-          &lt;td&gt;WebSearch&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;长期借款&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;182.30&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;29.57&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;有息负债合计&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;~600&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;~490&lt;/td&gt;
-          &lt;td&gt;WebSearch/推算&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;合同负债&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;—&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;—&lt;/td&gt;
-          &lt;td&gt;⚠️未找到&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;股东权益&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,415.14&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,485.12&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;归母股东权益&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,374.17&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,444.24&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 id=&#34;现金流量表核心数据亿元&#34;&gt;现金流量表核心数据（亿元）&lt;/h4&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;项目&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2024FY&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2025Q3(1-9月)&lt;/th&gt;
-          &lt;th&gt;数据来源&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;OCF（经营现金流）&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;293.69&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;457.28&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;投资现金流&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;-155.58&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;-426.08&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;筹资现金流&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;-237.03&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;41.64&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;期末现金及等价物&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;211.41&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;285.99&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 id=&#34;因子-234-计算参数预提取&#34;&gt;因子 2/3/4 计算参数预提取&lt;/h4&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;25
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;26
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;27
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;28
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;29
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;30
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;31
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;32
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;33
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;34
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;35
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;36
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;37
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;38
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;39
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;40
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;41
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;42
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;43
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;═════ 市值与股价参数 ════
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;当前股价 = 37.39 元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;总股本（稀释后）= 56.01 亿股
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;当前市值 = 2,094 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;汇率 = 不适用（人民币计价）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;═════ 盈利参数 ════
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;集团净利润 A = 323.71 亿元（2024FY）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;少数股东损益 B = ~1.86 亿元（2024FY推算）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GAAP 归母净利润 C = A − B = 321.85 亿元（2024FY）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;2025FY 归母净利润 C&amp;#39; = 286.72 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;主营经营利润（锚定口径）= ~350 亿元（2024FY）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;折旧摊销 D = ~35 亿元（估算，基于固定资产规模及行业惯例）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;资本开支 E = ~80 亿元（估算纯Capex，不含理财投资）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SBC = 不适用（A股无股权激励费用披露）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;═════ 现金与负债参数 ════
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;现金及等价物 = 211.41 亿元（2024FY）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;受限现金 CC ≈ 111 亿元（质押借款对应保证金，2025H1口径）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;短期投资（交易性金融资产）≈ 420 亿元（2025Q3口径）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;持有至到期定期存款/理财 ≈ 927.59 亿元（货币资金-现金等价物推算）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;狭义现金合计 BB_narrow = 211.41 + 420 = 631.41 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;广义现金合计 BB = 1,139.00 + 420 + 59 + 129 ≈ 1,747 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  注：含货币资金+交易性金融资产+其他债权投资+其他非流动金融资产
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;合同负债/预收款 BB_contract = ⚠️未找到
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;超广义现金 BB_super ≈ 1,747 亿元（含合同负债后无变化）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;有息负债合计 ≈ 600 亿元（2024FY估算）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;狭义净现金 = 631.41 - 600 = 31.41 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;广义净现金 = 1,747 - 600 = 1,147 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;═════ 分配参数 ════
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;最新年报股息总额 = 167.95 亿元（2024FY含中期分红）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;最新年报归母净利润 = 321.85 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;最新年报支付率 = 52.2%
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;过去3年支付率序列 = [45.29%, 45.7%, 52.2%]
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;支付率均值 M_hist = 47.7%
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;最新派息信号 = DPS已提升（2024年含中期分红，总支付率上升）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;年均回购金额 O = 20 亿元（三期回购120亿/6年，保守取值）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;支付率锚定值 M = 50%
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;═════ 估值基准参数 ════
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Rf（十年期国债）= 1.78%
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;门槛 II = max(3.5%, 1.78% + 2%) = 3.78%（A股门槛）
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;hr&gt;
-&lt;h3 id=&#34;模块一资本消耗强度&#34;&gt;模块一：资本消耗强度&lt;/h3&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;指标&lt;/th&gt;
-          &lt;th&gt;值&lt;/th&gt;
-          &lt;th&gt;评价&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Capex/营收（2024FY估算）&lt;/td&gt;
-          &lt;td&gt;~4.2%（纯Capex 80亿/1900亿）&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;低&lt;/strong&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;固定资产/总资产&lt;/td&gt;
-          &lt;td&gt;10.1%（369.96/3,680.32）&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;低&lt;/strong&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;在建工程/总资产&lt;/td&gt;
-          &lt;td&gt;0.8%（30.76/3,680.32）&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;低&lt;/strong&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;资本消耗强度判定&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;低&lt;/strong&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;blockquote&gt;
-&lt;p&gt;格力属于轻资本消耗型制造企业。固定资产占比仅10%，纯Capex占营收约4%，远低于重资产行业。大量投资现金流用于理财产品而非实体资本开支。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>

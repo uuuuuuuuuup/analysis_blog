@@ -6,73 +6,227 @@
     <description>Recent content in analysis (000568) on 稳健策略研究</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
+    <lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/reports/000568/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>泸州老窖（000568）稳健投资策略分析报告</title>
       <link>//localhost:1313/reports/000568/analysis_report/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/reports/000568/analysis_report/</guid>
-      <description>&lt;h1 id=&#34;泸州老窖000568稳健投资策略分析报告&#34;&gt;泸州老窖（000568）稳健投资策略分析报告&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;分析日期&lt;/strong&gt;：2026-04-15&lt;br&gt;
-&lt;strong&gt;数据截止&lt;/strong&gt;：2025Q3（最新可用财报数据）&lt;br&gt;
-&lt;strong&gt;分析框架&lt;/strong&gt;：稳健投资策略 v2.0&lt;br&gt;
-&lt;strong&gt;持股渠道&lt;/strong&gt;：A股直接持有&lt;/p&gt;
+      <description>&lt;div class=&#34;report-header&#34;&gt;
+  &lt;div class=&#34;report-meta&#34;&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📅 分析日期：2026-04-15&lt;/span&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📊 数据截止：&lt;/span&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📋 分析框架：稳健投资策略 v2.0&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;hr&gt;
-&lt;h2 id=&#34;因子-1a五分钟快筛一票否决&#34;&gt;因子 1A：五分钟快筛（一票否决）&lt;/h2&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;序号&lt;/th&gt;
-          &lt;th&gt;检查项&lt;/th&gt;
-          &lt;th&gt;结果&lt;/th&gt;
-          &lt;th&gt;说明&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;1&lt;/td&gt;
-          &lt;td&gt;审计意见异常&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;2024年度审计意见为&lt;strong&gt;标准无保留意见&lt;/strong&gt;，审计机构为信永中和会计师事务所&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;2&lt;/td&gt;
-          &lt;td&gt;频繁更换审计师&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;信永中和近年来持续担任公司审计机构，未发现更换记录&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;3&lt;/td&gt;
-          &lt;td&gt;财务造假或重大违规前科&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;无财务造假记录；历史存款纠纷（5亿元）已收回3.76亿元，属历史遗留问题&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;4&lt;/td&gt;
-          &lt;td&gt;看不懂（无法理解商业模式）&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;高端白酒生产销售，商业模式清晰：酿造→品牌溢价→经销商预付款→销售&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;5&lt;/td&gt;
-          &lt;td&gt;商业模式未被验证&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;国窖1573品牌已验证超20年，浓香型白酒非遗酿造技艺传承数百年&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;6&lt;/td&gt;
-          &lt;td&gt;控股股东重大负面信号&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;泸州市国资委控股，2025年老窖集团增持234.53万股，彰显信心&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;快筛结论：✅ 全部通过，继续后续分析&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;投资结论&#34;&gt;投资结论&lt;/h2&gt;
+&lt;div class=&#34;decision-card-v2 decision-buy&#34;&gt;
+  &lt;div class=&#34;decision-v2-header&#34;&gt;
+    &lt;div class=&#34;decision-v2-icon&#34;&gt;📈&lt;/div&gt;
+    &lt;div class=&#34;decision-v2-title&#34;&gt;
+      &lt;span class=&#34;decision-v2-label&#34;&gt;投资建议&lt;/span&gt;
+      &lt;span class=&#34;decision-v2-action&#34;&gt;建议买入&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;div class=&#34;decision-v2-metrics&#34;&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;建议仓位&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value primary&#34;&gt;70%仓位&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;目标买入价&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;130.6-157.0 元&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;当前股价&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;103.09 元&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;优先级&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;高优先级&lt;/span&gt;
+    &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;decision-v2-body&#34;&gt;
+    &lt;div class=&#34;stock-info-card&#34;&gt;
+&lt;div class=&#34;stock-info-header&#34;&gt;
+&lt;span class=&#34;stock-info-name&#34;&gt;泸州老窖&lt;/span&gt;
+&lt;span class=&#34;stock-info-code&#34;&gt;000568.SZ&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;stock-info-body&#34;&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;持股渠道&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;A股直接持有&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;分析日期&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;2026-04-15&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;数据截止&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;2024FY / 2025Q3&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-grid&#34;&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 1A 快筛&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    审计意见：标准无保留 | 无财务造假记录 | 商业模式清晰 | 控股股东增持
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 1B 定性分析&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    资本消耗：低 | 收款模式：预收（先款后货）| 护城河：宽 | 管理层：良好
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 2 粗算回报率&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    Owner Earnings：138.63亿元 | 支付率：70% | 粗算回报率：6.40%
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 3 精算回报率&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    2024FY口径：8.21% | 2年平均口径：6.83% | 外推可信度：中
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 4 估值安全边际&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    安全边际：3.05-4.43 pct | 价值陷阱风险：低 | 目标买入价：130.6-157.0元
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;risk-list&#34;&gt;
+  &lt;div class=&#34;risk-list-title&#34;&gt;⚠️ 风险提示&lt;/div&gt;
+  &lt;ul class=&#34;risk-items&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;白酒行业深度调整期持续，营收净利短期承压（2025Q1-Q3双降）&lt;/li&gt;
+&lt;li&gt;存货高企（133.93亿元），存货周转天数约1,158天，若需求复苏不及预期可能加剧渠道压力&lt;/li&gt;
+&lt;li&gt;前五大经销商营收占比67.54%，客户集中度风险较高&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;存借双高&amp;quot;现象（货币资金335.78亿 vs 有息负债95.47亿），需关注资金使用效率&lt;/li&gt;
+&lt;li&gt;非经营性资金占用（子公司其他应收款~142亿元），需关注资金安全性&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;follow-up-list&#34;&gt;
+  &lt;div class=&#34;follow-up-title&#34;&gt;📋 后续跟踪事项&lt;/div&gt;
+  &lt;ul class=&#34;follow-up-items&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;跟踪2025年年报数据，验证营收是否企稳回升及OCF趋势&lt;/li&gt;
+&lt;li&gt;关注存货去化进度及渠道库存健康度&lt;/li&gt;
+&lt;li&gt;跟踪2025年分红方案执行情况（支付率≥70%，金额≥85亿元）&lt;/li&gt;
+&lt;li&gt;监控控股股东增减持动向&lt;/li&gt;
+&lt;li&gt;关注消费税改革政策进展&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/ul&gt;
+&lt;/div&gt;
+
 &lt;hr&gt;
-&lt;h2 id=&#34;因子-1b深度定性分析&#34;&gt;因子 1B：深度定性分析&lt;/h2&gt;
+&lt;h2 id=&#34;详细分析&#34;&gt;详细分析&lt;/h2&gt;
+&lt;div class=&#34;section-divider&#34;&gt;
+  &lt;div class=&#34;section-icon&#34;&gt;🔍&lt;/div&gt;
+  &lt;h2 class=&#34;section-title&#34;&gt;因子 1A：五分钟快筛&lt;/h2&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-checklist&#34;&gt;
+  &lt;div class=&#34;screening-checklist-header&#34;&gt;
+    &lt;span class=&#34;screening-checklist-icon&#34;&gt;🔍&lt;/span&gt;
+    &lt;span class=&#34;screening-checklist-title&#34;&gt;快筛检查表&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-checklist-grid&#34;&gt;
+    
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;1&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;审计意见异常&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;2024年度审计意见为**标准无保留意见**，审计机构为信永中和会计师事务所&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;2&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;频繁更换审计师&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;信永中和近年来持续担任公司审计机构，未发现更换记录&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;3&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;财务造假或重大违规前科&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;无财务造假记录；历史存款纠纷（5亿元）已收回3.76亿元，属历史遗留问题&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;4&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;看不懂（无法理解商业模式）&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;高端白酒生产销售，商业模式清晰：酿造→品牌溢价→经销商预付款→销售&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;5&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;商业模式未被验证&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;国窖1573品牌已验证超20年，浓香型白酒非遗酿造技艺传承数百年&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;6&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;控股股东重大负面信号&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;泸州市国资委控股，2025年老窖集团增持234.53万股，彰显信心&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;strong&gt;快筛结论：✅ 全部通过，继续后续分析&lt;/strong&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;div class=&#34;section-divider&#34;&gt;
+  &lt;div class=&#34;section-icon&#34;&gt;📊&lt;/div&gt;
+  &lt;h2 class=&#34;section-title&#34;&gt;因子 1B：深度定性分析&lt;/h2&gt;
+&lt;/div&gt;
+
 &lt;h3 id=&#34;模块三大报表基础数据与关键指标&#34;&gt;模块〇：三大报表基础数据与关键指标&lt;/h3&gt;
-&lt;h4 id=&#34;利润表核心数据2024fy单位亿元&#34;&gt;利润表核心数据（2024FY，单位：亿元）&lt;/h4&gt;
-&lt;table&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;利润表核心数据（2024FY，单位：亿元）&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th&gt;项目&lt;/th&gt;
@@ -143,8 +297,13 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h4 id=&#34;关键盈利能力指标2024fy&#34;&gt;关键盈利能力指标（2024FY）&lt;/h4&gt;
-&lt;table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;关键盈利能力指标（2024FY）&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th&gt;指标&lt;/th&gt;
@@ -190,8 +349,13 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h4 id=&#34;资产负债表核心数据2024fy单位亿元&#34;&gt;资产负债表核心数据（2024FY，单位：亿元）&lt;/h4&gt;
-&lt;table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;资产负债表核心数据（2024FY，单位：亿元）&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th&gt;项目&lt;/th&gt;
@@ -252,8 +416,13 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h4 id=&#34;现金流量表核心数据2024fy单位亿元&#34;&gt;现金流量表核心数据（2024FY，单位：亿元）&lt;/h4&gt;
-&lt;table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;现金流量表核心数据（2024FY，单位：亿元）&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th&gt;项目&lt;/th&gt;
@@ -283,8 +452,14 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h4 id=&#34;因子-234-计算参数预提取&#34;&gt;因子 2/3/4 计算参数预提取&lt;/h4&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;details class=&#34;code-collapse&#34;&gt;
+  &lt;summary class=&#34;code-collapse-summary&#34;&gt;📊 展开计算参数预提取&lt;/summary&gt;
+  &lt;div class=&#34;code-collapse-content&#34;&gt;
+    &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
@@ -372,9 +547,15 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;门槛 [II] = max(3.5%, 1.78%+2%) = max(3.5%, 3.78%) = 3.78%
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;hr&gt;
+&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;hr&gt;
 &lt;h3 id=&#34;模块一资本消耗强度&#34;&gt;模块一：资本消耗强度&lt;/h3&gt;
-&lt;table&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;资本消耗强度指标&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th&gt;指标&lt;/th&gt;
@@ -405,8 +586,352 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;资本消耗强度评级：低&lt;/strong&gt; ✅&lt;br&gt;
-白酒行业天然低资本消耗，公司当前资本开支主要用于技改扩产，维持性开支占比低。&lt;/p&gt;</description>
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;strong&gt;资本消耗强度评级：低&lt;/strong&gt; ✅&lt;br&gt;
+白酒行业天然低资本消耗，公司当前资本开支主要用于技改扩产，维持性开支占比低。
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h3 id=&#34;模块二收款模式&#34;&gt;模块二：收款模式&lt;/h3&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;收款模式指标&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;指标&lt;/th&gt;
+          &lt;th&gt;数值&lt;/th&gt;
+          &lt;th&gt;评价&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;应收账款/营业收入&lt;/td&gt;
+          &lt;td&gt;0.04%&lt;/td&gt;
+          &lt;td&gt;极低&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;应收账款周转天数&lt;/td&gt;
+          &lt;td&gt;0.16天&lt;/td&gt;
+          &lt;td&gt;极快&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;预收/合同负债模式&lt;/td&gt;
+          &lt;td&gt;先款后货&lt;/td&gt;
+          &lt;td&gt;极强议价能力&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;前五大经销商营收占比&lt;/td&gt;
+          &lt;td&gt;67.54%&lt;/td&gt;
+          &lt;td&gt;集中度高&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;strong&gt;收款模式评级：预收模式（最优）&lt;/strong&gt; ✅&lt;br&gt;
+公司对下游经销商拥有极强议价能力，基本采用先款后货模式，应收账款可忽略不计。
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h3 id=&#34;模块三竞争格局与护城河&#34;&gt;模块三：竞争格局与护城河&lt;/h3&gt;
+&lt;h4 id=&#34;非技术性护城河&#34;&gt;非技术性护城河&lt;/h4&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;非技术性护城河评估&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;护城河来源&lt;/th&gt;
+          &lt;th&gt;强度&lt;/th&gt;
+          &lt;th&gt;说明&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;品牌力&lt;/td&gt;
+          &lt;td&gt;极强&lt;/td&gt;
+          &lt;td&gt;国窖1573稳居200亿阵营，&amp;ldquo;浓香国酒&amp;quot;定位&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;转换成本&lt;/td&gt;
+          &lt;td&gt;中等&lt;/td&gt;
+          &lt;td&gt;消费者品牌偏好存在惯性&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;网络效应&lt;/td&gt;
+          &lt;td&gt;弱&lt;/td&gt;
+          &lt;td&gt;不适用&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;规模经济&lt;/td&gt;
+          &lt;td&gt;强&lt;/td&gt;
+          &lt;td&gt;高端白酒产量稀缺性+品牌溢价&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&#34;技术性护城河&#34;&gt;技术性护城河&lt;/h4&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;技术性护城河评估&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;护城河来源&lt;/th&gt;
+          &lt;th&gt;强度&lt;/th&gt;
+          &lt;th&gt;说明&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;百年老窖池群&lt;/td&gt;
+          &lt;td&gt;极强&lt;/td&gt;
+          &lt;td&gt;国宝级窖池不可复制，微生物生态系统独特&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;非遗酿造技艺&lt;/td&gt;
+          &lt;td&gt;强&lt;/td&gt;
+          &lt;td&gt;浓香型白酒国家非遗，传承数百年&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;基酒储备&lt;/td&gt;
+          &lt;td&gt;强&lt;/td&gt;
+          &lt;td&gt;国窖1573基酒储备1.25万吨&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;strong&gt;护城河评级：宽护城河&lt;/strong&gt; ✅&lt;br&gt;
+百年老窖池群是核心不可复制资产，品牌力+稀缺资源构成双重壁垒。但需关注山西汾酒营收反超带来的竞争压力。
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h3 id=&#34;模块四周期性&#34;&gt;模块四：周期性&lt;/h3&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;周期性分析&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;指标&lt;/th&gt;
+          &lt;th&gt;分析&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;行业周期位置&lt;/td&gt;
+          &lt;td&gt;白酒行业深度调整期（2024年起）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;公司营收增速&lt;/td&gt;
+          &lt;td&gt;2024FY +3.19%（近十年新低），2025Q1-Q3 -4.84%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;高端白酒需求&lt;/td&gt;
+          &lt;td&gt;结构性升级持续，但短期承压&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;终端需求可逆性&lt;/td&gt;
+          &lt;td&gt;可逆（消费升级长期趋势不变）&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;strong&gt;周期性评级：弱周期&lt;/strong&gt; ✅&lt;br&gt;
+高端白酒具有弱周期特征，当前处于行业调整中段，终端需求为周期性波动而非结构性衰退。
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h3 id=&#34;模块五人力资本依赖&#34;&gt;模块五：人力资本依赖&lt;/h3&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;人力资本依赖分析&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;指标&lt;/th&gt;
+          &lt;th&gt;分析&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;核心人物依赖&lt;/td&gt;
+          &lt;td&gt;中等（传统酿造技艺依赖经验丰富的酿酒师）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;可替代性&lt;/td&gt;
+          &lt;td&gt;品牌和窖池资产大于个人，管理层更替风险可控&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;股权激励&lt;/td&gt;
+          &lt;td&gt;有限（少量股权激励回购）&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;strong&gt;人力资本依赖评级：中&lt;/strong&gt; ⚠️&lt;br&gt;
+酿造技艺依赖人才，但品牌和窖池资产构成更核心的竞争壁垒，个人依赖度中等。
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h3 id=&#34;模块六管理层与治理结构&#34;&gt;模块六：管理层与治理结构&lt;/h3&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;管理层与治理结构评估&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;指标&lt;/th&gt;
+          &lt;th&gt;分析&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;董事长&lt;/td&gt;
+          &lt;td&gt;刘淼，2015年任职，长期稳定&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;实际控制人&lt;/td&gt;
+          &lt;td&gt;泸州市国资委（老窖集团+兴泸集团合计持股50.91%）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;控股股东行为&lt;/td&gt;
+          &lt;td&gt;2025年增持234.53万股，正面信号&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;分红政策&lt;/td&gt;
+          &lt;td&gt;2024-2026年分红规划：65%→70%→75%，且均不低于85亿元&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;关联方交易&lt;/td&gt;
+          &lt;td&gt;存在关联方存款（泸州银行&lt;del&gt;25亿、泸州农商行&lt;/del&gt;6亿），利率合理&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;非经营性资金占用&lt;/td&gt;
+          &lt;td&gt;子公司其他应收款~142亿元，需关注资金使用效率&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;strong&gt;管理层评分：良好&lt;/strong&gt; ✅&lt;br&gt;
+国资控股稳定，分红政策持续改善，控股股东增持彰显信心。但需关注非经营性资金占用问题。
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h3 id=&#34;模块七监管与政策风险&#34;&gt;模块七：监管与政策风险&lt;/h3&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;监管与政策风险评估&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;风险类型&lt;/th&gt;
+          &lt;th&gt;程度&lt;/th&gt;
+          &lt;th&gt;说明&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;消费税改革&lt;/td&gt;
+          &lt;td&gt;中&lt;/td&gt;
+          &lt;td&gt;白酒消费税可能调整，但高端白酒转嫁能力强&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;反腐政策&lt;/td&gt;
+          &lt;td&gt;低-中&lt;/td&gt;
+          &lt;td&gt;历史影响已消化，高端白酒消费结构已转型&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;行业监管&lt;/td&gt;
+          &lt;td&gt;低&lt;/td&gt;
+          &lt;td&gt;白酒行业监管相对成熟稳定&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;strong&gt;监管风险评级：中&lt;/strong&gt; ⚠️&lt;br&gt;
+消费税改革是主要政策风险，但高端白酒品牌具备较强的税负转嫁能力。
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h3 id=&#34;模块八mda-解读&#34;&gt;模块八：MD&amp;amp;A 解读&lt;/h3&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;MD&amp;amp;A 解读&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;维度&lt;/th&gt;
+          &lt;th&gt;评价&lt;/th&gt;
+          &lt;th&gt;关键信息&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;经营回顾&lt;/td&gt;
+          &lt;td&gt;偏负面&lt;/td&gt;
+          &lt;td&gt;营收净利增速创近十年新低，2025Q1-Q3双降&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;前瞻指引&lt;/td&gt;
+          &lt;td&gt;中性&lt;/td&gt;
+          &lt;td&gt;2025年营收预计318-325亿元（+2%-4%），控货去库存&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;资本配置&lt;/td&gt;
+          &lt;td&gt;正面&lt;/td&gt;
+          &lt;td&gt;高比例分红+技改扩产，资本配置合理&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;风险因素&lt;/td&gt;
+          &lt;td&gt;偏负面&lt;/td&gt;
+          &lt;td&gt;存货高企、经销商集中度高、行业竞争加剧&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;strong&gt;MD&amp;amp;A 前瞻评级：中性偏负面&lt;/strong&gt; ⚠️&lt;br&gt;
+短期业绩承压，但公司主动控货去库存、推进渠道数字化，长期战略方向正确。
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h3 id=&#34;模块九控股折价分析&#34;&gt;模块九：控股折价分析&lt;/h3&gt;
+&lt;p&gt;不适用（非控股公司结构）&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>

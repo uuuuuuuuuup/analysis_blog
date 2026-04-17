@@ -1,0 +1,11 @@
+{{- $title := .Get "title" | default "快筛检查表" -}}
+
+<div class="screening-checklist">
+  <div class="screening-checklist-header">
+    <span class="screening-checklist-icon">🔍</span>
+    <span class="screening-checklist-title">{{ $title }}</span>
+  </div>
+  <div class="screening-checklist-grid">
+    {{ .Inner }}
+  </div>
+</div>

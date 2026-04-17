@@ -1,0 +1,19 @@
+{{- $name := .Get "name" | default "指标" -}}
+{{- $value := .Get "value" | default "-" -}}
+{{- $trend := .Get "trend" | default "" -}}
+{{- $status := .Get "status" | default "" -}}
+
+{{- $trendClass := cond (eq $trend "up") "trend-up" (cond (eq $trend "down") "trend-down" "trend-stable") -}}
+{{- $statusClass := cond (eq $status "good") "status-good" (cond (eq $status "warning") "status-warning" "status-neutral") -}}
+
+<div class="indicator-card {{ $statusClass }}">
+  <div class="indicator-name">{{ $name }}</div>
+  <div class="indicator-value">
+    {{ $value }}
+    {{- if $trend -}}
+    <span class="indicator-trend {{ $trendClass }}">
+      {{- if eq $trend "up" -}}↑{{- else if eq $trend "down" -}}↓{{- else -}}→{{- end -}}
+    </span>
+    {{- end -}}
+  </div>
+</div>

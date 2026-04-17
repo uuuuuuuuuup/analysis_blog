@@ -1,0 +1,10 @@
+{{- $title := .Get "title" | default "" -}}
+
+<div class="factor-result-block">
+  {{- if $title -}}
+  <div class="factor-result-title">{{ $title }}</div>
+  {{- end -}}
+  <div class="factor-result-content">
+    {{ .Inner | markdownify }}
+  </div>
+</div>

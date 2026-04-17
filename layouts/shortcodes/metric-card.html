@@ -1,0 +1,22 @@
+{{- $label := .Get "label" | default "" -}}
+{{- $value := .Get "value" | default "-" -}}
+{{- $trend := .Get "trend" | default "" -}}
+{{- $status := .Get "status" | default "" -}}
+
+{{- $statusClass := cond (eq $status "good") "status-good" (cond (eq $status "warning") "status-warning" (cond (eq $status "bad") "status-bad" "")) -}}
+{{- $trendClass := cond (eq $trend "up") "trend-up" (cond (eq $trend "down") "trend-down" (cond (eq $trend "stable") "trend-stable" "")) -}}
+
+<div class="metric-card {{ $statusClass }}">
+  <div class="metric-label">{{ $label }}</div>
+  <div class="metric-value-row">
+    <span class="metric-value">{{ $value }}</span>
+    {{- if $trend -}}
+    <span class="metric-trend {{ $trendClass }}">
+      {{- if eq $trend "up" -}}↑{{- else if eq $trend "down" -}}↓{{- else if eq $trend "stable" -}}→{{- end -}}
+    </span>
+    {{- end -}}
+  </div>
+  {{- if .Inner -}}
+  <div class="metric-note">{{ .Inner }}</div>
+  {{- end -}}
+</div>

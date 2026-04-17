@@ -1,0 +1,13 @@
+{{- $company := .Get "company" | default "" -}}
+{{- $code := .Get "code" | default "" -}}
+{{- $date := .Get "date" | default "" -}}
+{{- $dataDate := .Get "dataDate" | default "" -}}
+{{- $framework := .Get "framework" | default "稳健投资策略 v2.0" -}}
+
+<div class="report-header">
+  <div class="report-meta">
+    <span class="meta-item">📅 分析日期：{{ $date }}</span>
+    <span class="meta-item">📊 数据截止：{{ $dataDate }}</span>
+    <span class="meta-item">📋 分析框架：{{ $framework }}</span>
+  </div>
+</div>

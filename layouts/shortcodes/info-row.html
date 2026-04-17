@@ -1,0 +1,7 @@
+{{- $label := .Get "label" | default "" -}}
+{{- $value := .Get "value" | default "-" -}}
+
+<div class="info-row">
+  <span class="info-label">{{ $label }}</span>
+  <span class="info-value">{{ $value }}</span>
+</div>

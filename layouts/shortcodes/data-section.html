@@ -1,0 +1,14 @@
+{{- $title := .Get "title" | default "" -}}
+{{- $unit := .Get "unit" | default "" -}}
+
+<div class="data-section">
+  {{- if $title -}}
+  <div class="data-section-header">
+    <span class="data-section-title">{{ $title }}</span>
+    {{- if $unit -}}<span class="data-section-unit">单位：{{ $unit }}</span>{{- end -}}
+  </div>
+  {{- end -}}
+  <div class="data-section-content">
+    {{ .Inner | markdownify }}
+  </div>
+</div>

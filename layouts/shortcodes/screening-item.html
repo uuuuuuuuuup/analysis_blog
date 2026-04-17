@@ -1,0 +1,13 @@
+<div class="screening-item {{ .Get "status" | default "pass" }}">
+  <div class="screening-item-header">
+    <span class="screening-item-number">{{ .Get "number" }}</span>
+    <span class="screening-item-status">
+      {{- if eq (.Get "status") "pass" -}}✅{{- else -}}❌{{- end -}}
+    </span>
+  </div>
+  <div class="screening-item-body">
+    <div class="screening-item-title">{{ .Get "title" }}</div>
+    <div class="screening-item-result">{{ .Get "result" | default "通过" }}</div>
+    <div class="screening-item-desc">{{ .Inner }}</div>
+  </div>
+</div>

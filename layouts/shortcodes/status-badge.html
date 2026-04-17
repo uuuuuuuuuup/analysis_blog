@@ -1,0 +1,4 @@
+{{- $status := .Get "status" | default "pass" -}}
+{{- $text := .Get "text" | default "通过" -}}
+{{- $class := cond (eq $status "pass") "badge-pass" (cond (eq $status "fail") "badge-fail" "badge-warning") -}}
+<span class="status-badge {{ $class }}">{{ $text }}</span>

@@ -1,0 +1,13 @@
+{{- $type := .Get "type" | default "info" -}}
+{{- $title := .Get "title" | default "" -}}
+
+{{- $class := cond (eq $type "success") "conclusion-success" (cond (eq $type "warning") "conclusion-warning" (cond (eq $type "danger") "conclusion-danger" "conclusion-info")) -}}
+
+<div class="conclusion-box {{ $class }}">
+  {{- if $title -}}
+  <div class="conclusion-title">{{ $title }}</div>
+  {{- end -}}
+  <div class="conclusion-content">
+    {{ .Inner | markdownify }}
+  </div>
+</div>

@@ -1,0 +1,8 @@
+{{- $icon := .Get "icon" | default "📊" -}}
+{{- $title := .Get "title" | default "" -}}
+{{- $id := .Get "id" | default "" -}}
+
+<div class="section-divider" {{- if $id -}} id="{{ $id }}" {{- end -}}>
+  <div class="section-icon">{{ $icon }}</div>
+  <h2 class="section-title">{{ $title }}</h2>
+</div>

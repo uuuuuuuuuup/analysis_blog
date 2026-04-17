@@ -4,214 +4,175 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37112807-bda9-45f9-91f3-b1db2ed70e69" name="更改" comment="调整网站、邮箱">
+    <list default="true" id="37112807-bda9-45f9-91f3-b1db2ed70e69" name="更改" comment="1. 创建自定义列表模板 (layouts/_default/list.html) - 实现按日期分组的文章展示&#10;     2. 创建自定义样式文件 (assets/css/extended/custom.css) - 美化日期分组样式                                  &#10;     3. 为9个报告示范添加了发布日期 - 展示分组效果">
+      <change beforePath="$PROJECT_DIR$/.idea/MarsCodeWorkspaceAppSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MarsCodeWorkspaceAppSettings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/reports/000333/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/reports/000333/data_pack_market.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/reports/000333/data_pack_report.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/reports/000333/美的集团_稳健投资策略分析报告.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/reports/000333/美的集团_稳健投资策略分析报告.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/reports/000333/美的集团_稳健投资策略分析报告.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/about/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/reports/000333/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000333/data_pack_market/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/reports/000333/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000333/data_pack_report/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/reports/000333/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000333/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/reports/000333/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000333/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/reports/000333/美的集团_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000333/美的集团_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000513/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000513/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000513/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000513/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000513/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000513/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/000513/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000513/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000513/丽珠集团_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000513/丽珠集团_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000568/analysis_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000568/analysis_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000568/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000568/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000568/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000568/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000568/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000568/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/000568/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000568/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000596/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000596/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000596/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000596/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000596/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000596/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/000596/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000596/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000596/古井贡酒_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000596/古井贡酒_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000651/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000651/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000651/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000651/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000651/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000651/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/000651/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000651/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000651/格力电器_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000651/格力电器_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000858/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000858/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000858/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000858/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000858/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000858/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/000858/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000858/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000858/五粮液_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000858/五粮液_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000895/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000895/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000895/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000895/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000895/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000895/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/000895/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000895/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/000895/双汇发展_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/000895/双汇发展_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/001965/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/001965/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/001965/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/001965/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/001965/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/001965/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/001965/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/001965/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/001965/招商公路_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/001965/招商公路_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002027/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002027/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002027/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002027/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002027/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002027/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/002027/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002027/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002027/分众传媒_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002027/分众传媒_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002304/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002304/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002304/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002304/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002304/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002304/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/002304/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002304/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002304/洋河股份_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002304/洋河股份_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002327/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002327/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002327/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002327/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002327/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002327/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/002327/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002327/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002327/富安娜_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002327/富安娜_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002352/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002352/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002352/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002352/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002352/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002352/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/002352/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002352/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002352/顺丰控股_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002352/顺丰控股_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002415/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002415/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002415/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002415/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002415/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002415/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/002415/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002415/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002415/海康威视_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002415/海康威视_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002507/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002507/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002507/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002507/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002507/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002507/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/002507/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002507/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002507/涪陵榨菜_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002507/涪陵榨菜_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002572/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002572/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002572/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002572/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002572/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002572/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/002572/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002572/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002572/索菲亚_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002572/索菲亚_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002690/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002690/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002690/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002690/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002690/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002690/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/002690/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002690/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002690/美亚光电_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002690/美亚光电_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002714/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002714/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002714/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002714/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002714/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002714/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/002714/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002714/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002714/牧原股份_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002714/牧原股份_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002867/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002867/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002867/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002867/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002867/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002867/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/002867/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002867/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002867/周大生_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002867/周大生_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002991/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002991/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002991/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002991/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002991/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002991/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/002991/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002991/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/002991/甘源食品_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/002991/甘源食品_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/003000/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/003000/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/003000/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/003000/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/003000/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/003000/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/003000/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/003000/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/003000/劲仔食品_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/003000/劲仔食品_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/300015/analysis_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/300015/analysis_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/300015/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/300015/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/300015/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/300015/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/300015/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/300015/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/300015/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/300015/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/300146/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/300146/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/300146/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/300146/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/300146/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/300146/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/300146/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/300146/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/300146/汤臣倍健_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/300146/汤臣倍健_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/300628/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/300628/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/300628/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/300628/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/300628/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/300628/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/300628/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/300628/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/300628/亿联网络_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/300628/亿联网络_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/300979/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/300979/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/300979/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/300979/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/300979/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/300979/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/300979/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/300979/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/300979/华利集团_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/300979/华利集团_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600048/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600048/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600048/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600048/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600048/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600048/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/600048/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600048/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600048/保利发展_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600048/保利发展_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600050/analysis_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600050/analysis_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600050/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600050/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600050/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600050/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600050/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600050/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/600050/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600050/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600085/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600085/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600085/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600085/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600085/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600085/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/600085/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600085/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600085/同仁堂_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600085/同仁堂_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600132/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600132/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600132/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600132/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600132/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600132/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/600132/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600132/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600132/重庆啤酒_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600132/重庆啤酒_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600398/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600398/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600398/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600398/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600398/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600398/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/600398/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600398/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600398/海澜之家_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600398/海澜之家_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600566/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600566/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600566/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600566/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600566/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600566/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/600566/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600566/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600566/济川药业_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600566/济川药业_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600585/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600585/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600585/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600585/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600585/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600585/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/600585/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600585/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600585/海螺水泥_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600585/海螺水泥_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600763/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600763/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600763/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600763/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600763/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600763/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/600763/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600763/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600763/通策医疗_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600763/通策医疗_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600887/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600887/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600887/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600887/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600887/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600887/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/600887/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600887/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600887/伊利股份_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600887/伊利股份_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600900/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600900/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600900/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600900/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600900/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600900/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/600900/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600900/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600900/长江电力_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600900/长江电力_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600941/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600941/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600941/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600941/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600941/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600941/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/600941/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600941/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/600941/中国移动_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/600941/中国移动_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/601728/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/601728/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/601728/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/601728/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/601728/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/601728/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/601728/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/601728/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/601728/中国电信_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/601728/中国电信_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/603198/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/603198/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/603198/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/603198/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/603198/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/603198/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/603198/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/603198/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/603198/迎驾贡酒_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/603198/迎驾贡酒_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/603345/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/603345/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/603345/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/603345/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/603345/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/603345/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/603345/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/603345/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/603345/安井食品_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/603345/安井食品_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/603605/analysis_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/603605/analysis_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/603605/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/603605/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/603605/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/603605/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/603605/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/603605/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/603605/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/603605/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/603833/data_pack_market/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/603833/data_pack_market/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/603833/data_pack_report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/603833/data_pack_report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/603833/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/603833/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/reports/603833/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/603833/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/603833/欧派家居_稳健投资策略分析报告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/603833/欧派家居_稳健投资策略分析报告/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/reports/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/index.xml" afterDir="false" />
@@ -220,9 +181,7 @@
       <change beforePath="$PROJECT_DIR$/public/reports/page/4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/reports/page/4/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/summary/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/summary/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/summary/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/summary/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

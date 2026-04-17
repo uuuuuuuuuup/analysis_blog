@@ -1,0 +1,10 @@
+{{- $label := .Get "label" | default "" -}}
+{{- $value := .Get "value" | default "-" -}}
+{{- $highlight := .Get "highlight" | default "false" -}}
+
+{{- $highlightClass := cond (eq $highlight "true") "highlight" "" -}}
+
+<div class="kv-item {{ $highlightClass }}">
+  <span class="kv-label">{{ $label }}</span>
+  <span class="kv-value">{{ $value }}</span>
+</div>

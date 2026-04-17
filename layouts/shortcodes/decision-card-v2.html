@@ -1,0 +1,52 @@
+{{- $decision := .Get "decision" | default "observe" -}}
+{{- $position := .Get "position" | default "" -}}
+{{- $targetPrice := .Get "targetPrice" | default "" -}}
+{{- $currentPrice := .Get "currentPrice" | default "" -}}
+{{- $priority := .Get "priority" | default "" -}}
+
+{{- $class := cond (eq $decision "buy") "decision-buy" (cond (eq $decision "observe") "decision-observe" "decision-wait") -}}
+{{- $decisionText := cond (eq $decision "buy") "建议买入" (cond (eq $decision "observe") "观察等待" "暂不操作") -}}
+{{- $decisionIcon := cond (eq $decision "buy") "📈" (cond (eq $decision "observe") "👀" "⏸️") -}}
+
+<div class="decision-card-v2 {{ $class }}">
+  <div class="decision-v2-header">
+    <div class="decision-v2-icon">{{ $decisionIcon }}</div>
+    <div class="decision-v2-title">
+      <span class="decision-v2-label">投资建议</span>
+      <span class="decision-v2-action">{{ $decisionText }}</span>
+    </div>
+  </div>
+  
+  {{- if or $position $targetPrice $currentPrice $priority -}}
+  <div class="decision-v2-metrics">
+    {{- if $position -}}
+    <div class="decision-metric">
+      <span class="decision-metric-label">建议仓位</span>
+      <span class="decision-metric-value primary">{{ $position }}</span>
+    </div>
+    {{- end -}}
+    {{- if $targetPrice -}}
+    <div class="decision-metric">
+      <span class="decision-metric-label">目标买入价</span>
+      <span class="decision-metric-value">{{ $targetPrice }}</span>
+    </div>
+    {{- end -}}
+    {{- if $currentPrice -}}
+    <div class="decision-metric">
+      <span class="decision-metric-label">当前股价</span>
+      <span class="decision-metric-value">{{ $currentPrice }}</span>
+    </div>
+    {{- end -}}
+    {{- if $priority -}}
+    <div class="decision-metric">
+      <span class="decision-metric-label">优先级</span>
+      <span class="decision-metric-value">{{ $priority }}</span>
+    </div>
+    {{- end -}}
+  </div>
+  {{- end -}}
+  
+  <div class="decision-v2-body">
+    {{ .Inner | markdownify }}
+  </div>
+</div>

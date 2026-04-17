@@ -1,0 +1,11 @@
+{{- $score := .Get "score" | default 0 -}}
+{{- $max := .Get "max" | default 5 -}}
+{{- $label := .Get "label" | default "" -}}
+<div class="rating-container">
+  {{- if $label -}}<span class="rating-label">{{ $label }}</span>{{- end -}}
+  <div class="rating-stars" data-score="{{ $score }}" data-max="{{ $max }}">
+    {{- range $i := seq $max -}}
+      {{- if le $i $score -}}★{{- else -}}☆{{- end -}}
+    {{- end -}}
+  </div>
+</div>

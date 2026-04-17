@@ -1,0 +1,6 @@
+<details class="code-collapse">
+  <summary class="code-collapse-summary">{{ .Get "title" | default "展开详情" }}</summary>
+  <div class="code-collapse-content">
+    {{ .Inner | markdownify }}
+  </div>
+</details>

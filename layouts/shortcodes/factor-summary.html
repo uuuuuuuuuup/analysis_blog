@@ -1,0 +1,18 @@
+{{- $title := .Get "title" | default "" -}}
+{{- $status := .Get "status" | default "neutral" -}}
+
+{{- $statusClass := cond (eq $status "pass") "status-pass" (cond (eq $status "warning") "status-warning" (cond (eq $status "fail") "status-fail" "status-neutral")) -}}
+
+<div class="factor-summary {{ $statusClass }}">
+  {{- if $title -}}
+  <div class="factor-summary-header">
+    <span class="factor-summary-title">{{ $title }}</span>
+    {{- if eq $status "pass" -}}<span class="factor-summary-badge pass">✓ 通过</span>{{- end -}}
+    {{- if eq $status "warning" -}}<span class="factor-summary-badge warning">⚠ 注意</span>{{- end -}}
+    {{- if eq $status "fail" -}}<span class="factor-summary-badge fail">✗ 未通过</span>{{- end -}}
+  </div>
+  {{- end -}}
+  <div class="factor-summary-content">
+    {{ .Inner | markdownify }}
+  </div>
+</div>

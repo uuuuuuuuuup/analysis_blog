@@ -1,15 +1,15 @@
 ---
-title: "analysis (000568)"
-linkTitle: "analysis"
+title: "泸州老窖（000568）"
+linkTitle: "泸州老窖"
 weight: 10
 type: docs
 ---
 
-# analysis (000568)
+# 泸州老窖（000568）
 
 ## 📄 报告文件
 
-- [分析报告](analysis_report.md)
+- [稳健投资策略分析报告](泸州老窖_稳健投资策略分析报告.md)
 - [市场数据包](data_pack_market.md)
 - [研报数据包](data_pack_report.md)
 

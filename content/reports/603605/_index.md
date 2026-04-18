@@ -1,15 +1,15 @@
 ---
-title: "analysis (603605)"
-linkTitle: "analysis"
+title: "珀莱雅（603605）"
+linkTitle: "珀莱雅"
 weight: 10
 type: docs
 ---
 
-# analysis (603605)
+# 珀莱雅（603605）
 
 ## 📄 报告文件
 
-- [分析报告](analysis_report.md)
+- [稳健投资策略分析报告](珀莱雅_稳健投资策略分析报告.md)
 - [市场数据包](data_pack_market.md)
 - [研报数据包](data_pack_report.md)
 

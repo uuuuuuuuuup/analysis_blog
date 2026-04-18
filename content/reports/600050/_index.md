@@ -1,15 +1,15 @@
 ---
-title: "analysis (600050)"
-linkTitle: "analysis"
+title: "中国联通（600050）"
+linkTitle: "中国联通"
 weight: 10
 type: docs
 ---
 
-# analysis (600050)
+# 中国联通（600050）
 
 ## 📄 报告文件
 
-- [分析报告](analysis_report.md)
+- [稳健投资策略分析报告](中国联通_稳健投资策略分析报告.md)
 - [市场数据包](data_pack_market.md)
 - [研报数据包](data_pack_report.md)
 

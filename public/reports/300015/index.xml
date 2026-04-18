@@ -6,73 +6,227 @@
     <description>Recent content in analysis (300015) on 稳健策略研究</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
+    <lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/reports/300015/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>爱尔眼科（300015）稳健投资策略分析报告</title>
       <link>//localhost:1313/reports/300015/analysis_report/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/reports/300015/analysis_report/</guid>
-      <description>&lt;h1 id=&#34;稳健投资策略分析报告爱尔眼科300015sz&#34;&gt;稳健投资策略分析报告：爱尔眼科（300015.SZ）&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;分析日期&lt;/strong&gt;：2026-04-15
-&lt;strong&gt;数据截止&lt;/strong&gt;：2025Q3（2025年报预计2026-04-24披露）
-&lt;strong&gt;持股渠道&lt;/strong&gt;：直接持有（A股）
-&lt;strong&gt;金额单位&lt;/strong&gt;：人民币亿元（除特别标注外）&lt;/p&gt;
+      <description>&lt;div class=&#34;report-header&#34;&gt;
+  &lt;div class=&#34;report-meta&#34;&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📅 分析日期：&lt;/span&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📊 数据截止：&lt;/span&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📋 分析框架：稳健投资策略 v2.0&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;hr&gt;
-&lt;h2 id=&#34;因子-1a五分钟快筛一票否决&#34;&gt;因子 1A：五分钟快筛（一票否决）&lt;/h2&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;序号&lt;/th&gt;
-          &lt;th&gt;检查项&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;结果&lt;/th&gt;
-          &lt;th&gt;说明&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
-          &lt;td&gt;审计意见异常&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;否&lt;/td&gt;
-          &lt;td&gt;2024FY标准无保留意见，中审众环会计师事务所&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
-          &lt;td&gt;频繁更换审计师&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;否&lt;/td&gt;
-          &lt;td&gt;近年来未发生审计师变更&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
-          &lt;td&gt;财务造假或重大违规前科&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;否&lt;/td&gt;
-          &lt;td&gt;无财务造假前科；多地医院曾曝医疗事故，属经营风险非财务造假&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
-          &lt;td&gt;看不懂（无法理解商业模式）&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;否&lt;/td&gt;
-          &lt;td&gt;眼科医疗连锁，商业模式清晰：通过&amp;quot;1+8+N&amp;quot;分级连锁体系提供眼科诊疗服务&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
-          &lt;td&gt;商业模式未被验证&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;否&lt;/td&gt;
-          &lt;td&gt;2009年上市至今16年，营收从6亿增至210亿，模式已充分验证&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
-          &lt;td&gt;控股股东重大负面信号&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;否&lt;/td&gt;
-          &lt;td&gt;陈邦合计控制42.95%，存在股权质押操作但比例可控（质押4,600万股占其所持3.19%）&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;快筛结论：✅ 通过&lt;/strong&gt;，无一票否决项，继续进入深度分析。&lt;/p&gt;
+&lt;h2 id=&#34;投资结论&#34;&gt;投资结论&lt;/h2&gt;
+&lt;div class=&#34;decision-card-v2 decision-wait&#34;&gt;
+  &lt;div class=&#34;decision-v2-header&#34;&gt;
+    &lt;div class=&#34;decision-v2-icon&#34;&gt;⏸️&lt;/div&gt;
+    &lt;div class=&#34;decision-v2-title&#34;&gt;
+      &lt;span class=&#34;decision-v2-label&#34;&gt;投资建议&lt;/span&gt;
+      &lt;span class=&#34;decision-v2-action&#34;&gt;暂不操作&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;div class=&#34;decision-v2-metrics&#34;&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;建议仓位&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value primary&#34;&gt;不建仓&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;目标买入价&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;2.40 元（2024FY口径）/ 1.60 元（5年均值口径）&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;当前股价&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;9.62 元&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;优先级&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;低优先级观察&lt;/span&gt;
+    &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;decision-v2-body&#34;&gt;
+    &lt;div class=&#34;stock-info-card&#34;&gt;
+&lt;div class=&#34;stock-info-header&#34;&gt;
+&lt;span class=&#34;stock-info-name&#34;&gt;爱尔眼科医院集团股份有限公司&lt;/span&gt;
+&lt;span class=&#34;stock-info-code&#34;&gt;300015.SZ&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;stock-info-body&#34;&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;持股渠道&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;直接持有（A股）&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;分析日期&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;2026-04-15&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;数据截止&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;2025Q3&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-grid&#34;&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 1A 快筛&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    审计意见：标准无保留 | 无财务造假记录 | 商业模式清晰 | 无控股股东重大负面信号
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-warning&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 1B 定性分析&lt;/span&gt;&lt;span class=&#34;factor-summary-badge warning&#34;&gt;⚠ 注意&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    护城河收窄⚠️ | 资本消耗强度中偏高 | 监管风险中高（集采+DRG） | 管理层评分一般
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-warning&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 2 粗算回报率&lt;/span&gt;&lt;span class=&#34;factor-summary-badge warning&#34;&gt;⚠ 注意&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    粗算穿透回报率 R：1.98% | 边际不达标 | 远低于门槛 3.79%
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-fail&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 3 精算回报率&lt;/span&gt;&lt;span class=&#34;factor-summary-badge fail&#34;&gt;✗ 未通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    精算穿透回报率 GG：0.90%（5年均值） | 1.35%（2024FY） | 外推可信度：中
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-fail&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 4 估值安全边际&lt;/span&gt;&lt;span class=&#34;factor-summary-badge fail&#34;&gt;✗ 未通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    安全边际：-2.89 pct | 价值陷阱风险：中 | 现金保护等级：无保护
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;risk-list&#34;&gt;
+  &lt;div class=&#34;risk-list-title&#34;&gt;⚠️ 风险提示&lt;/div&gt;
+  &lt;ul class=&#34;risk-items&#34;&gt;
+    &lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;商誉风险&lt;/strong&gt;：商誉87.91亿元占总资产24.5%，若发生大额减值将严重冲击净资产&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;集采冲击&lt;/strong&gt;：人工晶体、角膜塑形镜纳入集采，核心业务毛利率或压缩10-15pp&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;竞争加剧&lt;/strong&gt;：屈光手术价格战，客单价持续下行，行业利润空间收窄&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;扣非净利下滑&lt;/strong&gt;：2024年扣非归母净利润首现负增长（-11.82%），核心盈利能力承压&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;并购模式不可持续&lt;/strong&gt;：过半OCF用于并购投资，若并购放缓则增长引擎熄火&lt;/li&gt;
+&lt;/ol&gt;
+
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;follow-up-list&#34;&gt;
+  &lt;div class=&#34;follow-up-title&#34;&gt;📋 后续跟踪事项&lt;/div&gt;
+  &lt;ul class=&#34;follow-up-items&#34;&gt;
+    &lt;ol&gt;
+&lt;li&gt;关注2025年报（预计2026-04-24披露），重点观察扣非净利润是否恢复增长&lt;/li&gt;
+&lt;li&gt;跟踪集采政策落地对毛利率的实际影响&lt;/li&gt;
+&lt;li&gt;关注商誉减值测试结果及关键假设变化&lt;/li&gt;
+&lt;li&gt;监测屈光手术客单价走势，判断价格战是否企稳&lt;/li&gt;
+&lt;li&gt;关注公司分红政策是否持续提升支付率&lt;/li&gt;
+&lt;/ol&gt;
+
+  &lt;/ul&gt;
+&lt;/div&gt;
+
 &lt;hr&gt;
-&lt;h2 id=&#34;因子-1b深度定性分析&#34;&gt;因子 1B：深度定性分析&lt;/h2&gt;
+&lt;h2 id=&#34;详细分析&#34;&gt;详细分析&lt;/h2&gt;
+&lt;div class=&#34;section-divider&#34;&gt;
+  &lt;div class=&#34;section-icon&#34;&gt;🔍&lt;/div&gt;
+  &lt;h2 class=&#34;section-title&#34;&gt;因子 1A：五分钟快筛（一票否决）&lt;/h2&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-checklist&#34;&gt;
+  &lt;div class=&#34;screening-checklist-header&#34;&gt;
+    &lt;span class=&#34;screening-checklist-icon&#34;&gt;🔍&lt;/span&gt;
+    &lt;span class=&#34;screening-checklist-title&#34;&gt;快筛检查表&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-checklist-grid&#34;&gt;
+    
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;1&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;审计意见异常&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;2024FY标准无保留意见，中审众环会计师事务所&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;2&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;频繁更换审计师&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;近年来未发生审计师变更&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;3&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;财务造假或重大违规前科&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;无财务造假前科；多地医院曾曝医疗事故，属经营风险非财务造假&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;4&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;看不懂（无法理解商业模式）&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;眼科医疗连锁，商业模式清晰：通过&#34;1+8+N&#34;分级连锁体系提供眼科诊疗服务&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;5&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;商业模式未被验证&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;2009年上市至今16年，营收从6亿增至210亿，模式已充分验证&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;6&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;控股股东重大负面信号&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;陈邦合计控制42.95%，存在股权质押操作但比例可控（质押4,600万股占其所持3.19%）&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-success&#34;&gt;&lt;div class=&#34;conclusion-title&#34;&gt;快筛结论&lt;/div&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    ✅ &lt;strong&gt;通过&lt;/strong&gt;，无一票否决项，继续进入深度分析。
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;div class=&#34;section-divider&#34;&gt;
+  &lt;div class=&#34;section-icon&#34;&gt;📊&lt;/div&gt;
+  &lt;h2 class=&#34;section-title&#34;&gt;因子 1B：深度定性分析&lt;/h2&gt;
+&lt;/div&gt;
+
 &lt;h3 id=&#34;模块三大报表基础数据与关键指标&#34;&gt;模块〇：三大报表基础数据与关键指标&lt;/h3&gt;
-&lt;h4 id=&#34;利润表核心数据近5年年度&#34;&gt;利润表核心数据（近5年年度）&lt;/h4&gt;
-&lt;table&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;利润表核心数据（近5年年度）&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;年度&lt;/th&gt;
@@ -162,8 +316,13 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h4 id=&#34;关键盈利能力指标&#34;&gt;关键盈利能力指标&lt;/h4&gt;
-&lt;table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;关键盈利能力指标&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;年度&lt;/th&gt;
@@ -229,8 +388,13 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h4 id=&#34;资产负债表核心数据2024fy百万元亿元&#34;&gt;资产负债表核心数据（2024FY，百万元→亿元）&lt;/h4&gt;
-&lt;table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;资产负债表核心数据（2024FY，百万元→亿元）&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th&gt;项目&lt;/th&gt;
@@ -284,8 +448,13 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h4 id=&#34;现金流量表核心数据&#34;&gt;现金流量表核心数据&lt;/h4&gt;
-&lt;table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;现金流量表核心数据&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;年度&lt;/th&gt;
@@ -307,8 +476,14 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h4 id=&#34;因子-234-计算参数预提取&#34;&gt;因子 2/3/4 计算参数预提取&lt;/h4&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;details class=&#34;code-collapse&#34;&gt;
+  &lt;summary class=&#34;code-collapse-summary&#34;&gt;📊 展开因子 2/3/4 计算参数预提取&lt;/summary&gt;
+  &lt;div class=&#34;code-collapse-content&#34;&gt;
+    &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
@@ -394,9 +569,15 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;门槛 II = max(3.5%, 1.79%+2%) = max(3.5%, 3.79%) = 3.79%
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;hr&gt;
+&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;hr&gt;
 &lt;h3 id=&#34;模块一资本消耗强度&#34;&gt;模块一：资本消耗强度&lt;/h3&gt;
-&lt;table&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;资本消耗强度指标&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th&gt;指标&lt;/th&gt;
@@ -427,7 +608,135 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;资本消耗强度：中偏高&lt;/strong&gt;。日常PPE维护开支低，但并购投资消耗大量现金流，商誉占总资产25.4%、占净资产38.7%，构成重大风险。&lt;/p&gt;</description>
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-warning&#34;&gt;&lt;div class=&#34;conclusion-title&#34;&gt;资本消耗强度评价&lt;/div&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;strong&gt;资本消耗强度：中偏高&lt;/strong&gt;。日常PPE维护开支低，但并购投资消耗大量现金流，商誉占总资产25.4%、占净资产38.7%，构成重大风险。
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h3 id=&#34;模块二收款模式&#34;&gt;模块二：收款模式&lt;/h3&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;收款模式指标&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;指标&lt;/th&gt;
+          &lt;th&gt;数值&lt;/th&gt;
+          &lt;th&gt;评价&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;应收账款周转天数&lt;/td&gt;
+          &lt;td&gt;33.39天&lt;/td&gt;
+          &lt;td&gt;良好&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;应收账款 / 营收&lt;/td&gt;
+          &lt;td&gt;19.93/209.83 = 9.5%&lt;/td&gt;
+          &lt;td&gt;适中&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;收款比率（估算）&lt;/td&gt;
+          &lt;td&gt;~99%&lt;/td&gt;
+          &lt;td&gt;优秀&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-success&#34;&gt;&lt;div class=&#34;conclusion-title&#34;&gt;收款模式评价&lt;/div&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;strong&gt;收款模式：现结为主&lt;/strong&gt;。眼科医疗服务以自费为主（屈光、视光），医保结算部分回款周期可控。收款质量良好。
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h3 id=&#34;模块三竞争格局与护城河&#34;&gt;模块三：竞争格局与护城河&lt;/h3&gt;
+&lt;h4 id=&#34;非技术性护城河&#34;&gt;非技术性护城河&lt;/h4&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;非技术性护城河评级&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;维度&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;评级&lt;/th&gt;
+          &lt;th&gt;说明&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;规模经济&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;强&lt;/td&gt;
+          &lt;td&gt;976家机构，国内民营眼科市占率~30%，设备与营销成本分摊&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;客户锁定&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;中强&lt;/td&gt;
+          &lt;td&gt;品牌认知度78%，复诊率42%，患者粘性较强&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;网络壁垒&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;强&lt;/td&gt;
+          &lt;td&gt;&amp;ldquo;1+8+N&amp;quot;分级连锁，地级市覆盖率&amp;gt;75%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;牌照壁垒&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;中&lt;/td&gt;
+          &lt;td&gt;医疗机构审批周期~18个月&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;资本壁垒&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;中&lt;/td&gt;
+          &lt;td&gt;单院投资3,000万+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&#34;技术性护城河&#34;&gt;技术性护城河&lt;/h4&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;技术性护城河评级&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;维度&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;评级&lt;/th&gt;
+          &lt;th&gt;说明&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;人才壁垒&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;强&lt;/td&gt;
+          &lt;td&gt;医生培养周期~10年，新进入者难以短期复制&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;技术壁垒&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;中&lt;/td&gt;
+          &lt;td&gt;专利387项（含89项发明），但核心诊疗技术非独占&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;数据壁垒&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;中弱&lt;/td&gt;
+          &lt;td&gt;数字眼科/AI+眼科布局中，尚未形成显著壁垒&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&#34;护城河趋势&#34;&gt;护城河趋势&lt;/h4&gt;
+&lt;div class=&#34;conclusion-box conclusion-danger&#34;&gt;&lt;div class=&#34;conclusion-title&#34;&gt;护城河趋势分析&lt;/div&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;p&gt;&lt;strong&gt;⚠️ 护城河正在收窄&lt;/strong&gt;：&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>

@@ -6,7 +6,322 @@
     <description>Recent content in 亿联网络 (300628) on 稳健策略研究</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
+    <lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/reports/300628/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>亿联网络（300628）稳健投资策略分析报告</title>
+      <link>//localhost:1313/reports/300628/%E4%BA%BF%E8%81%94%E7%BD%91%E7%BB%9C_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/reports/300628/%E4%BA%BF%E8%81%94%E7%BD%91%E7%BB%9C_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</guid>
+      <description>&lt;div class=&#34;report-header&#34;&gt;
+  &lt;div class=&#34;report-meta&#34;&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📅 分析日期：&lt;/span&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📊 数据截止：&lt;/span&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📋 分析框架：稳健投资策略 v2.0&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;投资结论&#34;&gt;投资结论&lt;/h2&gt;
+&lt;div class=&#34;decision-card-v2 decision-observe&#34;&gt;
+  &lt;div class=&#34;decision-v2-header&#34;&gt;
+    &lt;div class=&#34;decision-v2-icon&#34;&gt;👀&lt;/div&gt;
+    &lt;div class=&#34;decision-v2-title&#34;&gt;
+      &lt;span class=&#34;decision-v2-label&#34;&gt;投资建议&lt;/span&gt;
+      &lt;span class=&#34;decision-v2-action&#34;&gt;观察等待&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;div class=&#34;decision-v2-metrics&#34;&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;建议仓位&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value primary&#34;&gt;观察仓位（30%）&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;目标买入价&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;28.95 元&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;当前股价&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;35.29 元&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;优先级&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;低偏中&lt;/span&gt;
+    &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;decision-v2-body&#34;&gt;
+    &lt;div class=&#34;stock-info-card&#34;&gt;
+&lt;div class=&#34;stock-info-header&#34;&gt;
+&lt;span class=&#34;stock-info-name&#34;&gt;亿联网络&lt;/span&gt;
+&lt;span class=&#34;stock-info-code&#34;&gt;300628.SZ&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;stock-info-body&#34;&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;持股渠道&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;A股直接持有&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;分析日期&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;2026-04-15&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;数据截止&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;2024年报 / 2025三季报&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-grid&#34;&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 1A 快筛&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    审计意见：标准无保留 | 无财务造假记录 | 商业模式清晰 | 创始人团队稳定
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 1B 定性分析&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    资本消耗：低 | 收款模式：现结为主 | 护城河：窄偏宽 | 管理层：优秀
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 2 粗算回报率&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    穿透回报率：5.14% | 超越门槛：1.36pct | 分配意愿：强
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 3 精算回报率&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    精算回报率：4.43% | 超越门槛：0.65pct | 外推可信度：中
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-warning&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 4 估值安全边际&lt;/span&gt;&lt;span class=&#34;factor-summary-badge warning&#34;&gt;⚠ 注意&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    安全边际：0.65pct | 价值陷阱风险：低 | 现金保护：无保护
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;risk-list&#34;&gt;
+  &lt;div class=&#34;risk-list-title&#34;&gt;⚠️ 风险提示&lt;/div&gt;
+  &lt;ul class=&#34;risk-items&#34;&gt;
+    &lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;美国关税政策风险&lt;/strong&gt;：海外收入占比78%，关税加征直接影响订单节奏，2025Q1已显现影响（营收仅+3.57%）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;收入增速放缓风险&lt;/strong&gt;：2025前三季净利润-5.16%，若持续放缓将压缩安全边际&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;竞争加剧风险&lt;/strong&gt;：视频会议领域面临华为、思科等巨头竞争，价格压力可能侵蚀毛利率&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;汇率波动风险&lt;/strong&gt;：90%+海外收入以美元结算，人民币升值将压缩利润&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;理财集中度风险&lt;/strong&gt;：交易性金融资产57.07亿元占总资产58.39%，虽流动性好但存在市场风险&lt;/li&gt;
+&lt;/ol&gt;
+
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;follow-up-list&#34;&gt;
+  &lt;div class=&#34;follow-up-title&#34;&gt;📋 后续跟踪事项&lt;/div&gt;
+  &lt;ul class=&#34;follow-up-items&#34;&gt;
+    &lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;2025年报关注点&lt;/strong&gt;：全年营收/净利润是否达成15%增长目标；关税对毛利率的实际影响幅度&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;东南亚产能进展&lt;/strong&gt;：代工厂建设进度及产能爬坡情况，能否有效对冲关税风险&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI产品落地&lt;/strong&gt;：AI赋能通信产品的商业化进展，是否带来新的增长曲线&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;分红政策延续性&lt;/strong&gt;：2025年度分红方案是否维持高支付率&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;股价触发监控&lt;/strong&gt;：若股价回落至30-31元区间（轻度保护目标价），可升级为中优先级观察&lt;/li&gt;
+&lt;/ol&gt;
+
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;详细分析&#34;&gt;详细分析&lt;/h2&gt;
+&lt;div class=&#34;section-divider&#34;&gt;
+  &lt;div class=&#34;section-icon&#34;&gt;🔍&lt;/div&gt;
+  &lt;h2 class=&#34;section-title&#34;&gt;因子 1A：五分钟快筛（一票否决）&lt;/h2&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-checklist&#34;&gt;
+  &lt;div class=&#34;screening-checklist-header&#34;&gt;
+    &lt;span class=&#34;screening-checklist-icon&#34;&gt;🔍&lt;/span&gt;
+    &lt;span class=&#34;screening-checklist-title&#34;&gt;快筛检查表&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-checklist-grid&#34;&gt;
+    
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;1&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;审计意见异常&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 通过&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;标准无保留意见，容诚会计师事务所&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;2&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;频繁更换审计师&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 通过&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;本年度未变更，历史无频繁更换记录&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;3&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;财务造假或重大违规前科&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 通过&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;无财务造假或重大违规记录&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;4&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;看不懂（无法理解商业模式）&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 通过&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;统一通信硬件+软件，SIP话机全球第一，商业模式清晰&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;5&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;商业模式未被验证&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 通过&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;连续8年SIP话机全球市占率第一，上市8年+盈利稳定&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;6&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;控股股东重大负面信号&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 通过&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;四位创始人一致行动人合计持股52.4%，股权结构稳定&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-success&#34;&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;strong&gt;快筛结论：✅ 全部通过，继续后续分析&lt;/strong&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;section-divider&#34;&gt;
+  &lt;div class=&#34;section-icon&#34;&gt;📊&lt;/div&gt;
+  &lt;h2 class=&#34;section-title&#34;&gt;因子 1B：深度定性分析&lt;/h2&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;模块三大报表基础数据与关键指标&#34;&gt;模块〇：三大报表基础数据与关键指标&lt;/h3&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;利润表核心数据（2024年度，百万元）&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;项目&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;2024年度&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;占营收比&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;数据来源&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;营业收入&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;5,621.34&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;100%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools MCP&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;营业成本&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1,942.17（按毛利率65.45%推算）&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;34.55%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;推算&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;毛利润&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3,679.17&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;65.45%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools MCP: GetFinancialIndicators&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;研发费用&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;559.35&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;9.95%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools MCP&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;销售费用&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;291.40&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;5.18%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools MCP&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;管理费用&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;156.29&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2.78%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools MCP&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;财务费用&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;-67.24&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;-1.20%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools MCP（净利息收入）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;营业利润&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2,893.73&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;51.49%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools MCP&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;归母净利润&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2,647.86&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;47.10%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools MCP&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;扣非净利润&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2,434.89&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;43.32%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools MCP&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;非经常性损益&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;212.97&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3.79%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;计算&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;D&amp;amp;A（折旧摊销，估算）&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;~110&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1.96%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;估算（固定资产10.77亿×8%+无形资产2.58亿×8%）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;SBC（股权激励，估算）&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;~50&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;0.89%&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;估算（基于股权激励计划规模）&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;注：AI-Tools MCP返回的&amp;quot;营业成本&amp;quot;2,948.88百万元与毛利率65.45%存在不一致，按毛利率推算COGS应为1,942百万元。差异可能因数据口径不同，本分析以财务指标中的毛利率为准。&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
       <link>//localhost:1313/reports/300628/data_pack_market/</link>
@@ -351,169 +666,6 @@
 &lt;h2 id=&#34;二受限现金与应收账款明细&#34;&gt;二、受限现金与应收账款明细&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;来源：AI-Tools MCP GetFinancialIndicators + WebSearch 年报附注&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/reports/300628/%E4%BA%BF%E8%81%94%E7%BD%91%E7%BB%9C_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/reports/300628/%E4%BA%BF%E8%81%94%E7%BD%91%E7%BB%9C_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</guid>
-      <description>&lt;h1 id=&#34;稳健投资策略分析结论--亿联网络300628sz&#34;&gt;稳健投资策略分析结论 — 亿联网络（300628.SZ）&lt;/h1&gt;
-&lt;p&gt;═══════════════════════════════════════
-稳健投资策略分析结论
-═══════════════════════════════════════&lt;/p&gt;
-&lt;p&gt;【股票基本信息】
-公司名称：亿联网络（Yealink）
-股票代码：300628.SZ
-持股渠道：A股直接持有
-分析日期：2026-04-15
-数据截止：2024年报 / 2025三季报&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;一因子-1a五分钟快筛一票否决&#34;&gt;一、因子 1A：五分钟快筛（一票否决）&lt;/h2&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;序号&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;检查项&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;结果&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;说明&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;审计意见异常&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;✅ 通过&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;标准无保留意见，容诚会计师事务所&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;频繁更换审计师&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;✅ 通过&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;本年度未变更，历史无频繁更换记录&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;财务造假或重大违规前科&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;✅ 通过&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;无财务造假或重大违规记录&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;看不懂（无法理解商业模式）&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;✅ 通过&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;统一通信硬件+软件，SIP话机全球第一，商业模式清晰&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;商业模式未被验证&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;✅ 通过&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;连续8年SIP话机全球市占率第一，上市8年+盈利稳定&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;控股股东重大负面信号&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;✅ 通过&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;四位创始人一致行动人合计持股52.4%，股权结构稳定&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;快筛结论：✅ 全部通过，继续后续分析&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;二因子-1b深度定性分析&#34;&gt;二、因子 1B：深度定性分析&lt;/h2&gt;
-&lt;h3 id=&#34;模块三大报表基础数据与关键指标&#34;&gt;模块〇：三大报表基础数据与关键指标&lt;/h3&gt;
-&lt;h4 id=&#34;利润表核心数据2024年度百万元&#34;&gt;利润表核心数据（2024年度，百万元）&lt;/h4&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;项目&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2024年度&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;占营收比&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;数据来源&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;营业收入&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;5,621.34&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;100%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools MCP&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;营业成本&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,942.17（按毛利率65.45%推算）&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;34.55%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;推算&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;毛利润&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;3,679.17&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;65.45%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools MCP: GetFinancialIndicators&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;研发费用&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;559.35&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;9.95%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools MCP&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;销售费用&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;291.40&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;5.18%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools MCP&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;管理费用&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;156.29&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;2.78%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools MCP&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;财务费用&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;-67.24&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;-1.20%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools MCP（净利息收入）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;营业利润&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;2,893.73&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;51.49%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools MCP&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;归母净利润&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;2,647.86&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;47.10%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools MCP&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;扣非净利润&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;2,434.89&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;43.32%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools MCP&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;非经常性损益&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;212.97&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;3.79%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;计算&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;D&amp;amp;A（折旧摊销，估算）&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;~110&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1.96%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;估算（固定资产10.77亿×8%+无形资产2.58亿×8%）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;SBC（股权激励，估算）&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;~50&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;0.89%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;估算（基于股权激励计划规模）&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;blockquote&gt;
-&lt;p&gt;注：AI-Tools MCP返回的&amp;quot;营业成本&amp;quot;2,948.88百万元与毛利率65.45%存在不一致，按毛利率推算COGS应为1,942百万元。差异可能因数据口径不同，本分析以财务指标中的毛利率为准。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

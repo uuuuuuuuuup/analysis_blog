@@ -1,0 +1,250 @@
+{{ $type := .Get "type" | default "line" }}
+{{ $title := .Get "title" | default "" }}
+{{ $width := .Get "width" | default "800" }}
+{{ $height := .Get "height" | default "400" }}
+{{ $id := substr (md5 .Inner) 0 8 }}
+
+<div class="chart-container" style="margin: 2rem 0;">
+  {{ if $title }}
+  <h4 class="chart-title" style="text-align: center; margin-bottom: 1rem; color: var(--text-primary);">{{ $title }}</h4>
+  {{ end }}
+  <canvas id="chart-{{ $id }}" width="{{ $width }}" height="{{ $height }}" style="max-width: 100%; height: auto; border-radius: 8px; background: var(--bg-secondary);"></canvas>
+</div>
+
+<script>
+(function() {
+  const canvas = document.getElementById('chart-{{ $id }}');
+  if (!canvas) return;
+  
+  const ctx = canvas.getContext('2d');
+  const config = {{ .Inner | safeJS }};
+  const chartType = '{{ $type }}';
+  
+  const colors = {
+    primary: '#3b82f6',
+    secondary: '#10b981',
+    tertiary: '#f59e0b',
+    quaternary: '#ef4444',
+    quinary: '#8b5cf6',
+    bg: '#f8fafc',
+    grid: '#e2e8f0',
+    text: '#475569',
+    textLight: '#94a3b8'
+  };
+  
+  const dpr = window.devicePixelRatio || 1;
+  const rect = canvas.getBoundingClientRect();
+  canvas.width = rect.width * dpr;
+  canvas.height = rect.height * dpr;
+  ctx.scale(dpr, dpr);
+  canvas.style.width = rect.width + 'px';
+  canvas.style.height = rect.height + 'px';
+  
+  const width = rect.width;
+  const height = rect.height;
+  const padding = { top: 40, right: 40, bottom: 60, left: 80 };
+  const chartWidth = width - padding.left - padding.right;
+  const chartHeight = height - padding.top - padding.bottom;
+  
+  ctx.fillStyle = colors.bg;
+  ctx.fillRect(0, 0, width, height);
+  
+  function drawGrid() {
+    ctx.strokeStyle = colors.grid;
+    ctx.lineWidth = 1;
+    
+    for (let i = 0; i <= 5; i++) {
+      const y = padding.top + (chartHeight / 5) * i;
+      ctx.beginPath();
+      ctx.moveTo(padding.left, y);
+      ctx.lineTo(width - padding.right, y);
+      ctx.stroke();
+    }
+    
+    for (let i = 0; i <= config.labels.length - 1; i++) {
+      const x = padding.left + (chartWidth / (config.labels.length - 1)) * i;
+      ctx.beginPath();
+      ctx.moveTo(x, padding.top);
+      ctx.lineTo(x, height - padding.bottom);
+      ctx.stroke();
+    }
+  }
+  
+  function drawAxes() {
+    ctx.strokeStyle = colors.text;
+    ctx.lineWidth = 2;
+    
+    ctx.beginPath();
+    ctx.moveTo(padding.left, padding.top);
+    ctx.lineTo(padding.left, height - padding.bottom);
+    ctx.lineTo(width - padding.right, height - padding.bottom);
+    ctx.stroke();
+    
+    ctx.fillStyle = colors.text;
+    ctx.font = '12px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif';
+    ctx.textAlign = 'center';
+    
+    config.labels.forEach((label, i) => {
+      const x = padding.left + (chartWidth / (config.labels.length - 1)) * i;
+      ctx.fillText(label, x, height - padding.bottom + 20);
+    });
+    
+    ctx.textAlign = 'right';
+    const maxValue = Math.max(...config.datasets.flatMap(d => d.data));
+    for (let i = 0; i <= 5; i++) {
+      const y = padding.top + (chartHeight / 5) * i;
+      const value = maxValue - (maxValue / 5) * i;
+      ctx.fillText(value.toFixed(0), padding.left - 10, y + 4);
+    }
+  }
+  
+  function drawLineChart() {
+    drawGrid();
+    drawAxes();
+    
+    const maxValue = Math.max(...config.datasets.flatMap(d => d.data));
+    const colorKeys = ['primary', 'secondary', 'tertiary', 'quaternary', 'quinary'];
+    
+    config.datasets.forEach((dataset, datasetIndex) => {
+      const color = colors[colorKeys[datasetIndex % colorKeys.length]];
+      
+      ctx.strokeStyle = color;
+      ctx.lineWidth = 3;
+      ctx.lineCap = 'round';
+      ctx.lineJoin = 'round';
+      
+      ctx.beginPath();
+      dataset.data.forEach((value, i) => {
+        const x = padding.left + (chartWidth / (dataset.data.length - 1)) * i;
+        const y = padding.top + chartHeight - (value / maxValue) * chartHeight;
+        
+        if (i === 0) {
+          ctx.moveTo(x, y);
+        } else {
+          ctx.lineTo(x, y);
+        }
+      });
+      ctx.stroke();
+      
+      dataset.data.forEach((value, i) => {
+        const x = padding.left + (chartWidth / (dataset.data.length - 1)) * i;
+        const y = padding.top + chartHeight - (value / maxValue) * chartHeight;
+        
+        ctx.fillStyle = '#fff';
+        ctx.beginPath();
+        ctx.arc(x, y, 6, 0, Math.PI * 2);
+        ctx.fill();
+        
+        ctx.strokeStyle = color;
+        ctx.lineWidth = 3;
+        ctx.stroke();
+      });
+    });
+    
+    const legendY = padding.top - 20;
+    config.datasets.forEach((dataset, i) => {
+      const color = colors[colorKeys[i % colorKeys.length]];
+      const x = padding.left + i * 150;
+      
+      ctx.fillStyle = color;
+      ctx.beginPath();
+      ctx.arc(x, legendY, 6, 0, Math.PI * 2);
+      ctx.fill();
+      
+      ctx.fillStyle = colors.text;
+      ctx.font = '12px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif';
+      ctx.textAlign = 'left';
+      ctx.fillText(dataset.label, x + 12, legendY + 4);
+    });
+  }
+  
+  function drawBarChart() {
+    drawGrid();
+    drawAxes();
+    
+    const maxValue = Math.max(...config.datasets.flatMap(d => d.data));
+    const barWidth = chartWidth / config.labels.length * 0.6;
+    const groupWidth = chartWidth / config.labels.length;
+    const colorKeys = ['primary', 'secondary', 'tertiary', 'quaternary', 'quinary'];
+    
+    config.labels.forEach((label, labelIndex) => {
+      config.datasets.forEach((dataset, datasetIndex) => {
+        const color = colors[colorKeys[datasetIndex % colorKeys.length]];
+        const value = dataset.data[labelIndex];
+        const barHeight = (value / maxValue) * chartHeight;
+        
+        const x = padding.left + groupWidth * labelIndex + (groupWidth - barWidth) / 2 + (barWidth / config.datasets.length) * datasetIndex;
+        const y = padding.top + chartHeight - barHeight;
+        
+        ctx.fillStyle = color;
+        ctx.beginPath();
+        ctx.roundRect(x, y, barWidth / config.datasets.length - 4, barHeight, [4, 4, 0, 0]);
+        ctx.fill();
+      });
+    });
+    
+    const legendY = padding.top - 20;
+    config.datasets.forEach((dataset, i) => {
+      const color = colors[colorKeys[i % colorKeys.length]];
+      const x = padding.left + i * 150;
+      
+      ctx.fillStyle = color;
+      ctx.fillRect(x - 6, legendY - 6, 12, 12);
+      
+      ctx.fillStyle = colors.text;
+      ctx.font = '12px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif';
+      ctx.textAlign = 'left';
+      ctx.fillText(dataset.label, x + 12, legendY + 4);
+    });
+  }
+  
+  function drawAreaChart() {
+    const maxValue = Math.max(...config.datasets.flatMap(d => d.data));
+    const colorKeys = ['primary', 'secondary', 'tertiary', 'quaternary', 'quinary'];
+    
+    config.datasets.forEach((dataset, datasetIndex) => {
+      const color = colors[colorKeys[datasetIndex % colorKeys.length]];
+      
+      ctx.fillStyle = color + '20';
+      ctx.beginPath();
+      ctx.moveTo(padding.left, height - padding.bottom);
+      
+      dataset.data.forEach((value, i) => {
+        const x = padding.left + (chartWidth / (dataset.data.length - 1)) * i;
+        const y = padding.top + chartHeight - (value / maxValue) * chartHeight;
+        ctx.lineTo(x, y);
+      });
+      
+      ctx.lineTo(padding.left + chartWidth, height - padding.bottom);
+      ctx.closePath();
+      ctx.fill();
+      
+      ctx.strokeStyle = color;
+      ctx.lineWidth = 3;
+      ctx.beginPath();
+      dataset.data.forEach((value, i) => {
+        const x = padding.left + (chartWidth / (dataset.data.length - 1)) * i;
+        const y = padding.top + chartHeight - (value / maxValue) * chartHeight;
+        
+        if (i === 0) {
+          ctx.moveTo(x, y);
+        } else {
+          ctx.lineTo(x, y);
+        }
+      });
+      ctx.stroke();
+    });
+    
+    drawGrid();
+    drawAxes();
+  }
+  
+  if (config.type === 'line' || chartType === 'line') {
+    drawLineChart();
+  } else if (config.type === 'bar' || chartType === 'bar') {
+    drawBarChart();
+  } else if (config.type === 'area' || chartType === 'area') {
+    drawAreaChart();
+  }
+})();
+</script>

@@ -59,6 +59,11 @@ theme = 'PaperMod'
     url = "reports/"
     weight = 30
   [[menu.main]]
+    identifier = "notes"
+    name = "投资笔记"
+    url = "notes/"
+    weight = 35
+  [[menu.main]]
     identifier = "about"
     name = "关于"
     url = "about/"

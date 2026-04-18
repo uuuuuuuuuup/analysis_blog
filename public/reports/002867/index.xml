@@ -2,16 +2,359 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>周大生 (002867) on 稳健策略研究</title>
-    <link>//localhost:1313/reports/002867/</link>
+    <link>/reports/002867/</link>
     <description>Recent content in 周大生 (002867) on 稳健策略研究</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <atom:link href="//localhost:1313/reports/002867/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/reports/002867/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>周大生（002867）稳健投资策略分析报告</title>
+      <link>/reports/002867/%E5%91%A8%E5%A4%A7%E7%94%9F_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>/reports/002867/%E5%91%A8%E5%A4%A7%E7%94%9F_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</guid>
+      <description>&lt;div class=&#34;report-header&#34;&gt;
+  &lt;div class=&#34;report-meta&#34;&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📅 分析日期：&lt;/span&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📊 数据截止：&lt;/span&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📋 分析框架：稳健投资策略 v2.0&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;投资结论&#34;&gt;投资结论&lt;/h2&gt;
+&lt;div class=&#34;decision-card-v2 decision-buy&#34;&gt;
+  &lt;div class=&#34;decision-v2-header&#34;&gt;
+    &lt;div class=&#34;decision-v2-icon&#34;&gt;📈&lt;/div&gt;
+    &lt;div class=&#34;decision-v2-title&#34;&gt;
+      &lt;span class=&#34;decision-v2-label&#34;&gt;投资建议&lt;/span&gt;
+      &lt;span class=&#34;decision-v2-action&#34;&gt;建议买入&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;div class=&#34;decision-v2-metrics&#34;&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;建议仓位&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value primary&#34;&gt;50%仓位&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;目标买入价&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;14.64 元&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;当前股价&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;13.05 元&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;优先级&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;中优先级&lt;/span&gt;
+    &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;decision-v2-body&#34;&gt;
+    &lt;div class=&#34;stock-info-card&#34;&gt;
+&lt;div class=&#34;stock-info-header&#34;&gt;
+&lt;span class=&#34;stock-info-name&#34;&gt;周大生珠宝股份有限公司&lt;/span&gt;
+&lt;span class=&#34;stock-info-code&#34;&gt;002867.SZ&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;stock-info-body&#34;&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;持股渠道&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;A股直接持有&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;分析日期&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;2026-04-15&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;数据截止&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;2025年三季报&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-grid&#34;&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 1A 快筛&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    审计意见：标准无保留 | 无财务造假记录 | 商业模式清晰
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 1B 定性分析&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    护城河：窄 | 周期性：弱周期 | 管理层：良好
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 2 粗算回报率&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    R = 5.22% | 门槛 II = 3.78% | 通过粗算否决门
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 3 精算回报率&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    GG = 6.06% | 外推可信度：中 | 临界收入倍数：0.81x
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-warning&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 4 估值安全边际&lt;/span&gt;&lt;span class=&#34;factor-summary-badge warning&#34;&gt;⚠ 注意&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    安全边际：2.28 pct | 价值陷阱风险：中 | 现金保护：无
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;risk-list&#34;&gt;
+  &lt;div class=&#34;risk-list-title&#34;&gt;⚠️ 风险提示&lt;/div&gt;
+  &lt;ul class=&#34;risk-items&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;金价波动风险&lt;/strong&gt;：金价持续高位压制终端消费需求，2025Q3营收同比下降37.35%；若金价大幅回调，可能引发存货减值&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;营收下滑风险&lt;/strong&gt;：2025年前三季度营收大幅下滑，虽然净利率改善，但营收恢复时间不确定&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;存货风险&lt;/strong&gt;：存货占流动资产70%+（45.28/63.85亿元），存货周转天数延长至249.6天，高金价下存货减值风险需关注&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;家族治理风险&lt;/strong&gt;：实控人周宗文家族持股56.11%，存在关联交易不透明和决策集中风险&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;分红可持续性&lt;/strong&gt;：2024年支付率103%不可持续，若盈利继续下滑，分红可能下调&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;follow-up-list&#34;&gt;
+  &lt;div class=&#34;follow-up-title&#34;&gt;📋 后续跟踪事项&lt;/div&gt;
+  &lt;ul class=&#34;follow-up-items&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;关注2025年度完整年报发布（预计2026年4月底），重点核查：受限现金、关联方交易明细、定期存款与理财、资本化利息、或有负债&lt;/li&gt;
+&lt;li&gt;跟踪金价走势及终端消费数据，判断营收拐点是否到来&lt;/li&gt;
+&lt;li&gt;关注加盟商开店/关店数据，验证渠道优化进度&lt;/li&gt;
+&lt;li&gt;监测存货周转天数变化，评估存货减值风险&lt;/li&gt;
+&lt;li&gt;跟踪2025年全年分红方案，验证支付率是否可维持在78%以上&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;详细分析&#34;&gt;详细分析&lt;/h2&gt;
+&lt;div class=&#34;section-divider&#34;&gt;
+  &lt;div class=&#34;section-icon&#34;&gt;🔍&lt;/div&gt;
+  &lt;h2 class=&#34;section-title&#34;&gt;因子 1A：五分钟快筛（一票否决）&lt;/h2&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-checklist&#34;&gt;
+  &lt;div class=&#34;screening-checklist-header&#34;&gt;
+    &lt;span class=&#34;screening-checklist-icon&#34;&gt;🔍&lt;/span&gt;
+    &lt;span class=&#34;screening-checklist-title&#34;&gt;快筛检查表&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-checklist-grid&#34;&gt;
+    
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;1&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;审计意见异常&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;2024年度审计意见为标准无保留意见，审计机构为安永华明&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;2&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;频繁更换审计师&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;近年均为安永华明，未发生更换&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;3&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;财务造假或重大违规前科&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;未发现财务造假或重大违规记录&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;4&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;看不懂（无法理解商业模式）&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;黄金珠宝首饰零售，加盟+自营双轮驱动，商业模式清晰&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;5&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;商业模式未被验证&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;2007年成立，2017年上市，4,831家门店，商业模式已充分验证&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;screening-item pass&#34;&gt;
+  &lt;div class=&#34;screening-item-header&#34;&gt;
+    &lt;span class=&#34;screening-item-number&#34;&gt;6&lt;/span&gt;
+    &lt;span class=&#34;screening-item-status&#34;&gt;✅&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;screening-item-body&#34;&gt;
+    &lt;div class=&#34;screening-item-title&#34;&gt;控股股东重大负面信号&lt;/div&gt;
+    &lt;div class=&#34;screening-item-result&#34;&gt;✅ 否&lt;/div&gt;
+    &lt;div class=&#34;screening-item-desc&#34;&gt;周宗文家族控股稳定，未发现掏空公司或重大负面行为&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-success&#34;&gt;&lt;div class=&#34;conclusion-title&#34;&gt;快筛结论&lt;/div&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    ✅ 通过，全部6项均为&amp;quot;否&amp;quot;，无一票否决项
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;section-divider&#34;&gt;
+  &lt;div class=&#34;section-icon&#34;&gt;📊&lt;/div&gt;
+  &lt;h2 class=&#34;section-title&#34;&gt;因子 1B：深度定性分析&lt;/h2&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;模块三大报表基础数据与关键指标&#34;&gt;模块〇：三大报表基础数据与关键指标&lt;/h3&gt;
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;利润表核心数据（2024FY，百万元）&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;项目&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;2024FY&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;数据来源&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;营业收入&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;13,891.3&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;营业成本&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;11,001.9（推算）&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;营收×(1-毛利率20.80%)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;毛利润&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2,889.4&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;推算&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;研发费用&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;14.3&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;销售费用&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1,166.8&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;管理费用&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;111.4&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;财务费用&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;21.6&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;税金及附加&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;172.7&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;经营利润&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1,283.5&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;归母净利润&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1,001.9&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;少数股东损益&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;≈0（少数股东权益为负）&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;AI-Tools GetBalanceSheet&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;data-section&#34;&gt;&lt;div class=&#34;data-section-header&#34;&gt;
+    &lt;span class=&#34;data-section-title&#34;&gt;关键盈利能力指标&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;data-section-content&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;指标&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;2024FY&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;2025Q3&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;毛利率&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;20.80%&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;29.74%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;经营利润率&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;9.24%&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;15.98%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;净利率&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;7.21%&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;12.99%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;销售费用率&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;8.40%&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;10.90%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;研发费用率&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;0.10%&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;0.12%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;管理费用率&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;0.80%&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1.20%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;有效税率&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;~17.5%&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;—&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;注：2025Q3毛利率和净利率显著改善，主要受益于黄金产品定价策略优化和费用管控。&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
-      <link>//localhost:1313/reports/002867/data_pack_market/</link>
+      <link>/reports/002867/data_pack_market/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/reports/002867/data_pack_market/</guid>
+      <guid>/reports/002867/data_pack_market/</guid>
       <description>&lt;h1 id=&#34;周大生002867市场数据包--稳健投资策略-phase-1&#34;&gt;周大生（002867）市场数据包 — 稳健投资策略 Phase 1&lt;/h1&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -137,9 +480,9 @@
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/reports/002867/data_pack_report/</link>
+      <link>/reports/002867/data_pack_report/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/reports/002867/data_pack_report/</guid>
+      <guid>/reports/002867/data_pack_report/</guid>
       <description>&lt;h1 id=&#34;周大生002867深度财务数据包报告&#34;&gt;周大生（002867）深度财务数据包报告&lt;/h1&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -308,187 +651,6 @@
 &lt;/table&gt;
 &lt;blockquote&gt;
 &lt;p&gt;数据来源：AI-Tools MCP GetBalanceSheet。金额单位：百万元。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/reports/002867/%E5%91%A8%E5%A4%A7%E7%94%9F_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/reports/002867/%E5%91%A8%E5%A4%A7%E7%94%9F_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</guid>
-      <description>&lt;h1 id=&#34;周大生002867sz稳健投资策略分析报告&#34;&gt;周大生（002867.SZ）稳健投资策略分析报告&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;分析日期&lt;/strong&gt;：2026-04-15
-&lt;strong&gt;数据截止&lt;/strong&gt;：2025年三季报（2025年度完整年报尚未发布）
-&lt;strong&gt;持股渠道&lt;/strong&gt;：A股直接持有
-&lt;strong&gt;金额单位&lt;/strong&gt;：人民币亿元（特别标注除外）&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;因子-1a五分钟快筛一票否决&#34;&gt;因子 1A：五分钟快筛（一票否决）&lt;/h2&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;序号&lt;/th&gt;
-          &lt;th&gt;检查项&lt;/th&gt;
-          &lt;th&gt;结果&lt;/th&gt;
-          &lt;th&gt;说明&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;1&lt;/td&gt;
-          &lt;td&gt;审计意见异常&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;2024年度审计意见为标准无保留意见，审计机构为安永华明&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;2&lt;/td&gt;
-          &lt;td&gt;频繁更换审计师&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;近年均为安永华明，未发生更换&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;3&lt;/td&gt;
-          &lt;td&gt;财务造假或重大违规前科&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;未发现财务造假或重大违规记录&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;4&lt;/td&gt;
-          &lt;td&gt;看不懂（无法理解商业模式）&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;黄金珠宝首饰零售，加盟+自营双轮驱动，商业模式清晰&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;5&lt;/td&gt;
-          &lt;td&gt;商业模式未被验证&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;2007年成立，2017年上市，4,831家门店，商业模式已充分验证&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;6&lt;/td&gt;
-          &lt;td&gt;控股股东重大负面信号&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;周宗文家族控股稳定，未发现掏空公司或重大负面行为&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;快筛结论：✅ 通过，全部6项均为&amp;quot;否&amp;quot;，无一票否决项&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;因子-1b深度定性分析&#34;&gt;因子 1B：深度定性分析&lt;/h2&gt;
-&lt;h3 id=&#34;模块三大报表基础数据与关键指标&#34;&gt;模块〇：三大报表基础数据与关键指标&lt;/h3&gt;
-&lt;h4 id=&#34;利润表核心数据2024fy百万元&#34;&gt;利润表核心数据（2024FY，百万元）&lt;/h4&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;项目&lt;/th&gt;
-          &lt;th&gt;2024FY&lt;/th&gt;
-          &lt;th&gt;数据来源&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;营业收入&lt;/td&gt;
-          &lt;td&gt;13,891.3&lt;/td&gt;
-          &lt;td&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;营业成本&lt;/td&gt;
-          &lt;td&gt;11,001.9（推算）&lt;/td&gt;
-          &lt;td&gt;营收×(1-毛利率20.80%)&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;毛利润&lt;/td&gt;
-          &lt;td&gt;2,889.4&lt;/td&gt;
-          &lt;td&gt;推算&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;研发费用&lt;/td&gt;
-          &lt;td&gt;14.3&lt;/td&gt;
-          &lt;td&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;销售费用&lt;/td&gt;
-          &lt;td&gt;1,166.8&lt;/td&gt;
-          &lt;td&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;管理费用&lt;/td&gt;
-          &lt;td&gt;111.4&lt;/td&gt;
-          &lt;td&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;财务费用&lt;/td&gt;
-          &lt;td&gt;21.6&lt;/td&gt;
-          &lt;td&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;税金及附加&lt;/td&gt;
-          &lt;td&gt;172.7&lt;/td&gt;
-          &lt;td&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;经营利润&lt;/td&gt;
-          &lt;td&gt;1,283.5&lt;/td&gt;
-          &lt;td&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;归母净利润&lt;/td&gt;
-          &lt;td&gt;1,001.9&lt;/td&gt;
-          &lt;td&gt;AI-Tools GetIncomeStatement&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;少数股东损益&lt;/td&gt;
-          &lt;td&gt;≈0（少数股东权益为负）&lt;/td&gt;
-          &lt;td&gt;AI-Tools GetBalanceSheet&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 id=&#34;关键盈利能力指标&#34;&gt;关键盈利能力指标&lt;/h4&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;指标&lt;/th&gt;
-          &lt;th&gt;2024FY&lt;/th&gt;
-          &lt;th&gt;2025Q3&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;毛利率&lt;/td&gt;
-          &lt;td&gt;20.80%&lt;/td&gt;
-          &lt;td&gt;29.74%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;经营利润率&lt;/td&gt;
-          &lt;td&gt;9.24%&lt;/td&gt;
-          &lt;td&gt;15.98%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;净利率&lt;/td&gt;
-          &lt;td&gt;7.21%&lt;/td&gt;
-          &lt;td&gt;12.99%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;销售费用率&lt;/td&gt;
-          &lt;td&gt;8.40%&lt;/td&gt;
-          &lt;td&gt;10.90%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;研发费用率&lt;/td&gt;
-          &lt;td&gt;0.10%&lt;/td&gt;
-          &lt;td&gt;0.12%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;管理费用率&lt;/td&gt;
-          &lt;td&gt;0.80%&lt;/td&gt;
-          &lt;td&gt;1.20%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;有效税率&lt;/td&gt;
-          &lt;td&gt;~17.5%&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;blockquote&gt;
-&lt;p&gt;注：2025Q3毛利率和净利率显著改善，主要受益于黄金产品定价策略优化和费用管控。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

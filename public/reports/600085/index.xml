@@ -2,16 +2,110 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>同仁堂（600085） on 稳健策略研究</title>
-    <link>//localhost:1313/reports/600085/</link>
+    <link>/reports/600085/</link>
     <description>Recent content in 同仁堂（600085） on 稳健策略研究</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <atom:link href="//localhost:1313/reports/600085/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/reports/600085/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>同仁堂（600085）稳健投资策略分析报告</title>
+      <link>/reports/600085/%E5%90%8C%E4%BB%81%E5%A0%82_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</link>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>/reports/600085/%E5%90%8C%E4%BB%81%E5%A0%82_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</guid>
+      <description>&lt;div class=&#34;report-header&#34;&gt;
+  &lt;div class=&#34;report-meta&#34;&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📅 分析日期：&lt;/span&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📊 数据截止：2025年12月31日（2025年报）&lt;/span&gt;
+    &lt;span class=&#34;meta-item&#34;&gt;📋 分析框架：稳健投资策略 v2.0&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;投资结论&#34;&gt;投资结论&lt;/h2&gt;
+&lt;div class=&#34;decision-card-v2 decision-wait&#34;&gt;
+  &lt;div class=&#34;decision-v2-header&#34;&gt;
+    &lt;div class=&#34;decision-v2-icon&#34;&gt;⏸️&lt;/div&gt;
+    &lt;div class=&#34;decision-v2-title&#34;&gt;
+      &lt;span class=&#34;decision-v2-label&#34;&gt;投资建议&lt;/span&gt;
+      &lt;span class=&#34;decision-v2-action&#34;&gt;暂不操作&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;div class=&#34;decision-v2-metrics&#34;&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;建议仓位&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value primary&#34;&gt;不建仓 / 高优先级观察&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;目标买入价&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;12.54 元（保守）~ 17.88 元（乐观）&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;当前股价&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;28.05 元&lt;/span&gt;
+    &lt;/div&gt;&lt;div class=&#34;decision-metric&#34;&gt;
+      &lt;span class=&#34;decision-metric-label&#34;&gt;优先级&lt;/span&gt;
+      &lt;span class=&#34;decision-metric-value&#34;&gt;低优先级&lt;/span&gt;
+    &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;decision-v2-body&#34;&gt;
+    &lt;div class=&#34;stock-info-card&#34;&gt;
+&lt;div class=&#34;stock-info-header&#34;&gt;
+&lt;span class=&#34;stock-info-name&#34;&gt;北京同仁堂股份有限公司&lt;/span&gt;
+&lt;span class=&#34;stock-info-code&#34;&gt;600085.SH&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;stock-info-body&#34;&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;持股渠道&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;A股直接持有&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;分析日期&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;2026-04-15&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;数据截止&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;2025年12月31日&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;info-row&#34;&gt;
+  &lt;span class=&#34;info-label&#34;&gt;当前市值&lt;/span&gt;
+  &lt;span class=&#34;info-value&#34;&gt;约 385 亿元&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-grid&#34;&gt;
+&lt;div class=&#34;factor-summary status-pass&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 1A 快筛&lt;/span&gt;&lt;span class=&#34;factor-summary-badge pass&#34;&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    审计意见：标准无保留 | 无财务造假记录 | 商业模式清晰 | 控股股东无重大负面
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-warning&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 1B 定性分析&lt;/span&gt;&lt;span class=&#34;factor-summary-badge warning&#34;&gt;⚠ 注意&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    护城河：宽护城河（短期受侵蚀） | 存货占比34%极高 | 管理层频繁变动 | 监管风险中低
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-warning&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 2 粗算回报率&lt;/span&gt;&lt;span class=&#34;factor-summary-badge warning&#34;&gt;⚠ 注意&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    粗算回报率：1.78%（市值口径）| EV口径：2.36% | 边际不达标
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-warning&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 3 精算回报率&lt;/span&gt;&lt;span class=&#34;factor-summary-badge warning&#34;&gt;⚠ 注意&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    精算回报率：2.25%（保守）| 2025实际：3.21% | 外推可信度：中
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;factor-summary status-fail&#34;&gt;&lt;div class=&#34;factor-summary-header&#34;&gt;
+    &lt;span class=&#34;factor-summary-title&#34;&gt;因子 4 估值安全边际&lt;/span&gt;&lt;span class=&#34;factor-summary-badge fail&#34;&gt;✗ 未通过&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;factor-summary-content&#34;&gt;
+    安全边际：-1.53 pct | 价值陷阱风险：中 | 现金保护：轻度（24.4%）
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;conclusion-box conclusion-info&#34;&gt;&lt;div class=&#34;conclusion-title&#34;&gt;核心逻辑&lt;/div&gt;&lt;div class=&#34;conclusion-content&#34;&gt;
+    &lt;p&gt;同仁堂拥有A股市场中最强的品牌护城河之一，350年历史积淀和安宫牛黄丸56.4%的市占率构成了难以逾越的竞争壁垒。然而，当前面临三重压力：&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
-      <link>//localhost:1313/reports/600085/data_pack_market/</link>
+      <link>/reports/600085/data_pack_market/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/reports/600085/data_pack_market/</guid>
+      <guid>/reports/600085/data_pack_market/</guid>
       <description>&lt;h1 id=&#34;同仁堂-600085-市场数据包&#34;&gt;同仁堂 (600085) 市场数据包&lt;/h1&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -189,9 +283,9 @@
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/reports/600085/data_pack_report/</link>
+      <link>/reports/600085/data_pack_report/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/reports/600085/data_pack_report/</guid>
+      <guid>/reports/600085/data_pack_report/</guid>
       <description>&lt;h1 id=&#34;同仁堂600085-深度财务数据采集报告&#34;&gt;同仁堂(600085) 深度财务数据采集报告&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;数据采集时间&lt;/strong&gt;：2026-04-15
@@ -295,161 +389,6 @@
 &lt;/table&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;注：2025-12-31年报数据来自WebSearch补充（新浪财经资产负债表页面），部分科目为合并口径。AI-Tools MCP最新季度数据截至2025Q3。&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/reports/600085/%E5%90%8C%E4%BB%81%E5%A0%82_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/reports/600085/%E5%90%8C%E4%BB%81%E5%A0%82_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</guid>
-      <description>&lt;p&gt;═══════════════════════════════════════════════════════════════
-稳健投资策略分析结论 — 同仁堂（600085.SH）
-═══════════════════════════════════════════════════════════════&lt;/p&gt;
-&lt;p&gt;【股票基本信息】
-公司名称：北京同仁堂股份有限公司
-股票代码：600085.SH
-上市地点：上海证券交易所（A股）
-持股渠道：A股直接持有
-分析日期：2026-04-15
-数据截止：2025年12月31日（2025年报）
-当前股价：28.05 元
-总股本：13.71 亿股
-当前市值：约 385 亿元&lt;/p&gt;
-&lt;p&gt;═══════════════════════════════════════════════════════════════
-因子 1A：五分钟快筛（一票否决）
-═══════════════════════════════════════════════════════════════&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;序号&lt;/th&gt;
-          &lt;th&gt;检查项&lt;/th&gt;
-          &lt;th&gt;结果&lt;/th&gt;
-          &lt;th&gt;说明&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;1&lt;/td&gt;
-          &lt;td&gt;审计意见异常&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;中审众环出具标准无保留意见&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;2&lt;/td&gt;
-          &lt;td&gt;频繁更换审计师&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;近年均由中审众环审计，未发现更换&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;3&lt;/td&gt;
-          &lt;td&gt;财务造假/重大违规前科&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;未发现财务造假或重大违规记录&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;4&lt;/td&gt;
-          &lt;td&gt;看不懂（商业模式）&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;中成药制造与销售，商业模式清晰易懂&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;5&lt;/td&gt;
-          &lt;td&gt;商业模式未被验证&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;1669年创立，上市近30年，已充分验证&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;6&lt;/td&gt;
-          &lt;td&gt;控股股东重大负面信号&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;控股股东为北京市国资委（52.45%），无重大负面&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;快筛结论：✅ 通过&lt;/strong&gt; — 六项检查均为&amp;quot;否&amp;quot;，无一票否决项，继续深度分析。&lt;/p&gt;
-&lt;p&gt;═══════════════════════════════════════════════════════════════
-因子 1B：深度定性分析
-═══════════════════════════════════════════════════════════════&lt;/p&gt;
-&lt;p&gt;━━━ 模块〇：三大报表基础数据与关键指标 ━━━&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;利润表核心数据（年度，亿元）&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;项目&lt;/th&gt;
-          &lt;th&gt;2021&lt;/th&gt;
-          &lt;th&gt;2022&lt;/th&gt;
-          &lt;th&gt;2023&lt;/th&gt;
-          &lt;th&gt;2024&lt;/th&gt;
-          &lt;th&gt;2025&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;营业收入&lt;/td&gt;
-          &lt;td&gt;~146&lt;/td&gt;
-          &lt;td&gt;~175&lt;/td&gt;
-          &lt;td&gt;~178.6&lt;/td&gt;
-          &lt;td&gt;185.97&lt;/td&gt;
-          &lt;td&gt;172.56&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;营业成本&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;~104.0&lt;/td&gt;
-          &lt;td&gt;~97.1&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;毛利润&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;~82.0&lt;/td&gt;
-          &lt;td&gt;~75.5&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;研发费用&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;2.69&lt;/td&gt;
-          &lt;td&gt;~2.5&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;销售费用&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;35.95&lt;/td&gt;
-          &lt;td&gt;~33.0&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;管理费用&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;14.77&lt;/td&gt;
-          &lt;td&gt;~13.5&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;归母净利润&lt;/td&gt;
-          &lt;td&gt;12.34&lt;/td&gt;
-          &lt;td&gt;14.28&lt;/td&gt;
-          &lt;td&gt;16.62&lt;/td&gt;
-          &lt;td&gt;15.26&lt;/td&gt;
-          &lt;td&gt;11.89&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;扣非净利润&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;14.82&lt;/td&gt;
-          &lt;td&gt;11.47&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;关键盈利能力指标（2025年）&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>泸州老窖（000568） on 稳健策略研究</title>
-    <link>//localhost:1313/reports/000568/</link>
+    <link>/reports/000568/</link>
     <description>Recent content in 泸州老窖（000568） on 稳健策略研究</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/reports/000568/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/reports/000568/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>泸州老窖（000568）稳健投资策略分析报告</title>
-      <link>//localhost:1313/reports/000568/%E6%B3%B8%E5%B7%9E%E8%80%81%E7%AA%96_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</link>
+      <link>/reports/000568/%E6%B3%B8%E5%B7%9E%E8%80%81%E7%AA%96_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</link>
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/reports/000568/%E6%B3%B8%E5%B7%9E%E8%80%81%E7%AA%96_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</guid>
+      <guid>/reports/000568/%E6%B3%B8%E5%B7%9E%E8%80%81%E7%AA%96_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</guid>
       <description>&lt;div class=&#34;report-header&#34;&gt;
   &lt;div class=&#34;report-meta&#34;&gt;
     &lt;span class=&#34;meta-item&#34;&gt;📅 分析日期：2026-04-15&lt;/span&gt;
@@ -935,9 +935,9 @@
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/reports/000568/data_pack_market/</link>
+      <link>/reports/000568/data_pack_market/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/reports/000568/data_pack_market/</guid>
+      <guid>/reports/000568/data_pack_market/</guid>
       <description>&lt;h1 id=&#34;泸州老窖000568市场数据采集包&#34;&gt;泸州老窖（000568）市场数据采集包&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;数据采集时间&lt;/strong&gt;：2026-04-15&lt;br&gt;
@@ -1079,9 +1079,9 @@
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/reports/000568/data_pack_report/</link>
+      <link>/reports/000568/data_pack_report/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/reports/000568/data_pack_report/</guid>
+      <guid>/reports/000568/data_pack_report/</guid>
       <description>&lt;h1 id=&#34;泸州老窖000568-深度财务数据采集报告&#34;&gt;泸州老窖(000568) 深度财务数据采集报告&lt;/h1&gt;
 &lt;table&gt;
   &lt;thead&gt;

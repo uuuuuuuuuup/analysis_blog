@@ -1,0 +1,361 @@
+<div class="summary-dashboard">
+  <div class="summary-filters">
+    <div class="filter-group">
+      <span class="filter-label">优先级筛选:</span>
+      <div class="filter-buttons" data-filter="priority">
+        <button class="filter-btn active" data-value="all">全部</button>
+        <button class="filter-btn" data-value="high">🔴 高优先级</button>
+        <button class="filter-btn" data-value="medium">🟡 中优先级</button>
+        <button class="filter-btn" data-value="low">⚪ 低优先级</button>
+        <button class="filter-btn" data-value="observe">🔵 观察</button>
+      </div>
+    </div>
+    <div class="search-box">
+      <span class="search-icon">🔍</span>
+      <input type="text" class="search-input" placeholder="搜索股票代码或名称...">
+    </div>
+  </div>
+
+  <div class="summary-table-container">
+    <div class="summary-table-header">
+      <span class="summary-table-title">🎯 投资结论汇总</span>
+      <span class="summary-table-count">40 / 40 只股票</span>
+    </div>
+    <table class="summary-table">
+      <thead>
+        <tr>
+          <th data-sortable="true" data-column="code">股票代码<span class="table-sort-hint">↕</span></th>
+          <th data-sortable="true" data-column="name">股票名称<span class="table-sort-hint">↕</span></th>
+          <th data-sortable="true" data-column="currentPrice">当前股价<span class="table-sort-hint">↕</span></th>
+          <th data-sortable="true" data-column="targetPrice">买入目标价<span class="table-sort-hint">↕</span></th>
+          <th>投资建议</th>
+          <th data-sortable="true" data-column="priority" class="sorted-asc">优先级<span class="table-sort-hint">↕</span></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><span class="stock-code">000333</span></td>
+          <td><span class="stock-name"><a href="/reports/000333/">美的集团</a></span></td>
+          <td><span class="price-value">77.49 元</span></td>
+          <td><span class="price-target overvalued">69.76 元</span></td>
+          <td>观察仓位（30%）</td>
+          <td><span class="priority-badges"><span class="priority-badge medium">🟡 中优先级</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">000513</span></td>
+          <td><span class="stock-name"><a href="/reports/000513/">丽珠集团</a></span></td>
+          <td><span class="price-value">34.46 元</span></td>
+          <td><span class="price-target undervalued">37.13 元</span></td>
+          <td>50%仓位</td>
+          <td><span class="priority-badges"><span class="priority-badge medium">🟡 中优先级</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">000568</span></td>
+          <td><span class="stock-name"><a href="/reports/000568/">泸州老窖</a></span></td>
+          <td><span class="price-value">103.09 元</span></td>
+          <td><span class="price-target undervalued">130.6-157.0 元</span></td>
+          <td>70%仓位</td>
+          <td><span class="priority-badges"><span class="priority-badge high">🔴 高优先级</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">000596</span></td>
+          <td><span class="stock-name"><a href="/reports/000596/">古井贡酒</a></span></td>
+          <td><span class="price-value">106.12 元</span></td>
+          <td><span class="price-target overvalued">100.61 元</span></td>
+          <td>高优先级观察</td>
+          <td><span class="priority-badges"><span class="priority-badge high">🔴 高优先级</span><span class="priority-badge observe">🔵 观察</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">000651</span></td>
+          <td><span class="stock-name"><a href="/reports/000651/">格力电器</a></span></td>
+          <td><span class="price-value">37.39 元</span></td>
+          <td><span class="price-target undervalued">42.89 元</span></td>
+          <td>70%仓位</td>
+          <td><span class="priority-badges"><span class="priority-badge high">🔴 高优先级</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">000858</span></td>
+          <td><span class="stock-name"><a href="/reports/000858/">五粮液</a></span></td>
+          <td><span class="price-value">103.55 元</span></td>
+          <td><span class="price-target overvalued">98.40元（折扣后）</span></td>
+          <td>50%仓位（观察仓位→标准仓位过渡期）</td>
+          <td><span class="priority-badges"><span class="priority-badge medium">🟡 中优先级</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">000895</span></td>
+          <td><span class="stock-name"><a href="/reports/000895/">双汇发展</a></span></td>
+          <td><span class="price-value">28.77 元</span></td>
+          <td><span class="price-target overvalued">27.11 元</span></td>
+          <td>50%仓位</td>
+          <td><span class="priority-badges"><span class="priority-badge medium">🟡 中优先级</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">001965</span></td>
+          <td><span class="stock-name"><a href="/reports/001965/">招商公路</a></span></td>
+          <td><span class="price-value">9.15 元</span></td>
+          <td><span class="price-target overvalued">7.32 元</span></td>
+          <td>观察仓位（30%）或等待</td>
+          <td><span class="priority-badges"><span class="priority-badge low">⚪ 低优先级</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">002027</span></td>
+          <td><span class="stock-name"><a href="/reports/002027/">分众传媒</a></span></td>
+          <td><span class="price-value">6.30 元</span></td>
+          <td><span class="price-target overvalued">5.96 元</span></td>
+          <td>50%仓位（中优先级观察）</td>
+          <td><span class="priority-badges"><span class="priority-badge medium">🟡 中优先级</span><span class="priority-badge observe">🔵 观察</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">002304</span></td>
+          <td><span class="stock-name"><a href="/reports/002304/">洋河股份</a></span></td>
+          <td><span class="price-value">50.52 元</span></td>
+          <td><span class="price-target undervalued">55.47 元</span></td>
+          <td>高优先级观察仓位（30%）</td>
+          <td><span class="priority-badges"><span class="priority-badge high">🔴 高优先级</span><span class="priority-badge observe">🔵 观察</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">002327</span></td>
+          <td><span class="stock-name"><a href="/reports/002327/">富安娜</a></span></td>
+          <td><span class="price-value">7.05 元</span></td>
+          <td><span class="price-target undervalued">9.65-10.86 元</span></td>
+          <td>中优先级观察</td>
+          <td><span class="priority-badges"><span class="priority-badge medium">🟡 中优先级</span><span class="priority-badge observe">🔵 观察</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">002352</span></td>
+          <td><span class="stock-name"><a href="/reports/002352/">顺丰控股</a></span></td>
+          <td><span class="price-value">37.66 元</span></td>
+          <td><span class="price-target overvalued">33.82 元</span></td>
+          <td>观察仓位（20%）</td>
+          <td><span class="priority-badges"><span class="priority-badge medium">🟡 中优先级</span><span class="priority-badge observe">🔵 观察</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">002415</span></td>
+          <td><span class="stock-name"><a href="/reports/002415/">海康威视</a></span></td>
+          <td><span class="price-value">33.20 元</span></td>
+          <td><span class="price-target overvalued">未达标</span></td>
+          <td>不建仓</td>
+          <td><span class="priority-badges"><span class="priority-badge low">⚪ 低优先级</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">002507</span></td>
+          <td><span class="stock-name"><a href="/reports/002507/">涪陵榨菜</a></span></td>
+          <td><span class="price-value">12.41 元</span></td>
+          <td><span class="price-target overvalued">9.33-10.58 元</span></td>
+          <td>高优先级观察</td>
+          <td><span class="priority-badges"><span class="priority-badge medium">🟡 中优先级</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">002572</span></td>
+          <td><span class="stock-name"><a href="/reports/002572/">索菲亚</a></span></td>
+          <td><span class="price-value">12.58 元</span></td>
+          <td><span class="price-target undervalued">14.75 元</span></td>
+          <td>观望</td>
+          <td><span class="priority-badges"><span class="priority-badge medium">🟡 中优先级</span><span class="priority-badge observe">🔵 观察</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">002690</span></td>
+          <td><span class="stock-name"><a href="/reports/002690/">美亚光电</a></span></td>
+          <td><span class="price-value">18.13 元</span></td>
+          <td><span class="price-target overvalued">17.23 元</span></td>
+          <td>高优先级观察 → 50%仓位（待股价回落）</td>
+          <td><span class="priority-badges"><span class="priority-badge high">🔴 高优先级</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">002714</span></td>
+          <td><span class="stock-name"><a href="/reports/002714/">牧原股份</a></span></td>
+          <td><span class="price-value">46.05 元</span></td>
+          <td><span class="price-target overvalued">40.00 元</span></td>
+          <td>观察仓位（30%）</td>
+          <td><span class="priority-badges"><span class="priority-badge medium">🟡 中优先级</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">002867</span></td>
+          <td><span class="stock-name"><a href="/reports/002867/">周大生</a></span></td>
+          <td><span class="price-value">13.05 元</span></td>
+          <td><span class="price-target undervalued">14.64 元</span></td>
+          <td>50%仓位</td>
+          <td><span class="priority-badges"><span class="priority-badge medium">🟡 中优先级</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">002991</span></td>
+          <td><span class="stock-name"><a href="/reports/002991/">甘源食品</a></span></td>
+          <td><span class="price-value">50.16 元</span></td>
+          <td><span class="price-target overvalued">19.68-37.15 元</span></td>
+          <td>不建仓</td>
+          <td><span class="priority-badges"><span class="priority-badge low">⚪ 低优先级</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">003000</span></td>
+          <td><span class="stock-name"><a href="/reports/003000/">劲仔食品</a></span></td>
+          <td><span class="price-value">10.34 元</span></td>
+          <td><span class="price-target overvalued">9.00 元</span></td>
+          <td>观察仓位（30%）</td>
+          <td><span class="priority-badges"><span class="priority-badge medium">🟡 中优先级</span><span class="priority-badge observe">🔵 观察</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">300015</span></td>
+          <td><span class="stock-name"><a href="/reports/300015/">爱尔眼科</a></span></td>
+          <td><span class="price-value">9.62 元</span></td>
+          <td><span class="price-target overvalued">1.60-2.40 元</span></td>
+          <td>不建仓</td>
+          <td><span class="priority-badges"><span class="priority-badge low">⚪ 低优先级</span><span class="priority-badge observe">🔵 观察</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">300146</span></td>
+          <td><span class="stock-name"><a href="/reports/300146/">汤臣倍健</a></span></td>
+          <td><span class="price-value">11.19 元</span></td>
+          <td><span class="price-target overvalued">9.45 元</span></td>
+          <td>观察仓位（不建仓）</td>
+          <td><span class="priority-badges"><span class="priority-badge low">⚪ 低优先级</span><span class="priority-badge observe">🔵 观察</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">300628</span></td>
+          <td><span class="stock-name"><a href="/reports/300628/">亿联网络</a></span></td>
+          <td><span class="price-value">35.29 元</span></td>
+          <td><span class="price-target overvalued">28.95 元</span></td>
+          <td>观察仓位（30%）</td>
+          <td><span class="priority-badges"><span class="priority-badge medium">🟡 中优先级</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">300979</span></td>
+          <td><span class="stock-name"><a href="/reports/300979/">华利集团</a></span></td>
+          <td><span class="price-value">43.00 元</span></td>
+          <td><span class="price-target overvalued">未达标</span></td>
+          <td>高优先级观察</td>
+          <td><span class="priority-badges"><span class="priority-badge high">🔴 高优先级</span><span class="priority-badge observe">🔵 观察</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">600048</span></td>
+          <td><span class="stock-name"><a href="/reports/600048/">保利发展</a></span></td>
+          <td><span class="price-value">5.94 元</span></td>
+          <td><span class="price-target overvalued">—</span></td>
+          <td>暂不建仓</td>
+          <td><span class="priority-badges"><span class="priority-badge low">⚪ 低优先级</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">600050</span></td>
+          <td><span class="stock-name"><a href="/reports/600050/">中国联通</a></span></td>
+          <td><span class="price-value">4.57 元</span></td>
+          <td><span class="price-target overvalued">3.18-4.24 元</span></td>
+          <td>高优先级观察</td>
+          <td><span class="priority-badges"><span class="priority-badge high">🔴 高优先级</span><span class="priority-badge observe">🔵 观察</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">600085</span></td>
+          <td><span class="stock-name"><a href="/reports/600085/">同仁堂</a></span></td>
+          <td><span class="price-value">28.05 元</span></td>
+          <td><span class="price-target overvalued">12.54-17.88 元</span></td>
+          <td>不建仓 / 高优先级观察</td>
+          <td><span class="priority-badges"><span class="priority-badge low">⚪ 低优先级</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">600132</span></td>
+          <td><span class="stock-name"><a href="/reports/600132/">重庆啤酒</a></span></td>
+          <td><span class="price-value">54.10 元</span></td>
+          <td><span class="price-target undervalued">60.32 元</span></td>
+          <td>观察仓位（30%）</td>
+          <td><span class="priority-badges"><span class="priority-badge medium">🟡 中优先级</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">600398</span></td>
+          <td><span class="stock-name"><a href="/reports/600398/">海澜之家</a></span></td>
+          <td><span class="price-value">6.78 元</span></td>
+          <td><span class="price-target undervalued">7.01 元</span></td>
+          <td>50%仓位</td>
+          <td><span class="priority-badges"><span class="priority-badge high">🔴 高优先级</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">600566</span></td>
+          <td><span class="stock-name"><a href="/reports/600566/">济川药业</a></span></td>
+          <td><span class="price-value">25.30 元</span></td>
+          <td><span class="price-target overvalued">11.09-19.16 元</span></td>
+          <td>观察仓位 / 暂不建仓</td>
+          <td><span class="priority-badges"><span class="priority-badge low">⚪ 低优先级</span><span class="priority-badge observe">🔵 观察</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">600585</span></td>
+          <td><span class="stock-name"><a href="/reports/600585/">海螺水泥</a></span></td>
+          <td><span class="price-value">22.55 元</span></td>
+          <td><span class="price-target overvalued">19.87 元</span></td>
+          <td>高优先级观察</td>
+          <td><span class="priority-badges"><span class="priority-badge high">🔴 高优先级</span><span class="priority-badge observe">🔵 观察</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">600763</span></td>
+          <td><span class="stock-name"><a href="/reports/600763/">通策医疗</a></span></td>
+          <td><span class="price-value">41.37 元</span></td>
+          <td><span class="price-target overvalued">9.16 元</span></td>
+          <td>排除</td>
+          <td><span class="priority-badges"><span class="priority-badge low">⚪ 低优先级</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">600887</span></td>
+          <td><span class="stock-name"><a href="/reports/600887/">伊利股份</a></span></td>
+          <td><span class="price-value">25.69 元</span></td>
+          <td><span class="price-target undervalued">31.47 元</span></td>
+          <td>70% 仓位</td>
+          <td><span class="priority-badges"><span class="priority-badge high">🔴 高优先级</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">600900</span></td>
+          <td><span class="stock-name"><a href="/reports/600900/">长江电力</a></span></td>
+          <td><span class="price-value">26.55 元</span></td>
+          <td><span class="price-target overvalued">26.40 元</span></td>
+          <td>标准仓位（高优先级观察）</td>
+          <td><span class="priority-badges"><span class="priority-badge high">🔴 高优先级</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">600941</span></td>
+          <td><span class="stock-name"><a href="/reports/600941/">中国移动</a></span></td>
+          <td><span class="price-value">93.71 元</span></td>
+          <td><span class="price-target overvalued">93.5 元</span></td>
+          <td>高优先级观察</td>
+          <td><span class="priority-badges"><span class="priority-badge high">🔴 高优先级</span><span class="priority-badge observe">🔵 观察</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">601728</span></td>
+          <td><span class="stock-name"><a href="/reports/601728/">中国电信</a></span></td>
+          <td><span class="price-value">5.83 元</span></td>
+          <td><span class="price-target overvalued">5.61 元</span></td>
+          <td>观察仓位（高优先级观察）</td>
+          <td><span class="priority-badges"><span class="priority-badge high">🔴 高优先级</span><span class="priority-badge observe">🔵 观察</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">603198</span></td>
+          <td><span class="stock-name"><a href="/reports/603198/">迎驾贡酒</a></span></td>
+          <td><span class="price-value">35.82 元</span></td>
+          <td><span class="price-target overvalued">18.10-30.37 元</span></td>
+          <td>不建仓</td>
+          <td><span class="priority-badges"><span class="priority-badge low">⚪ 低优先级</span><span class="priority-badge observe">🔵 观察</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">603345</span></td>
+          <td><span class="stock-name"><a href="/reports/603345/">安井食品</a></span></td>
+          <td><span class="price-value">94.80 元</span></td>
+          <td><span class="price-target overvalued">34.93-74.33 元</span></td>
+          <td>不建仓 — 观察等待</td>
+          <td><span class="priority-badges"><span class="priority-badge low">⚪ 低优先级</span><span class="priority-badge observe">🔵 观察</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">603605</span></td>
+          <td><span class="stock-name"><a href="/reports/603605/">珀莱雅</a></span></td>
+          <td><span class="price-value">59.77 元</span></td>
+          <td><span class="price-target overvalued">20.61 元</span></td>
+          <td>不建仓</td>
+          <td><span class="priority-badges"><span class="priority-badge low">⚪ 低优先级</span><span class="priority-badge observe">🔵 观察</span></span></td>
+        </tr>
+        <tr>
+          <td><span class="stock-code">603833</span></td>
+          <td><span class="stock-name"><a href="/reports/603833/">欧派家居</a></span></td>
+          <td><span class="price-value">50.44 元</span></td>
+          <td><span class="price-target undervalued">52.38 元</span></td>
+          <td>50%仓位（分批建仓）</td>
+          <td><span class="priority-badges"><span class="priority-badge medium">🟡 中优先级</span></span></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<script src="{{ "js/summary-table.js" | relURL }}"></script>

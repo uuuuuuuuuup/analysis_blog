@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>格力电器（000651） on 稳健策略研究</title>
-    <link>//localhost:1313/reports/000651/</link>
+    <link>/reports/000651/</link>
     <description>Recent content in 格力电器（000651） on 稳健策略研究</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/reports/000651/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/reports/000651/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>格力电器（000651）稳健投资策略分析报告</title>
-      <link>//localhost:1313/reports/000651/%E6%A0%BC%E5%8A%9B%E7%94%B5%E5%99%A8_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</link>
+      <link>/reports/000651/%E6%A0%BC%E5%8A%9B%E7%94%B5%E5%99%A8_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</link>
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/reports/000651/%E6%A0%BC%E5%8A%9B%E7%94%B5%E5%99%A8_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</guid>
+      <guid>/reports/000651/%E6%A0%BC%E5%8A%9B%E7%94%B5%E5%99%A8_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</guid>
       <description>&lt;div class=&#34;report-header&#34;&gt;
   &lt;div class=&#34;report-meta&#34;&gt;
     &lt;span class=&#34;meta-item&#34;&gt;📅 分析日期：2026-04-15&lt;/span&gt;
@@ -765,9 +765,9 @@
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/reports/000651/data_pack_market/</link>
+      <link>/reports/000651/data_pack_market/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/reports/000651/data_pack_market/</guid>
+      <guid>/reports/000651/data_pack_market/</guid>
       <description>&lt;h1 id=&#34;稳健投资策略---phase-1-市场数据采集报告&#34;&gt;稳健投资策略 - Phase 1 市场数据采集报告&lt;/h1&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -1084,9 +1084,9 @@
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/reports/000651/data_pack_report/</link>
+      <link>/reports/000651/data_pack_report/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/reports/000651/data_pack_report/</guid>
+      <guid>/reports/000651/data_pack_report/</guid>
       <description>&lt;h1 id=&#34;格力电器000651深度财务数据采集报告&#34;&gt;格力电器（000651）深度财务数据采集报告&lt;/h1&gt;
 &lt;table&gt;
   &lt;thead&gt;

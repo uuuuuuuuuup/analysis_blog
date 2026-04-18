@@ -7,15 +7,14 @@
     <list default="true" id="37112807-bda9-45f9-91f3-b1db2ed70e69" name="更改" comment="1. 创建自定义列表模板 (layouts/_default/list.html) - 实现按日期分组的文章展示&#10;     2. 创建自定义样式文件 (assets/css/extended/custom.css) - 美化日期分组样式                                  &#10;     3. 为9个报告示范添加了发布日期 - 展示分组效果">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectFiles/优化文章内容.md" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectFiles/优化文章内容.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/reports/002690/美亚光电_稳健投资策略分析报告.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/reports/002690/美亚光电_稳健投资策略分析报告.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/reports/002714/牧原股份_稳健投资策略分析报告.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/reports/002714/牧原股份_稳健投资策略分析报告.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/reports/002867/周大生_稳健投资策略分析报告.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/reports/002867/周大生_稳健投资策略分析报告.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/reports/002991/甘源食品_稳健投资策略分析报告.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/reports/002991/甘源食品_稳健投资策略分析报告.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/reports/600048/保利发展_稳健投资策略分析报告.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/reports/600048/保利发展_稳健投资策略分析报告.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/reports/600050/analysis_report.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/reports/600050/analysis_report.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/reports/600085/同仁堂_稳健投资策略分析报告.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/reports/600085/同仁堂_稳健投资策略分析报告.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/reports/600132/重庆啤酒_稳健投资策略分析报告.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/reports/600132/重庆啤酒_稳健投资策略分析报告.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/reports/600398/海澜之家_稳健投资策略分析报告.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/reports/600398/海澜之家_稳健投资策略分析报告.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/reports/600585/海螺水泥_稳健投资策略分析报告.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/reports/600585/海螺水泥_稳健投资策略分析报告.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/reports/600763/通策医疗_稳健投资策略分析报告.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/reports/600763/通策医疗_稳健投资策略分析报告.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/reports/600887/伊利股份_稳健投资策略分析报告.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/reports/600887/伊利股份_稳健投资策略分析报告.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/reports/600900/长江电力_稳健投资策略分析报告.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/reports/600900/长江电力_稳健投资策略分析报告.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/reports/600941/中国移动_稳健投资策略分析报告.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/reports/600941/中国移动_稳健投资策略分析报告.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/reports/603198/迎驾贡酒_稳健投资策略分析报告.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/reports/603198/迎驾贡酒_稳健投资策略分析报告.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/reports/603345/安井食品_稳健投资策略分析报告.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/reports/603345/安井食品_稳健投资策略分析报告.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/reports/603833/欧派家居_稳健投资策略分析报告.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/reports/603833/欧派家居_稳健投资策略分析报告.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/about/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.xml" afterDir="false" />

@@ -1,0 +1,129 @@
+{{- if .IsHome -}}
+<script type="application/ld+json">
+{{- $data := dict 
+  "@context" "https://schema.org"
+  "@type" ((site.Params.schema.publisherType | default "Organization") | title)
+  "name" site.Title
+  "url" site.Home.Permalink
+  "description" (site.Params.description | plainify | truncate 180)
+-}}
+{{- if eq site.Params.schema.publisherType "Person" -}}
+  {{- $data = merge $data (dict "image" (site.Params.assets.favicon | default "favicon.ico" | absURL)) -}}
+{{- else -}}
+  {{- $data = merge $data (dict "logo" (site.Params.assets.favicon | default "favicon.ico" | absURL)) -}}
+{{- end -}}
+{{- if site.Params.schema.sameAs -}}
+  {{- $data = merge $data (dict "sameAs" site.Params.schema.sameAs) -}}
+{{- else if site.Params.SocialIcons -}}
+  {{- $urls := slice -}}
+  {{- range site.Params.SocialIcons -}}
+    {{- $urls = $urls | append .url -}}
+  {{- end -}}
+  {{- $data = merge $data (dict "sameAs" $urls) -}}
+{{- end -}}
+{{ $data | jsonify }}
+</script>
+{{- else if or .IsPage .IsSection -}}
+{{- $url := replace .Parent.Permalink (printf "%s" site.Home.Permalink) "" -}}
+{{- $lang_url := strings.TrimPrefix (printf "%s/" .Lang) $url -}}
+{{- $bc_list := split $lang_url "/" -}}
+{{- $scratch := newScratch -}}
+{{- $items := slice -}}
+{{- range $index, $element := $bc_list -}}
+  {{- $scratch.Add "path" (printf "%s/" $element) -}}
+  {{- $bc_pg := site.GetPage ($scratch.Get "path") -}}
+  {{- if and $bc_pg (gt (len $element) 0) -}}
+    {{- $items = $items | append (dict 
+      "@type" "ListItem"
+      "position" (add 1 $index)
+      "name" $bc_pg.Name
+      "item" $bc_pg.Permalink
+    ) -}}
+  {{- end -}}
+{{- end -}}
+{{- $items = $items | append (dict 
+  "@type" "ListItem"
+  "position" (len $bc_list)
+  "name" .Name
+  "item" .Permalink
+) -}}
+<script type="application/ld+json">
+{{ dict 
+  "@context" "https://schema.org"
+  "@type" "BreadcrumbList"
+  "itemListElement" $items
+| jsonify }}
+</script>
+{{- if .IsPage -}}
+{{- $keywords := slice -}}
+{{- if .Params.keywords -}}
+  {{- $keywords = .Params.keywords -}}
+{{- else if .Params.tags -}}
+  {{- $keywords = .Params.tags -}}
+{{- end -}}
+{{- $author := .Params.author | default site.Params.author -}}
+{{- $authorData := "" -}}
+{{- if $author -}}
+  {{- if or (eq (printf "%T" $author) "[]string") (eq (printf "%T" $author) "[]interface {}") -}}
+    {{- $authorList := slice -}}
+    {{- range $author -}}
+      {{- $authorList = $authorList | append (dict "@type" "Person" "name" .) -}}
+    {{- end -}}
+    {{- $authorData = $authorList -}}
+  {{- else -}}
+    {{- $authorData = dict "@type" "Person" "name" $author -}}
+  {{- end -}}
+{{- end -}}
+{{- $image := "" -}}
+{{- if .Params.cover.image -}}
+  {{- if ne .Params.cover.relative true -}}
+    {{- $image = .Params.cover.image | absURL -}}
+  {{- else -}}
+    {{- $image = (path.Join .RelPermalink .Params.cover.image) | absURL -}}
+  {{- end -}}
+{{- else -}}
+  {{- $images := partial "templates/_funcs/get-page-images" . -}}
+  {{- with index $images 0 -}}
+    {{- $image = .Permalink -}}
+  {{- end -}}
+{{- end -}}
+{{- $description := .Summary | plainify -}}
+{{- with .Description -}}
+  {{- $description = . | plainify -}}
+{{- end -}}
+{{- $data := dict 
+  "@context" "https://schema.org"
+  "@type" "BlogPosting"
+  "headline" (.Title | plainify)
+  "name" (.Title | plainify)
+  "description" $description
+  "keywords" $keywords
+  "articleBody" (.Content | plainify)
+  "wordCount" (printf "%d" .WordCount)
+  "inLanguage" (.Language.Lang | default "en-us")
+  "datePublished" .PublishDate
+  "dateModified" .Lastmod
+  "mainEntityOfPage" (dict 
+    "@type" "WebPage"
+    "@id" .Permalink
+  )
+  "publisher" (dict 
+    "@type" ((site.Params.schema.publisherType | default "Organization") | title)
+    "name" site.Title
+    "logo" (dict 
+      "@type" "ImageObject"
+      "url" (site.Params.assets.favicon | default "favicon.ico" | absURL)
+    )
+  )
+-}}
+{{- if $image -}}
+  {{- $data = merge $data (dict "image" $image) -}}
+{{- end -}}
+{{- if $authorData -}}
+  {{- $data = merge $data (dict "author" $authorData) -}}
+{{- end -}}
+<script type="application/ld+json">
+{{ $data | jsonify }}
+</script>
+{{- end -}}
+{{- end -}}

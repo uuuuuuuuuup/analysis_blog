@@ -1,1073 +1,1749 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>欧派家居 (603833) on 稳健策略研究</title>
-    <link>/reports/603833/</link>
-    <description>Recent content in 欧派家居 (603833) on 稳健策略研究</description>
-    <generator>Hugo</generator>
-    <language>zh-CN</language>
-    <atom:link href="/reports/603833/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>/reports/603833/data_pack_market/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/reports/603833/data_pack_market/</guid>
-      <description>&lt;h1 id=&#34;稳健投资策略---市场数据采集包&#34;&gt;稳健投资策略 - 市场数据采集包&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>欧派家居 (603833) on 稳健策略研究</title><link>/reports/603833/</link><description>Recent content in 欧派家居 (603833) on 稳健策略研究</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="/reports/603833/index.xml" rel="self" type="application/rss+xml"/><item><title>欧派家居（603833）稳健投资策略分析报告</title><link>/reports/603833/%E6%AC%A7%E6%B4%BE%E5%AE%B6%E5%B1%85_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</link><pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate><guid>/reports/603833/%E6%AC%A7%E6%B4%BE%E5%AE%B6%E5%B1%85_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</guid><description>&lt;div class="report-header"&gt;
+&lt;div class="report-meta"&gt;
+&lt;span class="meta-item"&gt;📅 分析日期：&lt;/span&gt;
+&lt;span class="meta-item"&gt;📊 数据截止：&lt;/span&gt;
+&lt;span class="meta-item"&gt;📋 分析框架：稳健投资策略 v2.0&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="投资结论"&gt;投资结论&lt;/h2&gt;
+&lt;div class="decision-card-v2 decision-observe"&gt;
+&lt;div class="decision-v2-header"&gt;
+&lt;div class="decision-v2-icon"&gt;👀&lt;/div&gt;
+&lt;div class="decision-v2-title"&gt;
+&lt;span class="decision-v2-label"&gt;投资建议&lt;/span&gt;
+&lt;span class="decision-v2-action"&gt;观察等待&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class="decision-v2-metrics"&gt;&lt;div class="decision-metric"&gt;
+&lt;span class="decision-metric-label"&gt;建议仓位&lt;/span&gt;
+&lt;span class="decision-metric-value primary"&gt;50%仓位（分批建仓）&lt;/span&gt;
+&lt;/div&gt;&lt;div class="decision-metric"&gt;
+&lt;span class="decision-metric-label"&gt;目标买入价&lt;/span&gt;
+&lt;span class="decision-metric-value"&gt;52.38 元&lt;/span&gt;
+&lt;/div&gt;&lt;div class="decision-metric"&gt;
+&lt;span class="decision-metric-label"&gt;当前股价&lt;/span&gt;
+&lt;span class="decision-metric-value"&gt;50.44 元&lt;/span&gt;
+&lt;/div&gt;&lt;div class="decision-metric"&gt;
+&lt;span class="decision-metric-label"&gt;优先级&lt;/span&gt;
+&lt;span class="decision-metric-value"&gt;中优先级&lt;/span&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;div class="decision-v2-body"&gt;
+&lt;div class="stock-info-card"&gt;
+&lt;div class="stock-info-header"&gt;
+&lt;span class="stock-info-name"&gt;欧派家居集团股份有限公司&lt;/span&gt;
+&lt;span class="stock-info-code"&gt;603833.SH&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="stock-info-body"&gt;
+&lt;div class="info-row"&gt;
+&lt;span class="info-label"&gt;持股渠道&lt;/span&gt;
+&lt;span class="info-value"&gt;A股直接持有&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="info-row"&gt;
+&lt;span class="info-label"&gt;分析日期&lt;/span&gt;
+&lt;span class="info-value"&gt;2026-04-15&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="info-row"&gt;
+&lt;span class="info-label"&gt;数据截止&lt;/span&gt;
+&lt;span class="info-value"&gt;2024年报 / 2025年三季报&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="factor-grid"&gt;
+&lt;div class="factor-summary status-pass"&gt;&lt;div class="factor-summary-header"&gt;
+&lt;span class="factor-summary-title"&gt;因子 1A 快筛&lt;/span&gt;&lt;span class="factor-summary-badge pass"&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class="factor-summary-content"&gt;
+审计意见：标准无保留 | 无财务造假记录 | 商业模式清晰 | 控股股东增持
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="factor-summary status-warning"&gt;&lt;div class="factor-summary-header"&gt;
+&lt;span class="factor-summary-title"&gt;因子 1B 定性分析&lt;/span&gt;&lt;span class="factor-summary-badge warning"&gt;⚠ 注意&lt;/span&gt;&lt;/div&gt;&lt;div class="factor-summary-content"&gt;
+护城河：窄（品牌+规模） | 周期性：弱周期（底部区域） | 管理层：一般（高分红但证券投资亏损）
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="factor-summary status-pass"&gt;&lt;div class="factor-summary-header"&gt;
+&lt;span class="factor-summary-title"&gt;因子 2 粗算回报率&lt;/span&gt;&lt;span class="factor-summary-badge pass"&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class="factor-summary-content"&gt;
+粗算穿透回报率：4.56% | 门槛：3.78% | 安全边际：0.78 pct
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="factor-summary status-pass"&gt;&lt;div class="factor-summary-header"&gt;
+&lt;span class="factor-summary-title"&gt;因子 3 精算回报率&lt;/span&gt;&lt;span class="factor-summary-badge pass"&gt;✓ 通过&lt;/span&gt;&lt;/div&gt;&lt;div class="factor-summary-content"&gt;
+精算穿透回报率：5.23% | 外推可信度：中 | 现金保护：轻度保护（36.2%）
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="factor-summary status-warning"&gt;&lt;div class="factor-summary-header"&gt;
+&lt;span class="factor-summary-title"&gt;因子 4 估值安全边际&lt;/span&gt;&lt;span class="factor-summary-badge warning"&gt;⚠ 注意&lt;/span&gt;&lt;/div&gt;&lt;div class="factor-summary-content"&gt;
+安全边际：1.45 pct | 修正后：2.45 pct | 价值陷阱风险：中
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="risk-list"&gt;
+&lt;div class="risk-list-title"&gt;⚠️ 风险提示&lt;/div&gt;
+&lt;ul class="risk-items"&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;房地产调整超预期&lt;/strong&gt;：家居行业与房地产高度相关，若调整周期延长，公司业绩修复将推迟，收入可能进一步下滑&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;竞争加剧与价格战&lt;/strong&gt;：定制家居行业CR5仅41.7%，竞争格局分散，价格战可能持续侵蚀利润率&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;高分红可持续性&lt;/strong&gt;：支付率从35%提升至58%，在业绩下滑背景下逆势高分红，若现金流恶化可能被迫降低分红&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="follow-up-list"&gt;
+&lt;div class="follow-up-title"&gt;📋 后续跟踪事项&lt;/div&gt;
+&lt;ul class="follow-up-items"&gt;
+&lt;ol&gt;
+&lt;li&gt;关注2025年报业绩：验证&amp;quot;分田到户&amp;quot;改革效果，营收降幅是否持续收窄至转正&lt;/li&gt;
+&lt;li&gt;关注房地产政策效果：新房销售面积是否企稳，存量房翻新需求增速是否加速&lt;/li&gt;
+&lt;li&gt;关注定期存款到期情况：106亿元定期存款到期后是否续存或用于分红/回购，影响广义现金口径&lt;/li&gt;
+&lt;li&gt;关注&amp;quot;国补&amp;quot;政策延续性：若政策退出，合同负债增速可能放缓&lt;/li&gt;
+&lt;li&gt;关注可转债&amp;quot;欧22转债&amp;quot;转股进展：若大规模转股将稀释股本&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="详细分析"&gt;详细分析&lt;/h2&gt;
+&lt;div class="section-divider"&gt;
+&lt;div class="section-icon"&gt;🔍&lt;/div&gt;
+&lt;h2 class="section-title"&gt;因子 1A：五分钟快筛&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class="screening-checklist"&gt;
+&lt;div class="screening-checklist-header"&gt;
+&lt;span class="screening-checklist-icon"&gt;🔍&lt;/span&gt;
+&lt;span class="screening-checklist-title"&gt;快筛检查表&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="screening-checklist-grid"&gt;
+&lt;div class="screening-item pass"&gt;
+&lt;div class="screening-item-header"&gt;
+&lt;span class="screening-item-number"&gt;1&lt;/span&gt;
+&lt;span class="screening-item-status"&gt;✅&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="screening-item-body"&gt;
+&lt;div class="screening-item-title"&gt;审计意见异常&lt;/div&gt;
+&lt;div class="screening-item-result"&gt;✅ 否&lt;/div&gt;
+&lt;div class="screening-item-desc"&gt;2024年度审计意见为标准无保留意见，审计机构为华兴会计师事务所（特殊普通合伙）&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="screening-item pass"&gt;
+&lt;div class="screening-item-header"&gt;
+&lt;span class="screening-item-number"&gt;2&lt;/span&gt;
+&lt;span class="screening-item-status"&gt;✅&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="screening-item-body"&gt;
+&lt;div class="screening-item-title"&gt;频繁更换审计师&lt;/div&gt;
+&lt;div class="screening-item-result"&gt;✅ 否&lt;/div&gt;
+&lt;div class="screening-item-desc"&gt;华兴会计师事务所近年持续为公司提供审计服务，未发现更换记录&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="screening-item pass"&gt;
+&lt;div class="screening-item-header"&gt;
+&lt;span class="screening-item-number"&gt;3&lt;/span&gt;
+&lt;span class="screening-item-status"&gt;✅&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="screening-item-body"&gt;
+&lt;div class="screening-item-title"&gt;财务造假或重大违规前科&lt;/div&gt;
+&lt;div class="screening-item-result"&gt;✅ 否&lt;/div&gt;
+&lt;div class="screening-item-desc"&gt;未发现财务造假或重大违规记录，税务信用等级A级（2024年）&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="screening-item pass"&gt;
+&lt;div class="screening-item-header"&gt;
+&lt;span class="screening-item-number"&gt;4&lt;/span&gt;
+&lt;span class="screening-item-status"&gt;✅&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="screening-item-body"&gt;
+&lt;div class="screening-item-title"&gt;看不懂（无法理解商业模式）&lt;/div&gt;
+&lt;div class="screening-item-result"&gt;✅ 否&lt;/div&gt;
+&lt;div class="screening-item-desc"&gt;商业模式清晰：定制家居设计、生产、销售，覆盖橱柜/衣柜/卫浴/木门等七大品类，经销+直营+整装多渠道&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="screening-item pass"&gt;
+&lt;div class="screening-item-header"&gt;
+&lt;span class="screening-item-number"&gt;5&lt;/span&gt;
+&lt;span class="screening-item-status"&gt;✅&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="screening-item-body"&gt;
+&lt;div class="screening-item-title"&gt;商业模式未被验证&lt;/div&gt;
+&lt;div class="screening-item-result"&gt;✅ 否&lt;/div&gt;
+&lt;div class="screening-item-desc"&gt;公司成立30年，上市8年，行业龙头地位稳固，商业模式已被充分验证&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="screening-item pass"&gt;
+&lt;div class="screening-item-header"&gt;
+&lt;span class="screening-item-number"&gt;6&lt;/span&gt;
+&lt;span class="screening-item-status"&gt;✅&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class="screening-item-body"&gt;
+&lt;div class="screening-item-title"&gt;控股股东重大负面信号&lt;/div&gt;
+&lt;div class="screening-item-result"&gt;✅ 否&lt;/div&gt;
+&lt;div class="screening-item-desc"&gt;实控人姚良松直接持股66.19%，2025年12月一致行动人首次增持；但需关注高分红背景下大股东累计分红近50亿元&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="conclusion-box conclusion-info"&gt;&lt;div class="conclusion-title"&gt;快筛结论&lt;/div&gt;&lt;div class="conclusion-content"&gt;
+&lt;strong&gt;通过&lt;/strong&gt; ✅ 六项检查均未触发一票否决，进入因子 1B 深度分析。
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section-divider"&gt;
+&lt;div class="section-icon"&gt;📊&lt;/div&gt;
+&lt;h2 class="section-title"&gt;因子 1B：深度定性分析&lt;/h2&gt;
+&lt;/div&gt;
+&lt;h3 id="模块三大报表基础数据与关键指标"&gt;模块〇：三大报表基础数据与关键指标&lt;/h3&gt;
+&lt;div class="data-section"&gt;&lt;div class="data-section-header"&gt;
+&lt;span class="data-section-title"&gt;利润表核心数据（百万元）&lt;/span&gt;&lt;/div&gt;&lt;div class="data-section-content"&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;字段&lt;/th&gt;
-          &lt;th&gt;值&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;股票代码&lt;/td&gt;
-          &lt;td&gt;603833&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;公司名称&lt;/td&gt;
-          &lt;td&gt;欧派家居集团股份有限公司&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;持股渠道&lt;/td&gt;
-          &lt;td&gt;A股直接持有&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;目标年份&lt;/td&gt;
-          &lt;td&gt;2025&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;数据采集时间&lt;/td&gt;
-          &lt;td&gt;2026-04-15 17:30:00&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;金额单位&lt;/td&gt;
-          &lt;td&gt;报表币种百万元（除非另有标注）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;数据来源标注&lt;/td&gt;
-          &lt;td&gt;每项数据后标注实际使用工具&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;项目&lt;/th&gt;
+&lt;th&gt;2020&lt;/th&gt;
+&lt;th&gt;2021&lt;/th&gt;
+&lt;th&gt;2022&lt;/th&gt;
+&lt;th&gt;2023&lt;/th&gt;
+&lt;th&gt;2024&lt;/th&gt;
+&lt;th&gt;来源&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;营业收入&lt;/td&gt;
+&lt;td&gt;14,740&lt;/td&gt;
+&lt;td&gt;20,442&lt;/td&gt;
+&lt;td&gt;22,480&lt;/td&gt;
+&lt;td&gt;22,782&lt;/td&gt;
+&lt;td&gt;18,925&lt;/td&gt;
+&lt;td&gt;AI-Tools + WebSearch&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;营业成本&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;12,129&lt;/td&gt;
+&lt;td&gt;由毛利率35.91%推算&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;毛利润&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;6,796&lt;/td&gt;
+&lt;td&gt;推算值&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;税金及附加&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;171&lt;/td&gt;
+&lt;td&gt;AI-Tools&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;销售费用&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;1,893&lt;/td&gt;
+&lt;td&gt;AI-Tools&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;管理费用&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;1,301&lt;/td&gt;
+&lt;td&gt;AI-Tools&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;研发费用&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;1,023&lt;/td&gt;
+&lt;td&gt;AI-Tools&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;财务费用&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;-249&lt;/td&gt;
+&lt;td&gt;AI-Tools（净收入）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;营业利润&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;2,996&lt;/td&gt;
+&lt;td&gt;AI-Tools&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;归母净利润&lt;/td&gt;
+&lt;td&gt;2,063&lt;/td&gt;
+&lt;td&gt;2,666&lt;/td&gt;
+&lt;td&gt;2,688&lt;/td&gt;
+&lt;td&gt;3,036&lt;/td&gt;
+&lt;td&gt;2,599&lt;/td&gt;
+&lt;td&gt;AI-Tools + WebSearch&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;少数股东损益&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;≈0&lt;/td&gt;
+&lt;td&gt;极小&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;扣非归母净利润&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;2,746&lt;/td&gt;
+&lt;td&gt;2,316&lt;/td&gt;
+&lt;td&gt;WebSearch&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="data-section"&gt;&lt;div class="data-section-header"&gt;
+&lt;span class="data-section-title"&gt;关键盈利能力指标&lt;/span&gt;&lt;/div&gt;&lt;div class="data-section-content"&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;指标&lt;/th&gt;
+&lt;th&gt;2020&lt;/th&gt;
+&lt;th&gt;2021&lt;/th&gt;
+&lt;th&gt;2022&lt;/th&gt;
+&lt;th&gt;2023&lt;/th&gt;
+&lt;th&gt;2024&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;毛利率(%)&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;34.15&lt;/td&gt;
+&lt;td&gt;35.91&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;净利率(%)&lt;/td&gt;
+&lt;td&gt;14.00&lt;/td&gt;
+&lt;td&gt;13.04&lt;/td&gt;
+&lt;td&gt;11.96&lt;/td&gt;
+&lt;td&gt;13.33&lt;/td&gt;
+&lt;td&gt;13.76&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;销售费用率(%)&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;10.00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;管理费用率(%)&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;6.88&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;研发费用率(%)&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;5.41&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;有效税率(%)&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;≈18&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="data-section"&gt;&lt;div class="data-section-header"&gt;
+&lt;span class="data-section-title"&gt;资产负债表核心数据（百万元）&lt;/span&gt;&lt;/div&gt;&lt;div class="data-section-content"&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;项目&lt;/th&gt;
+&lt;th&gt;2020&lt;/th&gt;
+&lt;th&gt;2021&lt;/th&gt;
+&lt;th&gt;2022&lt;/th&gt;
+&lt;th&gt;2023&lt;/th&gt;
+&lt;th&gt;2024-12-31&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;货币资金&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;7,789&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;交易性金融资产（理财）&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;1,536&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;定期存款（各期限）&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;10,600&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;广义现金合计&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;19,925&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;应收账款&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;1,222&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;存货&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;806&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;流动资产&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;14,796&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;固定资产&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;8,531&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;在建工程&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;550&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;商誉&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;≈0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;无形资产&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;1,019&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;总资产&lt;/td&gt;
+&lt;td&gt;18,844&lt;/td&gt;
+&lt;td&gt;23,393&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;34,347&lt;/td&gt;
+&lt;td&gt;35,225&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;短期借款&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;6,974&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;长期借款&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;应付债券（可转债）&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;1,813&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;有息负债合计&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;8,790&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;合同负债&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;≈1,300&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;总负债&lt;/td&gt;
+&lt;td&gt;6,919&lt;/td&gt;
+&lt;td&gt;8,984&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;16,231&lt;/td&gt;
+&lt;td&gt;16,166&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;股东权益&lt;/td&gt;
+&lt;td&gt;11,925&lt;/td&gt;
+&lt;td&gt;14,409&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;18,116&lt;/td&gt;
+&lt;td&gt;19,059&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="data-section"&gt;&lt;div class="data-section-header"&gt;
+&lt;span class="data-section-title"&gt;现金流量表核心数据（百万元）&lt;/span&gt;&lt;/div&gt;&lt;div class="data-section-content"&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;项目&lt;/th&gt;
+&lt;th&gt;2020&lt;/th&gt;
+&lt;th&gt;2021&lt;/th&gt;
+&lt;th&gt;2022&lt;/th&gt;
+&lt;th&gt;2023&lt;/th&gt;
+&lt;th&gt;2024&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;OCF&lt;/td&gt;
+&lt;td&gt;3,889&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;2,410&lt;/td&gt;
+&lt;td&gt;4,878&lt;/td&gt;
+&lt;td&gt;5,499&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;投资CF&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;-1,567&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;筹资CF&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;-3,376&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Capex（估）&lt;/td&gt;
+&lt;td&gt;≈1,200&lt;/td&gt;
+&lt;td&gt;≈1,500&lt;/td&gt;
+&lt;td&gt;≈1,500&lt;/td&gt;
+&lt;td&gt;≈1,500&lt;/td&gt;
+&lt;td&gt;≈1,567&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;FCF（估）&lt;/td&gt;
+&lt;td&gt;≈2,689&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;≈910&lt;/td&gt;
+&lt;td&gt;≈3,378&lt;/td&gt;
+&lt;td&gt;≈3,932&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;股息支付&lt;/td&gt;
+&lt;td&gt;725&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;td&gt;1,075&lt;/td&gt;
+&lt;td&gt;1,672&lt;/td&gt;
+&lt;td&gt;1,502&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;回购金额&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;79&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;details class="code-collapse"&gt;
+&lt;summary class="code-collapse-summary"&gt;📊 展开因子 2/3/4 计算参数预提取&lt;/summary&gt;
+&lt;div class="code-collapse-content"&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;span class="lnt"&gt;16
+&lt;/span&gt;&lt;span class="lnt"&gt;17
+&lt;/span&gt;&lt;span class="lnt"&gt;18
+&lt;/span&gt;&lt;span class="lnt"&gt;19
+&lt;/span&gt;&lt;span class="lnt"&gt;20
+&lt;/span&gt;&lt;span class="lnt"&gt;21
+&lt;/span&gt;&lt;span class="lnt"&gt;22
+&lt;/span&gt;&lt;span class="lnt"&gt;23
+&lt;/span&gt;&lt;span class="lnt"&gt;24
+&lt;/span&gt;&lt;span class="lnt"&gt;25
+&lt;/span&gt;&lt;span class="lnt"&gt;26
+&lt;/span&gt;&lt;span class="lnt"&gt;27
+&lt;/span&gt;&lt;span class="lnt"&gt;28
+&lt;/span&gt;&lt;span class="lnt"&gt;29
+&lt;/span&gt;&lt;span class="lnt"&gt;30
+&lt;/span&gt;&lt;span class="lnt"&gt;31
+&lt;/span&gt;&lt;span class="lnt"&gt;32
+&lt;/span&gt;&lt;span class="lnt"&gt;33
+&lt;/span&gt;&lt;span class="lnt"&gt;34
+&lt;/span&gt;&lt;span class="lnt"&gt;35
+&lt;/span&gt;&lt;span class="lnt"&gt;36
+&lt;/span&gt;&lt;span class="lnt"&gt;37
+&lt;/span&gt;&lt;span class="lnt"&gt;38
+&lt;/span&gt;&lt;span class="lnt"&gt;39
+&lt;/span&gt;&lt;span class="lnt"&gt;40
+&lt;/span&gt;&lt;span class="lnt"&gt;41
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;═════ 市值与股价参数 ════
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;当前股价 = 50.44 元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;总股本（稀释后）= 6.09 亿股
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;当前市值 = 307.4 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;汇率 = 不适用（人民币计价）
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;═════ 盈利参数 ════
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;集团净利润 A = 25.99 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;少数股东损益 B ≈ 0 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;GAAP 归母净利润 C = A − B = 25.99 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;主营经营利润（锚定口径）= 29.96 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;折旧摊销 D ≈ 8.00 亿元（基于固定资产8,531百万元，折旧率约5%+无形资产摊销估算）
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;资本开支 E ≈ 15.67 亿元（2024年投资现金流净额绝对值）
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;SBC ≈ 0 亿元（A股非股权激励为主）
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;═════ 现金与负债参数 ════
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;现金及等价物 = 77.89 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;受限现金 CC ≈ 0 亿元（⚠️未找到明细，保守假设为0）
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;短期投资（理财）= 15.36 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;持有至到期定期存款/理财 = 106.00 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;狭义现金合计 BB_narrow = 77.89 + 15.36 = 93.25 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;广义现金合计 BB = 199.25 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;合同负债/预收款 BB_contract ≈ 13.00 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;超广义现金 BB_super = 199.25 + 13.00 = 212.25 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;有息负债合计 = 87.90 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;狭义净现金 = 93.25 − 87.90 = 5.35 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;广义净现金 = 199.25 − 87.90 = 111.35 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;═════ 分配参数 ════
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;最新年报股息总额 = 15.02 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;最新年报归母净利润 = 25.99 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;最新年报支付率 = 57.80%
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;过去3年支付率序列 = [39.96%, 55.07%, 57.80%]
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;支付率均值 M_hist = 50.94%
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;最新派息信号 = DPS下降（10派24.8 vs 上年10派27.6），但支付率提升
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;年均回购金额 O = 0.79 亿元（仅2024年有回购）
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;支付率锚定值 M = 50.94%（3年均值）
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;═════ 估值基准参数 ════
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Rf（十年期国债）= 1.78%
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;门槛 II = max(3.5%, 1.78% + 2%) = max(3.5%, 3.78%) = 3.78%
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h3 id="模块一资本消耗强度"&gt;模块一：资本消耗强度&lt;/h3&gt;
+&lt;div class="data-section"&gt;&lt;div class="data-section-header"&gt;
+&lt;span class="data-section-title"&gt;资本消耗强度评估&lt;/span&gt;&lt;/div&gt;&lt;div class="data-section-content"&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;维度&lt;/th&gt;
+&lt;th&gt;评估&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;固定资产/总资产&lt;/td&gt;
+&lt;td&gt;24.2%&lt;/td&gt;
+&lt;td&gt;8,531/35,225，制造业特征明显&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Capex/OCF&lt;/td&gt;
+&lt;td&gt;28.5%&lt;/td&gt;
+&lt;td&gt;15.67/54.99，资本消耗中等&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Capex/营收&lt;/td&gt;
+&lt;td&gt;8.3%&lt;/td&gt;
+&lt;td&gt;15.67/189.25，属于中等水平&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;在建工程&lt;/td&gt;
+&lt;td&gt;5.50 亿元&lt;/td&gt;
+&lt;td&gt;占总资产1.6%，扩张节奏放缓&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="conclusion-box conclusion-info"&gt;&lt;div class="conclusion-title"&gt;资本消耗强度评级&lt;/div&gt;&lt;div class="conclusion-content"&gt;
+&lt;strong&gt;中等&lt;/strong&gt; — 制造业属性决定了需要持续资本投入，但Capex/OCF比率尚可，且在建工程占比低表明扩张已放缓。
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id="模块二收款模式"&gt;模块二：收款模式&lt;/h3&gt;
+&lt;div class="data-section"&gt;&lt;div class="data-section-header"&gt;
+&lt;span class="data-section-title"&gt;收款模式评估&lt;/span&gt;&lt;/div&gt;&lt;div class="data-section-content"&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;维度&lt;/th&gt;
+&lt;th&gt;评估&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;应收账款周转天数&lt;/td&gt;
+&lt;td&gt;24.58天&lt;/td&gt;
+&lt;td&gt;较短，收款效率高&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;应收/营收&lt;/td&gt;
+&lt;td&gt;6.5%&lt;/td&gt;
+&lt;td&gt;1,222/18,925，占比低&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;合同负债&lt;/td&gt;
+&lt;td&gt;≈13亿元&lt;/td&gt;
+&lt;td&gt;预收款模式存在，经销商先款后货&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;经营现金流/净利润&lt;/td&gt;
+&lt;td&gt;2.12×&lt;/td&gt;
+&lt;td&gt;54.99/25.99，现金流远超净利润&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="conclusion-box conclusion-info"&gt;&lt;div class="conclusion-title"&gt;收款模式评级&lt;/div&gt;&lt;div class="conclusion-content"&gt;
+&lt;strong&gt;偏预收/现结&lt;/strong&gt; — 经销商模式以先款后货为主，应收账款周转快，收款质量优秀。OCF/净利润&amp;gt;2倍，主要因为大量折旧摊销和定期存款利息收入。
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id="模块三竞争格局与护城河"&gt;模块三：竞争格局与护城河&lt;/h3&gt;
+&lt;h4 id="第一层非技术性护城河"&gt;第一层：非技术性护城河&lt;/h4&gt;
+&lt;div class="data-section"&gt;&lt;div class="data-section-header"&gt;
+&lt;span class="data-section-title"&gt;非技术性护城河评估&lt;/span&gt;&lt;/div&gt;&lt;div class="data-section-content"&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;护城河维度&lt;/th&gt;
+&lt;th&gt;评估&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;品牌优势&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;强&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;NPS净推荐值连续五年行业第一，橱柜市占率49%，衣柜36%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;规模效应&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;强&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;营收规模行业第一，五大智能化生产基地占地超2500亩&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;渠道网络&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;强&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;7,709+家门店，经销商网络覆盖广泛&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;转换成本&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;中&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;定制家居有一定设计/测量/安装转换成本，但非绝对壁垒&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;网络效应&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;弱&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;无显著网络效应&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h4 id="第二层技术性护城河"&gt;第二层：技术性护城河&lt;/h4&gt;
+&lt;div class="data-section"&gt;&lt;div class="data-section-header"&gt;
+&lt;span class="data-section-title"&gt;技术性护城河评估&lt;/span&gt;&lt;/div&gt;&lt;div class="data-section-content"&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;维度&lt;/th&gt;
+&lt;th&gt;评估&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;专利/技术壁垒&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;弱&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;定制家居技术壁垒不高，核心在信息化系统&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;数据壁垒&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;中&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;大量客户数据积累支撑精准营销和产品迭代&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;成本优势&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;中&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;规模采购+自产降低成本，但行业价格战加剧&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="conclusion-box conclusion-info"&gt;&lt;div class="conclusion-title"&gt;护城河评级&lt;/div&gt;&lt;div class="conclusion-content"&gt;
+&lt;strong&gt;窄护城河&lt;/strong&gt; — 品牌和规模构成一定护城河，但行业竞争加剧、价格战升级正在侵蚀护城河宽度。2024年净关店973家反映渠道压力。
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id="模块四周期性"&gt;模块四：周期性&lt;/h3&gt;
+&lt;div class="data-section"&gt;&lt;div class="data-section-header"&gt;
+&lt;span class="data-section-title"&gt;周期性评估&lt;/span&gt;&lt;/div&gt;&lt;div class="data-section-content"&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;维度&lt;/th&gt;
+&lt;th&gt;评估&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;与房地产相关性&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;高&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;家装市场&amp;quot;442&amp;quot;结构（新房40%+存量房40%+二手房20%），新房端受房地产直接影响&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;营收波动率&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;中高&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;5年营收CV≈14.7%，2024年营收-16.93%为30年首次大幅下降&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;利润波动率&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;中&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;净利率相对稳定（11-14%区间），成本弹性部分对冲收入波动&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;存量市场对冲&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;部分&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;存量房翻新需求增长，但不足以完全对冲新房下滑&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="conclusion-box conclusion-info"&gt;&lt;div class="conclusion-title"&gt;周期性评级&lt;/div&gt;&lt;div class="conclusion-content"&gt;
+&lt;strong&gt;弱周期&lt;/strong&gt; — 与房地产景气度相关但非强周期，存量翻新市场提供一定缓冲。当前处于行业调整期底部区域。
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id="模块五人力资本依赖"&gt;模块五：人力资本依赖&lt;/h3&gt;
+&lt;div class="data-section"&gt;&lt;div class="data-section-header"&gt;
+&lt;span class="data-section-title"&gt;人力资本依赖评估&lt;/span&gt;&lt;/div&gt;&lt;div class="data-section-content"&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;维度&lt;/th&gt;
+&lt;th&gt;评估&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;关键人依赖&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;中低&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;姚良松为核心创始人，但管理体系已建立&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;员工支付/营收&lt;/td&gt;
+&lt;td&gt;17.9%&lt;/td&gt;
+&lt;td&gt;3,397/18,925，人力成本占比中等&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;标准化程度&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;中高&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;信息化生产+标准化流程降低对个体依赖&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="conclusion-box conclusion-info"&gt;&lt;div class="conclusion-title"&gt;人力资本依赖评级&lt;/div&gt;&lt;div class="conclusion-content"&gt;
+&lt;strong&gt;低&lt;/strong&gt; — 制造业+经销商体系，对个体人力资本依赖度较低。
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id="模块六管理层与治理结构"&gt;模块六：管理层与治理结构&lt;/h3&gt;
+&lt;div class="data-section"&gt;&lt;div class="data-section-header"&gt;
+&lt;span class="data-section-title"&gt;管理层与治理结构评估&lt;/span&gt;&lt;/div&gt;&lt;div class="data-section-content"&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;维度&lt;/th&gt;
+&lt;th&gt;评估&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;股权集中度&lt;/td&gt;
+&lt;td&gt;极高&lt;/td&gt;
+&lt;td&gt;姚良松66.19%+姚良柏8.14%=家族74.33%，绝对控制&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;分红意愿&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;强&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;支付率从35%提升至58%，逆势加大分红&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;资本配置&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;中等偏下&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;证券投资两年亏损超1亿元，可转债下修转股价引发争议&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;治理独立性&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;偏弱&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;家族绝对控股，独立董事话语权有限&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;增持信号&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;正面&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;2025年12月一致行动人首次增持&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="conclusion-box conclusion-info"&gt;&lt;div class="conclusion-title"&gt;管理层评分&lt;/div&gt;&lt;div class="conclusion-content"&gt;
+&lt;strong&gt;一般&lt;/strong&gt; — 控股股东分红意愿强（对散户有利），但证券投资亏损和家族绝对控股带来治理隐忧。高分红背景下大股东累计分红近50亿元，需关注是否过度分配。
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id="模块七监管与政策风险"&gt;模块七：监管与政策风险&lt;/h3&gt;
+&lt;div class="data-section"&gt;&lt;div class="data-section-header"&gt;
+&lt;span class="data-section-title"&gt;监管与政策风险评估&lt;/span&gt;&lt;/div&gt;&lt;div class="data-section-content"&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;维度&lt;/th&gt;
+&lt;th&gt;评估&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;行业监管&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;低&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;家居行业监管相对宽松&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;ldquo;国补&amp;quot;政策&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;正面&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;家装消费品以旧换新补贴促进需求，合同负债增速亮眼&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;房地产政策&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;中性偏正&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;政策持续宽松但效果待验证&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;环保/质量监管&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;中&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;甲醛争议需关注，产品质量是长期风险&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="conclusion-box conclusion-info"&gt;&lt;div class="conclusion-title"&gt;监管与政策风险评级&lt;/div&gt;&lt;div class="conclusion-content"&gt;
+&lt;strong&gt;低&lt;/strong&gt; — 当前政策环境偏正面，&amp;ldquo;国补&amp;quot;政策直接利好。
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id="模块八mda-解读"&gt;模块八：MD&amp;amp;A 解读&lt;/h3&gt;
+&lt;div class="data-section"&gt;&lt;div class="data-section-header"&gt;
+&lt;span class="data-section-title"&gt;MD&amp;amp;A 解读评估&lt;/span&gt;&lt;/div&gt;&lt;div class="data-section-content"&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;维度&lt;/th&gt;
+&lt;th&gt;评估&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;经营回顾&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;坦诚&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;管理层坦承30年首次双降，归因清晰（房地产调整+需求不足+竞争加剧）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;前瞻指引&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;中性偏正&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;分田到户&amp;quot;改革推进中，2025年降幅收窄，Q1扣非净利润+86.2%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;资本配置意图&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;中性&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;高分红+可转债下修+闲置资金理财，缺乏明确增长投资方向&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;风险因素&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;充分披露&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;房地产超预期调整为最大风险&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="conclusion-box conclusion-info"&gt;&lt;div class="conclusion-title"&gt;MD&amp;amp;A 前瞻评级&lt;/div&gt;&lt;div class="conclusion-content"&gt;
+&lt;strong&gt;中性&lt;/strong&gt; — 管理层对困境认知清晰，改革方向正确但效果待验证。
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id="模块九控股折价分析"&gt;模块九：控股折价分析&lt;/h3&gt;
+&lt;div class="conclusion-box conclusion-info"&gt;&lt;div class="conclusion-title"&gt;控股折价分析&lt;/div&gt;&lt;div class="conclusion-content"&gt;
+&lt;strong&gt;不适用&lt;/strong&gt; — 欧派家居为经营性控股公司（非纯控股平台），子公司均为主营业务载体，不适用控股折价分析。
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id="因子-1b-定性参数汇总"&gt;因子 1B 定性参数汇总&lt;/h3&gt;
+&lt;div class="data-section"&gt;&lt;div class="data-section-header"&gt;
+&lt;span class="data-section-title"&gt;定性参数汇总&lt;/span&gt;&lt;/div&gt;&lt;div class="data-section-content"&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;参数&lt;/th&gt;
+&lt;th&gt;值&lt;/th&gt;
+&lt;th&gt;传递至&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;资本消耗强度&lt;/td&gt;
+&lt;td&gt;中等&lt;/td&gt;
+&lt;td&gt;因子3步骤5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;收款模式&lt;/td&gt;
+&lt;td&gt;偏预收/现结&lt;/td&gt;
+&lt;td&gt;因子3步骤1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;护城河评级&lt;/td&gt;
+&lt;td&gt;窄&lt;/td&gt;
+&lt;td&gt;因子4步骤2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;周期性&lt;/td&gt;
+&lt;td&gt;弱周期（当前底部区域）&lt;/td&gt;
+&lt;td&gt;因子4步骤3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;人力资本依赖&lt;/td&gt;
+&lt;td&gt;低&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;管理层评分&lt;/td&gt;
+&lt;td&gt;一般&lt;/td&gt;
+&lt;td&gt;因子4步骤2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;监管风险&lt;/td&gt;
+&lt;td&gt;低&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;MD&amp;amp;A前瞻&lt;/td&gt;
+&lt;td&gt;中性&lt;/td&gt;
+&lt;td&gt;因子4步骤2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section-divider"&gt;
+&lt;div class="section-icon"&gt;📈&lt;/div&gt;
+&lt;h2 class="section-title"&gt;因子 2：穿透回报率粗算&lt;/h2&gt;
+&lt;/div&gt;
+&lt;details class="code-collapse"&gt;
+&lt;summary class="code-collapse-summary"&gt;📊 展开计算过程&lt;/summary&gt;
+&lt;div class="code-collapse-content"&gt;
+&lt;h3 id="步骤-1归母净利润"&gt;步骤 1：归母净利润&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;C = 25.99 亿元（2024年度归母净利润）
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id="步骤-2owner-earnings-粗算"&gt;步骤 2：Owner Earnings 粗算&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;D（折旧摊销）≈ 8.00 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;G（维持性资本开支系数）= 0.60（制造业典型值）
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;H = D × G = 8.00 × 0.60 = 4.80 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I = C + D − H = 25.99 + 8.00 − 4.80 = 29.19 亿元（Owner Earnings）
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id="步骤-3分配能力验证"&gt;步骤 3：分配能力验证&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;OCF = 54.99 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;股息支付 = 15.02 亿元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;OCF &amp;gt; 股息支付 ✅ 通过
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id="步骤-4现金上游障碍"&gt;步骤 4：现金上游障碍&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A股直接持有，无跨境障碍
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Q（综合股息税率）= 0%（持股&amp;gt;1年免税）
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id="步骤-5分配意愿"&gt;步骤 5：分配意愿&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;过去3年支付率序列 = [39.96%, 55.07%, 57.80%]
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;M_hist = 50.94%
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;最新派息信号 = DPS下降但支付率提升，分配意愿增强
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;M（支付率锚定值）= 50.94%
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id="步骤-6可预测性"&gt;步骤 6：可预测性&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;营收波动率（5年CV）≈ 14.7% → 中等
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;行业处于调整期，可预测性中等偏低
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id="步骤-7税务泄漏修正"&gt;步骤 7：税务泄漏修正&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Q = 0%（A股个人持股&amp;gt;1年免税）
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;无需修正
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id="步骤-8粗算穿透回报率"&gt;步骤 8：粗算穿透回报率&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;R = [C × M × (1 − Q%) + O] / 当前市值
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; = [25.99 × 50.94% × (1 − 0%) + 0.79] / 307.4
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; = [13.24 + 0.79] / 307.4
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; = 14.03 / 307.4
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; = 4.56%
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id="粗算否决门判断"&gt;粗算否决门判断&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;II = 3.78%（A股门槛）
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;R = 4.56% &amp;gt; II = 3.78% ✅ 通过
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;R = 4.56% &amp;gt; II × 0.5 = 1.89% ✅ 通过
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;R = 4.56% &amp;gt; II ✅ 非边际不达标
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/details&gt;
+&lt;div class="conclusion-box conclusion-info"&gt;&lt;div class="conclusion-title"&gt;粗算结论&lt;/div&gt;&lt;div class="conclusion-content"&gt;
+&lt;strong&gt;通过&lt;/strong&gt; ✅ R = 4.56% &amp;gt; II = 3.78%，安全边际 0.78 pct，进入因子 3 精算。
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section-divider"&gt;
+&lt;div class="section-icon"&gt;💰&lt;/div&gt;
+&lt;h2 class="section-title"&gt;因子 3：穿透回报率精算&lt;/h2&gt;
+&lt;/div&gt;
+&lt;details class="code-collapse"&gt;
+&lt;summary class="code-collapse-summary"&gt;📊 展开计算过程&lt;/summary&gt;
+&lt;div class="code-collapse-content"&gt;
+&lt;h3 id="步骤-1真实现金收入还原"&gt;步骤 1：真实现金收入还原&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;S（营业收入）= 18,925 百万元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;T（应收账款净变动）= +122 百万元（2024年末1,222 vs 2023年末估≈1,100，增加为正）
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;U（预收款/合同负债净变动）= 0 百万元（保守处理，不加回）
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;保守处理：
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- 应收账款净增加122百万元 → 扣除（收入未收到现金）
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- 预收款净变动 → 不加回（保守处理）
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;真实现金收入 = S − T净增加 = 18,925 − 122 = 18,803 百万元
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;收款比率 = 18,803 / 18,925 = 99.4%
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;strong&gt;收款比率99.4%，接近1，收款质量优秀。&lt;/strong&gt;&lt;/p&gt;</description></item><item><title/><link>/reports/603833/data_pack_market/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/reports/603833/data_pack_market/</guid><description>&lt;h1 id="稳健投资策略---市场数据采集包"&gt;稳健投资策略 - 市场数据采集包&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;值&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;股票代码&lt;/td&gt;
+&lt;td&gt;603833&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;公司名称&lt;/td&gt;
+&lt;td&gt;欧派家居集团股份有限公司&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;持股渠道&lt;/td&gt;
+&lt;td&gt;A股直接持有&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;目标年份&lt;/td&gt;
+&lt;td&gt;2025&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;数据采集时间&lt;/td&gt;
+&lt;td&gt;2026-04-15 17:30:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;金额单位&lt;/td&gt;
+&lt;td&gt;报表币种百万元（除非另有标注）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;数据来源标注&lt;/td&gt;
+&lt;td&gt;每项数据后标注实际使用工具&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;一基础市场数据股价市值股息回购&#34;&gt;一、基础市场数据（股价/市值/股息/回购）&lt;/h2&gt;
-&lt;h3 id=&#34;11-实时股价与估值&#34;&gt;1.1 实时股价与估值&lt;/h3&gt;
+&lt;h2 id="一基础市场数据股价市值股息回购"&gt;一、基础市场数据（股价/市值/股息/回购）&lt;/h2&gt;
+&lt;h3 id="11-实时股价与估值"&gt;1.1 实时股价与估值&lt;/h3&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;指标&lt;/th&gt;
-          &lt;th&gt;数值&lt;/th&gt;
-          &lt;th&gt;数据来源&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;当前股价&lt;/td&gt;
-          &lt;td&gt;50.44 元&lt;/td&gt;
-          &lt;td&gt;AI-Tools QueryStockPriceInfo&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;涨跌幅&lt;/td&gt;
-          &lt;td&gt;-0.26%&lt;/td&gt;
-          &lt;td&gt;AI-Tools QueryStockPriceInfo&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;总股本&lt;/td&gt;
-          &lt;td&gt;6.09亿股（60,915.29万股）&lt;/td&gt;
-          &lt;td&gt;WebSearch（新浪财经）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;流通股本&lt;/td&gt;
-          &lt;td&gt;6.09亿股（全流通）&lt;/td&gt;
-          &lt;td&gt;WebSearch（新浪财经）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;总市值&lt;/td&gt;
-          &lt;td&gt;约307.4亿元（50.44 x 6.09）&lt;/td&gt;
-          &lt;td&gt;计算值&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;流通市值&lt;/td&gt;
-          &lt;td&gt;约307.4亿元&lt;/td&gt;
-          &lt;td&gt;计算值&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;市盈率（TTM）&lt;/td&gt;
-          &lt;td&gt;13.79&lt;/td&gt;
-          &lt;td&gt;WebSearch（雪球）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;市净率&lt;/td&gt;
-          &lt;td&gt;1.75&lt;/td&gt;
-          &lt;td&gt;WebSearch（雪球）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;每股收益（TTM）&lt;/td&gt;
-          &lt;td&gt;3.01 元&lt;/td&gt;
-          &lt;td&gt;WebSearch（雪球）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;每股净资产&lt;/td&gt;
-          &lt;td&gt;31.10 元&lt;/td&gt;
-          &lt;td&gt;AI-Tools GetFinancialIndicators&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;指标&lt;/th&gt;
+&lt;th&gt;数值&lt;/th&gt;
+&lt;th&gt;数据来源&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;当前股价&lt;/td&gt;
+&lt;td&gt;50.44 元&lt;/td&gt;
+&lt;td&gt;AI-Tools QueryStockPriceInfo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;涨跌幅&lt;/td&gt;
+&lt;td&gt;-0.26%&lt;/td&gt;
+&lt;td&gt;AI-Tools QueryStockPriceInfo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;总股本&lt;/td&gt;
+&lt;td&gt;6.09亿股（60,915.29万股）&lt;/td&gt;
+&lt;td&gt;WebSearch（新浪财经）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;流通股本&lt;/td&gt;
+&lt;td&gt;6.09亿股（全流通）&lt;/td&gt;
+&lt;td&gt;WebSearch（新浪财经）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;总市值&lt;/td&gt;
+&lt;td&gt;约307.4亿元（50.44 x 6.09）&lt;/td&gt;
+&lt;td&gt;计算值&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;流通市值&lt;/td&gt;
+&lt;td&gt;约307.4亿元&lt;/td&gt;
+&lt;td&gt;计算值&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;市盈率（TTM）&lt;/td&gt;
+&lt;td&gt;13.79&lt;/td&gt;
+&lt;td&gt;WebSearch（雪球）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;市净率&lt;/td&gt;
+&lt;td&gt;1.75&lt;/td&gt;
+&lt;td&gt;WebSearch（雪球）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;每股收益（TTM）&lt;/td&gt;
+&lt;td&gt;3.01 元&lt;/td&gt;
+&lt;td&gt;WebSearch（雪球）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;每股净资产&lt;/td&gt;
+&lt;td&gt;31.10 元&lt;/td&gt;
+&lt;td&gt;AI-Tools GetFinancialIndicators&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h3 id=&#34;12-股息率与分红历史&#34;&gt;1.2 股息率与分红历史&lt;/h3&gt;
+&lt;h3 id="12-股息率与分红历史"&gt;1.2 股息率与分红历史&lt;/h3&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;指标&lt;/th&gt;
-          &lt;th&gt;数值&lt;/th&gt;
-          &lt;th&gt;数据来源&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;股息率（TTM）&lt;/td&gt;
-          &lt;td&gt;6.80%&lt;/td&gt;
-          &lt;td&gt;WebSearch（雪球）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;股息（TTM）&lt;/td&gt;
-          &lt;td&gt;3.70 元/股&lt;/td&gt;
-          &lt;td&gt;WebSearch（雪球）&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;指标&lt;/th&gt;
+&lt;th&gt;数值&lt;/th&gt;
+&lt;th&gt;数据来源&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;股息率（TTM）&lt;/td&gt;
+&lt;td&gt;6.80%&lt;/td&gt;
+&lt;td&gt;WebSearch（雪球）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;股息（TTM）&lt;/td&gt;
+&lt;td&gt;3.70 元/股&lt;/td&gt;
+&lt;td&gt;WebSearch（雪球）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;年度分红记录：&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>/reports/603833/data_pack_report/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/reports/603833/data_pack_report/</guid>
-      <description>&lt;h1 id=&#34;欧派家居603833-深度财务数据采集报告&#34;&gt;欧派家居(603833) 深度财务数据采集报告&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;年度分红记录：&lt;/strong&gt;&lt;/p&gt;</description></item><item><title/><link>/reports/603833/data_pack_report/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/reports/603833/data_pack_report/</guid><description>&lt;h1 id="欧派家居603833-深度财务数据采集报告"&gt;欧派家居(603833) 深度财务数据采集报告&lt;/h1&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;项目&lt;/th&gt;
-          &lt;th&gt;内容&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;数据采集时间&lt;/td&gt;
-          &lt;td&gt;2026-04-15&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;金额单位&lt;/td&gt;
-          &lt;td&gt;报表币种百万元（人民币），特别标注除外&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;数据来源&lt;/td&gt;
-          &lt;td&gt;AI-Tools MCP（GetBalanceSheet/GetIncomeStatement/GetCashFlowStatement/GetFinancialIndicators/GetFinancialReport）、WebSearch（东方财富/新浪财经/上交所/证券时报/中财网/雪球等公开信息）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;目标年份&lt;/td&gt;
-          &lt;td&gt;2025（最新可用年报为2024年度，季报至2025Q3）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;备注&lt;/td&gt;
-          &lt;td&gt;东方财富妙想API（mx_finance_data/mx_finance_search/mx_financial_assistant）使用次数已达上限，部分数据由WebSearch补充&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;项目&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;数据采集时间&lt;/td&gt;
+&lt;td&gt;2026-04-15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;金额单位&lt;/td&gt;
+&lt;td&gt;报表币种百万元（人民币），特别标注除外&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;数据来源&lt;/td&gt;
+&lt;td&gt;AI-Tools MCP（GetBalanceSheet/GetIncomeStatement/GetCashFlowStatement/GetFinancialIndicators/GetFinancialReport）、WebSearch（东方财富/新浪财经/上交所/证券时报/中财网/雪球等公开信息）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;目标年份&lt;/td&gt;
+&lt;td&gt;2025（最新可用年报为2024年度，季报至2025Q3）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;备注&lt;/td&gt;
+&lt;td&gt;东方财富妙想API（mx_finance_data/mx_finance_search/mx_financial_assistant）使用次数已达上限，部分数据由WebSearch补充&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;一母公司单体资产负债表数据&#34;&gt;一、母公司单体资产负债表数据&lt;/h2&gt;
+&lt;h2 id="一母公司单体资产负债表数据"&gt;一、母公司单体资产负债表数据&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;数据来源：AI-Tools MCP GetBalanceSheet（合并报表口径，含单体报表主要科目）&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h3 id=&#34;11-资产端明细&#34;&gt;1.1 资产端明细&lt;/h3&gt;
+&lt;h3 id="11-资产端明细"&gt;1.1 资产端明细&lt;/h3&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;科目&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2024-12-31&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2025-03-31&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2025-06-30&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2025-09-30&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;总资产&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;35,225.31&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;35,310.36&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;35,795.92&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;35,365.43&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;流动资产&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;14,796.33&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;12,862.42&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;14,033.98&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;14,842.85&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;货币资金&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;7,789.46&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;5,116.73&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;5,841.76&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;4,819.82&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;应收账款&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,222.30&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,244.30&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,255.05&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,282.03&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;存货&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;806.35&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;784.45&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;730.20&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;632.36&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;固定资产&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;8,530.98&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;8,319.44&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;8,184.04&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;8,166.24&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;在建工程&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;550.09&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;590.73&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;539.44&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;225.11&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;无形资产&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,019.46&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,014.01&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,004.21&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;998.17&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;资本公积&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;4,357.08&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;4,357.08&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;4,357.08&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;4,357.10&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;科目&lt;/th&gt;
+&lt;th style="text-align: right"&gt;2024-12-31&lt;/th&gt;
+&lt;th style="text-align: right"&gt;2025-03-31&lt;/th&gt;
+&lt;th style="text-align: right"&gt;2025-06-30&lt;/th&gt;
+&lt;th style="text-align: right"&gt;2025-09-30&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;总资产&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: right"&gt;35,225.31&lt;/td&gt;
+&lt;td style="text-align: right"&gt;35,310.36&lt;/td&gt;
+&lt;td style="text-align: right"&gt;35,795.92&lt;/td&gt;
+&lt;td style="text-align: right"&gt;35,365.43&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;流动资产&lt;/td&gt;
+&lt;td style="text-align: right"&gt;14,796.33&lt;/td&gt;
+&lt;td style="text-align: right"&gt;12,862.42&lt;/td&gt;
+&lt;td style="text-align: right"&gt;14,033.98&lt;/td&gt;
+&lt;td style="text-align: right"&gt;14,842.85&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;货币资金&lt;/td&gt;
+&lt;td style="text-align: right"&gt;7,789.46&lt;/td&gt;
+&lt;td style="text-align: right"&gt;5,116.73&lt;/td&gt;
+&lt;td style="text-align: right"&gt;5,841.76&lt;/td&gt;
+&lt;td style="text-align: right"&gt;4,819.82&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;应收账款&lt;/td&gt;
+&lt;td style="text-align: right"&gt;1,222.30&lt;/td&gt;
+&lt;td style="text-align: right"&gt;1,244.30&lt;/td&gt;
+&lt;td style="text-align: right"&gt;1,255.05&lt;/td&gt;
+&lt;td style="text-align: right"&gt;1,282.03&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;存货&lt;/td&gt;
+&lt;td style="text-align: right"&gt;806.35&lt;/td&gt;
+&lt;td style="text-align: right"&gt;784.45&lt;/td&gt;
+&lt;td style="text-align: right"&gt;730.20&lt;/td&gt;
+&lt;td style="text-align: right"&gt;632.36&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;固定资产&lt;/td&gt;
+&lt;td style="text-align: right"&gt;8,530.98&lt;/td&gt;
+&lt;td style="text-align: right"&gt;8,319.44&lt;/td&gt;
+&lt;td style="text-align: right"&gt;8,184.04&lt;/td&gt;
+&lt;td style="text-align: right"&gt;8,166.24&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;在建工程&lt;/td&gt;
+&lt;td style="text-align: right"&gt;550.09&lt;/td&gt;
+&lt;td style="text-align: right"&gt;590.73&lt;/td&gt;
+&lt;td style="text-align: right"&gt;539.44&lt;/td&gt;
+&lt;td style="text-align: right"&gt;225.11&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;无形资产&lt;/td&gt;
+&lt;td style="text-align: right"&gt;1,019.46&lt;/td&gt;
+&lt;td style="text-align: right"&gt;1,014.01&lt;/td&gt;
+&lt;td style="text-align: right"&gt;1,004.21&lt;/td&gt;
+&lt;td style="text-align: right"&gt;998.17&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;资本公积&lt;/td&gt;
+&lt;td style="text-align: right"&gt;4,357.08&lt;/td&gt;
+&lt;td style="text-align: right"&gt;4,357.08&lt;/td&gt;
+&lt;td style="text-align: right"&gt;4,357.08&lt;/td&gt;
+&lt;td style="text-align: right"&gt;4,357.10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h3 id=&#34;12-负债端明细&#34;&gt;1.2 负债端明细&lt;/h3&gt;
+&lt;h3 id="12-负债端明细"&gt;1.2 负债端明细&lt;/h3&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;科目&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2024-12-31&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2025-03-31&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2025-06-30&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2025-09-30&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;总负债&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;16,166.38&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;15,950.21&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;17,223.17&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;15,988.35&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;流动负债&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;13,717.78&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;13,494.88&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;14,763.16&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;13,509.43&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;应付账款&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,408.56&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,339.58&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,312.12&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,217.13&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;长期借款&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;3.51&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;3.34&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1.98&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1.97&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;递延所得税负债&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;199.97&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;195.55&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;180.69&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;188.29&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;其他长期负债&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;682.83&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;666.51&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;649.32&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;664.36&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;少数股东权益&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;6.65&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;8.07&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;9.68&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;8.87&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;科目&lt;/th&gt;
+&lt;th style="text-align: right"&gt;2024-12-31&lt;/th&gt;
+&lt;th style="text-align: right"&gt;2025-03-31&lt;/th&gt;
+&lt;th style="text-align: right"&gt;2025-06-30&lt;/th&gt;
+&lt;th style="text-align: right"&gt;2025-09-30&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;总负债&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: right"&gt;16,166.38&lt;/td&gt;
+&lt;td style="text-align: right"&gt;15,950.21&lt;/td&gt;
+&lt;td style="text-align: right"&gt;17,223.17&lt;/td&gt;
+&lt;td style="text-align: right"&gt;15,988.35&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;流动负债&lt;/td&gt;
+&lt;td style="text-align: right"&gt;13,717.78&lt;/td&gt;
+&lt;td style="text-align: right"&gt;13,494.88&lt;/td&gt;
+&lt;td style="text-align: right"&gt;14,763.16&lt;/td&gt;
+&lt;td style="text-align: right"&gt;13,509.43&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;应付账款&lt;/td&gt;
+&lt;td style="text-align: right"&gt;1,408.56&lt;/td&gt;
+&lt;td style="text-align: right"&gt;1,339.58&lt;/td&gt;
+&lt;td style="text-align: right"&gt;1,312.12&lt;/td&gt;
+&lt;td style="text-align: right"&gt;1,217.13&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;长期借款&lt;/td&gt;
+&lt;td style="text-align: right"&gt;3.51&lt;/td&gt;
+&lt;td style="text-align: right"&gt;3.34&lt;/td&gt;
+&lt;td style="text-align: right"&gt;1.98&lt;/td&gt;
+&lt;td style="text-align: right"&gt;1.97&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;递延所得税负债&lt;/td&gt;
+&lt;td style="text-align: right"&gt;199.97&lt;/td&gt;
+&lt;td style="text-align: right"&gt;195.55&lt;/td&gt;
+&lt;td style="text-align: right"&gt;180.69&lt;/td&gt;
+&lt;td style="text-align: right"&gt;188.29&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;其他长期负债&lt;/td&gt;
+&lt;td style="text-align: right"&gt;682.83&lt;/td&gt;
+&lt;td style="text-align: right"&gt;666.51&lt;/td&gt;
+&lt;td style="text-align: right"&gt;649.32&lt;/td&gt;
+&lt;td style="text-align: right"&gt;664.36&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;少数股东权益&lt;/td&gt;
+&lt;td style="text-align: right"&gt;6.65&lt;/td&gt;
+&lt;td style="text-align: right"&gt;8.07&lt;/td&gt;
+&lt;td style="text-align: right"&gt;9.68&lt;/td&gt;
+&lt;td style="text-align: right"&gt;8.87&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h3 id=&#34;13-权益端明细&#34;&gt;1.3 权益端明细&lt;/h3&gt;
+&lt;h3 id="13-权益端明细"&gt;1.3 权益端明细&lt;/h3&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;科目&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2024-12-31&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2025-03-31&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2025-06-30&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2025-09-30&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;股东权益&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;19,058.93&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;19,360.15&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;18,572.75&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;19,377.08&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;每股净资产(元)&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;30.58&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;31.07&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;29.78&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;31.10&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;每股资本公积金(元)&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;7.15&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;7.15&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;7.15&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;7.15&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;每股未分配利润(元)&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;22.42&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;22.92&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;21.64&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;22.98&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;科目&lt;/th&gt;
+&lt;th style="text-align: right"&gt;2024-12-31&lt;/th&gt;
+&lt;th style="text-align: right"&gt;2025-03-31&lt;/th&gt;
+&lt;th style="text-align: right"&gt;2025-06-30&lt;/th&gt;
+&lt;th style="text-align: right"&gt;2025-09-30&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;股东权益&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: right"&gt;19,058.93&lt;/td&gt;
+&lt;td style="text-align: right"&gt;19,360.15&lt;/td&gt;
+&lt;td style="text-align: right"&gt;18,572.75&lt;/td&gt;
+&lt;td style="text-align: right"&gt;19,377.08&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;每股净资产(元)&lt;/td&gt;
+&lt;td style="text-align: right"&gt;30.58&lt;/td&gt;
+&lt;td style="text-align: right"&gt;31.07&lt;/td&gt;
+&lt;td style="text-align: right"&gt;29.78&lt;/td&gt;
+&lt;td style="text-align: right"&gt;31.10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;每股资本公积金(元)&lt;/td&gt;
+&lt;td style="text-align: right"&gt;7.15&lt;/td&gt;
+&lt;td style="text-align: right"&gt;7.15&lt;/td&gt;
+&lt;td style="text-align: right"&gt;7.15&lt;/td&gt;
+&lt;td style="text-align: right"&gt;7.15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;每股未分配利润(元)&lt;/td&gt;
+&lt;td style="text-align: right"&gt;22.42&lt;/td&gt;
+&lt;td style="text-align: right"&gt;22.92&lt;/td&gt;
+&lt;td style="text-align: right"&gt;21.64&lt;/td&gt;
+&lt;td style="text-align: right"&gt;22.98&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h3 id=&#34;14-关键比率&#34;&gt;1.4 关键比率&lt;/h3&gt;
+&lt;h3 id="14-关键比率"&gt;1.4 关键比率&lt;/h3&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;指标&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2024-12-31&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2025-03-31&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2025-06-30&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2025-09-30&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;资产负债率(%)&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;45.89&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;45.17&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;48.11&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;45.21&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;流动比率&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1.08&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;0.95&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;0.95&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1.10&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;速动比率&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;0.78&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;0.65&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;0.66&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;0.75&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;权益乘数&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1.85&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1.82&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1.93&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1.83&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;指标&lt;/th&gt;
+&lt;th style="text-align: right"&gt;2024-12-31&lt;/th&gt;
+&lt;th style="text-align: right"&gt;2025-03-31&lt;/th&gt;
+&lt;th style="text-align: right"&gt;2025-06-30&lt;/th&gt;
+&lt;th style="text-align: right"&gt;2025-09-30&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;资产负债率(%)&lt;/td&gt;
+&lt;td style="text-align: right"&gt;45.89&lt;/td&gt;
+&lt;td style="text-align: right"&gt;45.17&lt;/td&gt;
+&lt;td style="text-align: right"&gt;48.11&lt;/td&gt;
+&lt;td style="text-align: right"&gt;45.21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;流动比率&lt;/td&gt;
+&lt;td style="text-align: right"&gt;1.08&lt;/td&gt;
+&lt;td style="text-align: right"&gt;0.95&lt;/td&gt;
+&lt;td style="text-align: right"&gt;0.95&lt;/td&gt;
+&lt;td style="text-align: right"&gt;1.10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;速动比率&lt;/td&gt;
+&lt;td style="text-align: right"&gt;0.78&lt;/td&gt;
+&lt;td style="text-align: right"&gt;0.65&lt;/td&gt;
+&lt;td style="text-align: right"&gt;0.66&lt;/td&gt;
+&lt;td style="text-align: right"&gt;0.75&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;权益乘数&lt;/td&gt;
+&lt;td style="text-align: right"&gt;1.85&lt;/td&gt;
+&lt;td style="text-align: right"&gt;1.82&lt;/td&gt;
+&lt;td style="text-align: right"&gt;1.93&lt;/td&gt;
+&lt;td style="text-align: right"&gt;1.83&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;二受限现金与应收账款明细&#34;&gt;二、受限现金与应收账款明细&lt;/h2&gt;
-&lt;h3 id=&#34;21-货币资金与受限现金&#34;&gt;2.1 货币资金与受限现金&lt;/h3&gt;
+&lt;h2 id="二受限现金与应收账款明细"&gt;二、受限现金与应收账款明细&lt;/h2&gt;
+&lt;h3 id="21-货币资金与受限现金"&gt;2.1 货币资金与受限现金&lt;/h3&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;项目&lt;/th&gt;
-          &lt;th style=&#34;text-align: right&#34;&gt;2024-12-31&lt;/th&gt;
-          &lt;th&gt;备注&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;货币资金（合计）&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;7,789.46&lt;/td&gt;
-          &lt;td&gt;AI-Tools MCP&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;其中：现金及现金等价物&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;7,789.46&lt;/td&gt;
-          &lt;td&gt;AI-Tools MCP&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;交易性金融资产（银行理财）&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;1,536.00&lt;/td&gt;
-          &lt;td&gt;雪球/年报数据&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;一年内到期的非流动资产（定期存款及利息）&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;2,840.00&lt;/td&gt;
-          &lt;td&gt;雪球/年报数据&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;其他流动资产（短期定期存款利息）&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;111.00&lt;/td&gt;
-          &lt;td&gt;雪球/年报数据&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;其他非流动资产（一年以上定期存款及利息）&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;7,649.00&lt;/td&gt;
-          &lt;td&gt;雪球/年报数据&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;类现金资产合计&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: right&#34;&gt;&lt;strong&gt;约19,925.46&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;货币资金+理财+定期存款&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;项目&lt;/th&gt;
+&lt;th style="text-align: right"&gt;2024-12-31&lt;/th&gt;
+&lt;th&gt;备注&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;货币资金（合计）&lt;/td&gt;
+&lt;td style="text-align: right"&gt;7,789.46&lt;/td&gt;
+&lt;td&gt;AI-Tools MCP&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;其中：现金及现金等价物&lt;/td&gt;
+&lt;td style="text-align: right"&gt;7,789.46&lt;/td&gt;
+&lt;td&gt;AI-Tools MCP&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;交易性金融资产（银行理财）&lt;/td&gt;
+&lt;td style="text-align: right"&gt;1,536.00&lt;/td&gt;
+&lt;td&gt;雪球/年报数据&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;一年内到期的非流动资产（定期存款及利息）&lt;/td&gt;
+&lt;td style="text-align: right"&gt;2,840.00&lt;/td&gt;
+&lt;td&gt;雪球/年报数据&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;其他流动资产（短期定期存款利息）&lt;/td&gt;
+&lt;td style="text-align: right"&gt;111.00&lt;/td&gt;
+&lt;td&gt;雪球/年报数据&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;其他非流动资产（一年以上定期存款及利息）&lt;/td&gt;
+&lt;td style="text-align: right"&gt;7,649.00&lt;/td&gt;
+&lt;td&gt;雪球/年报数据&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;类现金资产合计&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: right"&gt;&lt;strong&gt;约19,925.46&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;货币资金+理财+定期存款&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;blockquote&gt;
-&lt;p&gt;说明：根据雪球用户对2024年报的拆解，欧派家居的&amp;quot;类现金资产&amp;quot;（货币资金+银行理财+各期限定期存款）合计约199.25亿元，远超报表货币资金77.89亿元的口径。受限现金的具体金额需查阅年报附注，⚠️未找到：受限现金具体明细（需年报附注&amp;quot;货币资金&amp;quot;科目披露）&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>/reports/603833/%E6%AC%A7%E6%B4%BE%E5%AE%B6%E5%B1%85_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/reports/603833/%E6%AC%A7%E6%B4%BE%E5%AE%B6%E5%B1%85_%E7%A8%B3%E5%81%A5%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A/</guid>
-      <description>&lt;h1 id=&#34;稳健投资策略分析报告欧派家居603833&#34;&gt;稳健投资策略分析报告：欧派家居（603833）&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;分析日期&lt;/strong&gt;：2026-04-15
-&lt;strong&gt;数据截止&lt;/strong&gt;：2025年三季报（2025-09-30），年报数据以2024年度为主
-&lt;strong&gt;分析师&lt;/strong&gt;：稳健投资策略 v2.0 主代理&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;第一部分因子-1a--五分钟快筛一票否决&#34;&gt;第一部分：因子 1A — 五分钟快筛（一票否决）&lt;/h2&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;序号&lt;/th&gt;
-          &lt;th&gt;检查项&lt;/th&gt;
-          &lt;th&gt;结果&lt;/th&gt;
-          &lt;th&gt;说明&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
-          &lt;td&gt;审计意见异常&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;2024年度审计意见为&lt;strong&gt;标准无保留意见&lt;/strong&gt;，审计机构为华兴会计师事务所（特殊普通合伙）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
-          &lt;td&gt;频繁更换审计师&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;华兴会计师事务所近年持续为公司提供审计服务，未发现更换记录&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
-          &lt;td&gt;财务造假或重大违规前科&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;未发现财务造假或重大违规记录，税务信用等级A级（2024年）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
-          &lt;td&gt;看不懂（无法理解商业模式）&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;商业模式清晰：定制家居设计、生产、销售，覆盖橱柜/衣柜/卫浴/木门等七大品类，经销+直营+整装多渠道&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
-          &lt;td&gt;商业模式未被验证&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;公司成立30年，上市8年，行业龙头地位稳固，商业模式已被充分验证&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
-          &lt;td&gt;控股股东重大负面信号&lt;/td&gt;
-          &lt;td&gt;✅ 否&lt;/td&gt;
-          &lt;td&gt;实控人姚良松直接持股66.19%，2025年12月一致行动人首次增持；但需关注高分红背景下大股东累计分红近50亿元&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id=&#34;快筛结论通过-&#34;&gt;快筛结论：&lt;strong&gt;通过&lt;/strong&gt; ✅&lt;/h3&gt;
-&lt;p&gt;六项检查均未触发一票否决，进入因子 1B 深度分析。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;第二部分因子-1b--深度定性分析&#34;&gt;第二部分：因子 1B — 深度定性分析&lt;/h2&gt;
-&lt;h3 id=&#34;模块三大报表基础数据与关键指标&#34;&gt;模块〇：三大报表基础数据与关键指标&lt;/h3&gt;
-&lt;h4 id=&#34;利润表核心数据百万元&#34;&gt;利润表核心数据（百万元）&lt;/h4&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;项目&lt;/th&gt;
-          &lt;th&gt;2020&lt;/th&gt;
-          &lt;th&gt;2021&lt;/th&gt;
-          &lt;th&gt;2022&lt;/th&gt;
-          &lt;th&gt;2023&lt;/th&gt;
-          &lt;th&gt;2024&lt;/th&gt;
-          &lt;th&gt;来源&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;营业收入&lt;/td&gt;
-          &lt;td&gt;14,740&lt;/td&gt;
-          &lt;td&gt;20,442&lt;/td&gt;
-          &lt;td&gt;22,480&lt;/td&gt;
-          &lt;td&gt;22,782&lt;/td&gt;
-          &lt;td&gt;18,925&lt;/td&gt;
-          &lt;td&gt;AI-Tools + WebSearch&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;营业成本&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;12,129&lt;/td&gt;
-          &lt;td&gt;由毛利率35.91%推算&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;毛利润&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;6,796&lt;/td&gt;
-          &lt;td&gt;推算值&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;税金及附加&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;171&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;销售费用&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;1,893&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;管理费用&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;1,301&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;研发费用&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;1,023&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;财务费用&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;-249&lt;/td&gt;
-          &lt;td&gt;AI-Tools（净收入）&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;营业利润&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;2,996&lt;/td&gt;
-          &lt;td&gt;AI-Tools&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;归母净利润&lt;/td&gt;
-          &lt;td&gt;2,063&lt;/td&gt;
-          &lt;td&gt;2,666&lt;/td&gt;
-          &lt;td&gt;2,688&lt;/td&gt;
-          &lt;td&gt;3,036&lt;/td&gt;
-          &lt;td&gt;2,599&lt;/td&gt;
-          &lt;td&gt;AI-Tools + WebSearch&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;少数股东损益&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;≈0&lt;/td&gt;
-          &lt;td&gt;极小&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;扣非归母净利润&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;2,746&lt;/td&gt;
-          &lt;td&gt;2,316&lt;/td&gt;
-          &lt;td&gt;WebSearch&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 id=&#34;关键盈利能力指标&#34;&gt;关键盈利能力指标&lt;/h4&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;指标&lt;/th&gt;
-          &lt;th&gt;2020&lt;/th&gt;
-          &lt;th&gt;2021&lt;/th&gt;
-          &lt;th&gt;2022&lt;/th&gt;
-          &lt;th&gt;2023&lt;/th&gt;
-          &lt;th&gt;2024&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;毛利率(%)&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;34.15&lt;/td&gt;
-          &lt;td&gt;35.91&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;净利率(%)&lt;/td&gt;
-          &lt;td&gt;14.00&lt;/td&gt;
-          &lt;td&gt;13.04&lt;/td&gt;
-          &lt;td&gt;11.96&lt;/td&gt;
-          &lt;td&gt;13.33&lt;/td&gt;
-          &lt;td&gt;13.76&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;销售费用率(%)&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;10.00&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;管理费用率(%)&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;6.88&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;研发费用率(%)&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;5.41&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;有效税率(%)&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;≈18&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 id=&#34;资产负债表核心数据百万元&#34;&gt;资产负债表核心数据（百万元）&lt;/h4&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;项目&lt;/th&gt;
-          &lt;th&gt;2020&lt;/th&gt;
-          &lt;th&gt;2021&lt;/th&gt;
-          &lt;th&gt;2022&lt;/th&gt;
-          &lt;th&gt;2023&lt;/th&gt;
-          &lt;th&gt;2024-12-31&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;货币资金&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;7,789&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;交易性金融资产（理财）&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;1,536&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;定期存款（各期限）&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;10,600&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;广义现金合计&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;19,925&lt;/strong&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;应收账款&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;1,222&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;存货&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;806&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;流动资产&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;14,796&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;固定资产&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;8,531&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;在建工程&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;550&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;商誉&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;≈0&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;无形资产&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;1,019&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;总资产&lt;/td&gt;
-          &lt;td&gt;18,844&lt;/td&gt;
-          &lt;td&gt;23,393&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;34,347&lt;/td&gt;
-          &lt;td&gt;35,225&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;短期借款&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;6,974&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;长期借款&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;4&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;应付债券（可转债）&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;1,813&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;有息负债合计&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;8,790&lt;/strong&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;合同负债&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;≈1,300&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;总负债&lt;/td&gt;
-          &lt;td&gt;6,919&lt;/td&gt;
-          &lt;td&gt;8,984&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;16,231&lt;/td&gt;
-          &lt;td&gt;16,166&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;股东权益&lt;/td&gt;
-          &lt;td&gt;11,925&lt;/td&gt;
-          &lt;td&gt;14,409&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;18,116&lt;/td&gt;
-          &lt;td&gt;19,059&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 id=&#34;现金流量表核心数据百万元&#34;&gt;现金流量表核心数据（百万元）&lt;/h4&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;项目&lt;/th&gt;
-          &lt;th&gt;2020&lt;/th&gt;
-          &lt;th&gt;2021&lt;/th&gt;
-          &lt;th&gt;2022&lt;/th&gt;
-          &lt;th&gt;2023&lt;/th&gt;
-          &lt;th&gt;2024&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;OCF&lt;/td&gt;
-          &lt;td&gt;3,889&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;2,410&lt;/td&gt;
-          &lt;td&gt;4,878&lt;/td&gt;
-          &lt;td&gt;5,499&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;投资CF&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;-1,567&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;筹资CF&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;-3,376&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Capex（估）&lt;/td&gt;
-          &lt;td&gt;≈1,200&lt;/td&gt;
-          &lt;td&gt;≈1,500&lt;/td&gt;
-          &lt;td&gt;≈1,500&lt;/td&gt;
-          &lt;td&gt;≈1,500&lt;/td&gt;
-          &lt;td&gt;≈1,567&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;FCF（估）&lt;/td&gt;
-          &lt;td&gt;≈2,689&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;≈910&lt;/td&gt;
-          &lt;td&gt;≈3,378&lt;/td&gt;
-          &lt;td&gt;≈3,932&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;股息支付&lt;/td&gt;
-          &lt;td&gt;725&lt;/td&gt;
-          &lt;td&gt;—&lt;/td&gt;
-          &lt;td&gt;1,075&lt;/td&gt;
-          &lt;td&gt;1,672&lt;/td&gt;
-          &lt;td&gt;1,502&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;回购金额&lt;/td&gt;
-          &lt;td&gt;0&lt;/td&gt;
-          &lt;td&gt;0&lt;/td&gt;
-          &lt;td&gt;0&lt;/td&gt;
-          &lt;td&gt;0&lt;/td&gt;
-          &lt;td&gt;79&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 id=&#34;因子-234-计算参数预提取&#34;&gt;因子 2/3/4 计算参数预提取&lt;/h4&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;25
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;26
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;27
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;28
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;29
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;30
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;31
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;32
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;33
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;34
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;35
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;36
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;37
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;38
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;39
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;40
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;41
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;═════ 市值与股价参数 ════
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;当前股价 = 50.44 元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;总股本（稀释后）= 6.09 亿股
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;当前市值 = 307.4 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;汇率 = 不适用（人民币计价）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;═════ 盈利参数 ════
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;集团净利润 A = 25.99 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;少数股东损益 B ≈ 0 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;GAAP 归母净利润 C = A − B = 25.99 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;主营经营利润（锚定口径）= 29.96 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;折旧摊销 D ≈ 8.00 亿元（基于固定资产8,531百万元，折旧率约5%+无形资产摊销估算）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;资本开支 E ≈ 15.67 亿元（2024年投资现金流净额绝对值）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;SBC ≈ 0 亿元（A股非股权激励为主）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;═════ 现金与负债参数 ════
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;现金及等价物 = 77.89 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;受限现金 CC ≈ 0 亿元（⚠️未找到明细，保守假设为0）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;短期投资（理财）= 15.36 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;持有至到期定期存款/理财 = 106.00 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;狭义现金合计 BB_narrow = 77.89 + 15.36 = 93.25 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;广义现金合计 BB = 199.25 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;合同负债/预收款 BB_contract ≈ 13.00 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;超广义现金 BB_super = 199.25 + 13.00 = 212.25 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;有息负债合计 = 87.90 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;狭义净现金 = 93.25 − 87.90 = 5.35 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;广义净现金 = 199.25 − 87.90 = 111.35 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;═════ 分配参数 ════
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;最新年报股息总额 = 15.02 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;最新年报归母净利润 = 25.99 亿元
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;最新年报支付率 = 57.80%
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;过去3年支付率序列 = [39.96%, 55.07%, 57.80%]
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;支付率均值 M_hist = 50.94%
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;最新派息信号 = DPS下降（10派24.8 vs 上年10派27.6），但支付率提升
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;年均回购金额 O = 0.79 亿元（仅2024年有回购）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;支付率锚定值 M = 50.94%（3年均值）
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;═════ 估值基准参数 ════
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Rf（十年期国债）= 1.78%
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;门槛 II = max(3.5%, 1.78% + 2%) = max(3.5%, 3.78%) = 3.78%
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;hr&gt;
-&lt;h3 id=&#34;模块一资本消耗强度&#34;&gt;模块一：资本消耗强度&lt;/h3&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;维度&lt;/th&gt;
-          &lt;th&gt;评估&lt;/th&gt;
-          &lt;th&gt;说明&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;固定资产/总资产&lt;/td&gt;
-          &lt;td&gt;24.2%&lt;/td&gt;
-          &lt;td&gt;8,531/35,225，制造业特征明显&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Capex/OCF&lt;/td&gt;
-          &lt;td&gt;28.5%&lt;/td&gt;
-          &lt;td&gt;15.67/54.99，资本消耗中等&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Capex/营收&lt;/td&gt;
-          &lt;td&gt;8.3%&lt;/td&gt;
-          &lt;td&gt;15.67/189.25，属于中等水平&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;在建工程&lt;/td&gt;
-          &lt;td&gt;5.50 亿元&lt;/td&gt;
-          &lt;td&gt;占总资产1.6%，扩张节奏放缓&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;资本消耗强度评级：中等&lt;/strong&gt; — 制造业属性决定了需要持续资本投入，但Capex/OCF比率尚可，且在建工程占比低表明扩张已放缓。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;说明：根据雪球用户对2024年报的拆解，欧派家居的&amp;quot;类现金资产&amp;quot;（货币资金+银行理财+各期限定期存款）合计约199.25亿元，远超报表货币资金77.89亿元的口径。受限现金的具体金额需查阅年报附注，⚠️未找到：受限现金具体明细（需年报附注&amp;quot;货币资金&amp;quot;科目披露）&lt;/p&gt;</description></item></channel></rss>
